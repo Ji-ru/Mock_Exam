@@ -1759,5 +1759,625 @@
       "uncured cheeses"
     ],
     "answer": 0
+  },
+  {
+    "q": "Salmonella sources are often:",
+    "choices": [
+      "reheated foods",
+      "starchy foods and mixtures like casseroles",
+      "cooled slowly and reheated foods",
+      "raw produce and uncooked foods of animal origin"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What must be fortified with folic acid?",
+    "choices": [
+      "skim milk",
+      "cornmeal",
+      "orange juice",
+      "canned vegetables"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Pie crust is moist the day after cooking. Why?",
+    "choices": [
+      "overcooking of the crust",
+      "retrogradation of filling",
+      "too much egg in the recipe",
+      "inadequate flour"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the main purpose of water in the body?",
+    "choices": [
+      "it acts as a medium for cell metabolism",
+      "it helps transport calcium through cell membranes",
+      "it maintains electrolyte balance",
+      "to maintain body temperature"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is fluid seeping from a congealed product called?",
+    "choices": [
+      "retrogradation",
+      "syncresis",
+      "coagulation",
+      "gelatinization"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a common cause of salmonella in a salad bar?",
+    "choices": [
+      "fresh fruit",
+      "egg salad",
+      "lettuce and tomatoes",
+      "pickles"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which food-borne pathogen would most likely contaminate cooked rice or pasta in open pans at room temperature?",
+    "choices": [
+      "Clostridium perfringens",
+      "Bacillus cereus",
+      "Staphylococcus, Bacillus cereus",
+      "Campylobacter jejuni, Bacillus cereus"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Frozen chicken has been thawed in warm water. You should:",
+    "choices": [
+      "prepare it immediately",
+      "discard it",
+      "refreeze it",
+      "refrigerate it"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "When substituting butter for lard in pastry,",
+    "choices": [
+      "use the same amount",
+      "use less",
+      "use more",
+      "use less and decrease the water content"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The purpose of an emulsifier in margarine is to:",
+    "choices": [
+      "keep water and fat from separating",
+      "keep water and fat separated",
+      "sustain the natural flavor of the ingredients",
+      "retain the color"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following must be reduced to simpler components before it can be transported across epithelial cells of the intestine?",
+    "choices": [
+      "dipeptides",
+      "whey",
+      "casein hydrolysate",
+      "crystalline amino acids"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Adding bran to a bread recipe will:",
+    "choices": [
+      "increase the volume",
+      "decrease the volume",
+      "require an increase in oven temperature",
+      "require a decrease in oven temperature"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "An angel food cake is made without cream of tartar. What is the result?",
+    "choices": [
+      "a yellowy cake",
+      "a bright white cake",
+      "a cake with large volume",
+      "a very tender cake"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "All baking powders contain:",
+    "choices": [
+      "sodium bicarbonate",
+      "tartrate",
+      "phosphate",
+      "acetate"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Beef bottom round should be cooked:",
+    "choices": [
+      "at a high temperature for a short time",
+      "in water for an extended time",
+      "in dry heat",
+      "in moist heat for a short time"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following combines with CoA in two carbon fragments to make acetyl CoA to then enter the Kreb’s cycle to make energy?",
+    "choices": [
+      "lactic acid",
+      "fatty acids",
+      "glucose",
+      "fructose"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the best way to cook a roast?",
+    "choices": [
+      "sear the meat first, roast at 400°F",
+      "cook slowly in the oven at 325°F",
+      "cook it at 400°F for 10 minutes, then at 350°F",
+      "brown the meat, then cook it at 350°F"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A #10 can holds how many cups?",
+    "choices": [
+      "10",
+      "11",
+      "13",
+      "15"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following has the most bacteria?",
+    "choices": [
+      "roast chicken",
+      "ground beef",
+      "roast veal",
+      "roast pork"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the product of pyruvate breakdown?",
+    "choices": [
+      "acetyl CoA",
+      "glycogen",
+      "NADPH",
+      "glucose-6-phosphate"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is true?",
+    "choices": [
+      "Fructose has sucrose",
+      "Fructose is less concentrated than glucose",
+      "Fructose takes longer to digest than glucose",
+      "Fructose is sweeter than glucose"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is correct?",
+    "choices": [
+      "Glucose is less sweet than sucrose.",
+      "Lactose is sweeter than glucose.",
+      "Glucose is sweeter than fructose.",
+      "Lactose is sweeter than fructose."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a grade for fresh produce?",
+    "choices": [
+      "US Select",
+      "US Grade A",
+      "US No. 1",
+      "US Standard"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which is most likely to be a cause of salmonella?",
+    "choices": [
+      "fresh fruit salad",
+      "canned fruit salad",
+      "Caesar salad",
+      "avocado salad"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What gives the structure to quick breads?",
+    "choices": [
+      "flour and milk",
+      "flour and water",
+      "egg and flour",
+      "egg"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "When taking an anticoagulant, avoid the following:",
+    "choices": [
+      "titanium supplements",
+      "vitamin E supplements above 400IU per day",
+      "supplements of calcium and vitamin D",
+      "niacin supplements"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is a function of cream of tartar in a recipe?",
+    "choices": [
+      "prevents the Maillard reaction",
+      "enhances the Maillard reaction",
+      "increases the alkalinity allowing for better leavening",
+      "enhances gelation"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The flour with the most starch is:",
+    "choices": [
+      "cake",
+      "whole wheat",
+      "instantized",
+      "durum"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Salmonella contamination in a foodservice can be best controlled by focusing on:",
+    "choices": [
+      "meat delivery procedures",
+      "sanitizing of the meat slicer",
+      "serving less meat",
+      "meat storage procedures"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Homemade rolls are crumbly and fall apart easily. The most likely cause of the poor texture in the yeast bread is:",
+    "choices": [
+      "use of a high-protein flour",
+      "use of a lower-protein flour",
+      "insufficient proofing time",
+      "excessive proofing time"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "According to Chinese beliefs, foods and herbs that may be used to treat illnesses are grouped as:",
+    "choices": [
+      "yin (bright, hot) / yang (dark,cold)",
+      "yin (dark,cold) / yang (bright, hot)",
+      "action / maintenance",
+      "harmful / beneficial"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A commercial muffin mix is described as a \"rich formula\", which means it contains:",
+    "choices": [
+      "high proportions of sugar and shortening",
+      "high-fructose corn syrup instead of crystalline sugar",
+      "high amounts of whey instead of nonfat dry milk solids",
+      "more chemical leavening than is used in a \"lean formula\""
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The greatest effect on the yield of meat cooked to a uniform internal temperature is produced by the:",
+    "choices": [
+      "type of oven and source of the heat",
+      "weight of meat and the oven load",
+      "degree of tempering and the grade of meat",
+      "cooking time and the oven temperature"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The most likely source of Clostridium perfringens is:",
+    "choices": [
+      "egg",
+      "meat",
+      "fruit",
+      "vegetable"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following will stabilize the egg in a recipe?",
+    "choices": [
+      "a base",
+      "an acid",
+      "sugar",
+      "salt"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A natural plant hormone that is used to ripen fruits is:",
+    "choices": [
+      "methanol",
+      "ethylene",
+      "acetyl acid",
+      "ethanol"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aseptically packaged milk should be stored:",
+    "choices": [
+      "in dry storage",
+      "in the refrigerator",
+      "in the freezer",
+      "below 40 degrees"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following has a slow onset and is anaerobic?",
+    "choices": [
+      "staphylococcus aureus",
+      "clostridium perfringens",
+      "clostridium botulinum"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A frozen meal contains steak, mashed potatoes, BHA, BHT and TYP. The TYP is used to:",
+    "choices": [
+      "add color",
+      "improve taste",
+      "retain water and add protein",
+      "act as an emulsifier"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If broccoli in a vegetable mixture turns olive green during holding, it may be due to:",
+    "choices": [
+      "lemon juice",
+      "baking soda",
+      "salt",
+      "sugar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In the alanine cycle, alanine is released from muscle, taken up by the liver, and:",
+    "choices": [
+      "excreted in the urine",
+      "deaminated to release glucose",
+      "converted into adipose",
+      "oxidized to nitric acid"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In the Cori cycle, lactate is converted into:",
+    "choices": [
+      "ribose",
+      "NADPH",
+      "pyruvate",
+      "acetyl coA"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Normal saline has ___ mEq sodium/L.",
+    "choices": [
+      "154",
+      "100",
+      "50",
+      "200"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An amylase deficiency would result in:",
+    "choices": [
+      "decreased gluconeogenesis",
+      "decreased lipolysis",
+      "decreased glycolysis",
+      "decreased proteolysis"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Fresh eggs in the shell can be stored in a refrigerator at 40 degrees for:",
+    "choices": [
+      "3 weeks",
+      "2 weeks",
+      "10 days",
+      "4 - 6 days"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Trypsin and chymotrypsin are:",
+    "choices": [
+      "pancreatic enzymes that provide proteolytic action",
+      "intestinal enzymes that digest starch",
+      "liver hormones involved in fat digestion",
+      "intestinal enzymes that digest protein"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Acid-base abnormalities in an uncontrolled diabetic are likely due to:",
+    "choices": [
+      "respiratory alkalosis",
+      "metabolic acidosis",
+      "respiratory acidosis",
+      "metabolic alkalosis"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A patient's nitrogen balance study showed he consumed 10 grams of protein and released 6 grams of nitrogen in the urine. This is:",
+    "choices": [
+      "nitrogen balance",
+      "negative nitrogen balance",
+      "positive nitrogen balance",
+      "plus 4 nitrogen balance"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Kidneys help control pH by:",
+    "choices": [
+      "excreting sodium and calcium",
+      "controlling the ratio of hydrogen ions to bicarbonate excretion",
+      "excreting carbon dioxide and carbonic acid",
+      "excreting NADPH"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Pernicious anemia is likely to occur following a:",
+    "choices": [
+      "colectomy",
+      "colostomy",
+      "gastrectomy",
+      "esophagostomy"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Looking at the following data, what is this person’s total insensible fluid loss? Input (ml) Output (ml) Oral fluids 2000 urine 2100 Solid foods 800 intestinal 250 Metabolic water 250 lungs and skin 700 Total 3050 Total 3050",
+    "choices": [
+      "700 ml",
+      "950 ml",
+      "2100 ml",
+      "3050 ml"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which pigment can be converted into a vitamin?",
+    "choices": [
+      "chlorophyll",
+      "carotenoids",
+      "anthocyanin",
+      "anthoxanthins"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The amount of ceruloplasmin is affected by what disease?",
+    "choices": [
+      "Addison’s disease",
+      "Pheochromocytoma",
+      "Cushing’s syndrome",
+      "Wilson’s disease"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "An edematous person may actually be dehydrated because:",
+    "choices": [
+      "intravascular fluid is retained",
+      "intravascular fluid is diluted",
+      "fluid is retained intracellularly",
+      "fluid is retained extracellularly"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What usually occurs when iso-caloric amounts of omega 3 fatty acids are substituted for saturated fatty acids?",
+    "choices": [
+      "increased HDL, reduced LDL",
+      "decreased triglycerides, lower total cholesterol",
+      "decreased triglycerides, little change in total cholesterol",
+      "lower HDL, increased LDL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "When substituted for saturated fats in the diet, which of the following oils will likely lower total cholesterol but also lower HDL cholesterol?",
+    "choices": [
+      "olive oil",
+      "canola oil",
+      "peanut oil",
+      "safflower oil"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "You are a Food Service Dietitian and would like to make lower fat brownies. What is the best way to cut the fat?",
+    "choices": [
+      "use margarine instead of butter",
+      "cut out all the fat",
+      "cut out half the fat",
+      "use prune puree in place of half the fat"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "You want to keep lemon meringue pie at its peak. What should you do?",
+    "choices": [
+      "add sugar with eggs",
+      "add flour with butter",
+      "keep the pie at room temperature",
+      "keep the pie refrigerated"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A child is lethargic and irritable with diarrhea. The cause may be:",
+    "choices": [
+      "zinc toxicity",
+      "lead poisoning",
+      "iron overload",
+      "vitamin A toxicity"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A child is at the 95th percentile BMI for age. He is:",
+    "choices": [
+      "normal",
+      "obese",
+      "overweight",
+      "tall for his age"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A child is at the 85th percentile for BMI. He is:",
+    "choices": [
+      "overweight",
+      "tall for his age",
+      "muscular for his age",
+      "normal weight"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How many calories are needed by a full-term infant weighing 11 pounds at 3 months of age?",
+    "choices": [
+      "108",
+      "365",
+      "540",
+      "720"
+    ],
+    "answer": 2
   }
+
 ]
