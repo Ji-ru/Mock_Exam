@@ -1,0 +1,4312 @@
+[
+      {
+    "q": "In community surveys, a frequent symptom of malnutrition is:",
+    "choices": [
+      "scurvy",
+      "rickets",
+      "low serum albumin",
+      "low hemoglobin"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which is the least common symptom in the elderly?",
+    "choices": [
+      "osteomalacia",
+      "osteoporosis",
+      "obesity",
+      "hypertension"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is included in the study of demographics? I. age of individuals III. sex of individuals II. population statistics IV. socioeconomic factors",
+    "choices": [
+      "I only",
+      "all of the above",
+      "II, III",
+      "I, II, III"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Athletes should receive...",
+    "choices": [
+      "salt pills only during the summer months",
+      "extra protein",
+      "carbohydrate loading two weeks prior to an event",
+      "water during an event to replace lost fluids"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "How many grams of protein would you receive on a 1500 calorie diet which is 20% protein?",
+    "choices": [
+      "70",
+      "75",
+      "64",
+      "300"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A patient is on a high protein, low carbohydrate diet. What advice should you offer?",
+    "choices": [
+      "increase fluid intake",
+      "decrease the intake of complex carbohydrates",
+      "decrease fluid intake",
+      "decrease the intake of saturated fats"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An insulin-dependent diabetes living alone calls you with symptoms of nausea, vomiting and anorexia. What do you recommend?",
+    "choices": [
+      "continue with insulin and eat anything he can",
+      "continue with insulin and drink anything he can",
+      "discontinue the insulin until he feels better",
+      "discontinue the insulin and eat whatever he can"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which infant is at the greatest risk?",
+    "choices": [
+      "20 lbs. hemoglobin 10",
+      "22 lbs. hemoglobin 10.5",
+      "19 lbs. hemoglobin 11",
+      "30 lbs. hemoglobin 9"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the infants in the above question have a normal hemoglobin level?",
+    "choices": [
+      "a, b, d",
+      "b, d",
+      "c, d",
+      "a, b, c"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "An alcoholic patient has a low serum albumin, low hemoglobin, high ammonia, abnormal liver function tests and ascites. Why is he on a 500mg sodium diet?",
+    "choices": [
+      "secondary renal failure",
+      "hypoaldosteronism",
+      "hypoalbuminemia",
+      "hyperammonemia"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following should the patient in the above question have for lunch?",
+    "choices": [
+      "4 ounces cottage cheese",
+      "1 ounce cheddar cheese",
+      "1 ounce roast beef",
+      "1 ounce cold cuts"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following should be included in the diet for celiac disease? I. decrease intake of eggs II. use potato and rice flour III. IM vitamin B₁₀ and iron IV. low calorie, high fat, high protein",
+    "choices": [
+      "II, III",
+      "III, IV",
+      "I, II, IV",
+      "II, IV"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Who is most at risk for gestational diabetes?",
+    "choices": [
+      "BMI <30",
+      "age <25, overweight",
+      "BMI > 30, history of GSM",
+      "conception within 10 months of last pregnancy"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A child is lethargic, irritable with diarrhea. The cause may be:",
+    "choices": [
+      "zinc toxicity",
+      "lead poisoning",
+      "iron overload",
+      "vitamin A toxicity"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "How many calories are in 300ml of a 5% dextrose solution?",
+    "choices": [
+      "51",
+      "60",
+      "15",
+      "200"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A single 19 year old female is 6 months pregnant. She has not gained any weight and has not seen a physician. Hemoglobin is 9. Hematocrit is 30. What is the most important recommendation for her?",
+    "choices": [
+      "see a physician immediately",
+      "apply for WIC immediately",
+      "join a teenage pregnancy support group",
+      "begin taking iron supplements"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A female, 57\" tall, weighs 115 lbs. Six months ago she weighed 130 lbs. What is her percent of ideal body weight?",
+    "choices": [
+      "85%",
+      "83%",
+      "81%",
+      "87%"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A vegan is allergic to milk. Which nutrients would you expect might be deficient in her intake?",
+    "choices": [
+      "protein, calories",
+      "vitamin B12, D",
+      "vitamin C, calcium",
+      "vitamin A, D"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A patient with Crohn's disease needs the following diet: I. high fat, high calorie, high protein II. low fat only with stentorrhea, vitamin C, B12 III. high calorie, high protein according to current BMI IV. high residue, low fat, fat soluble vitamins V. low calorie, low residue, fat soluble vitamins, B12",
+    "choices": [
+      "I",
+      "II, III",
+      "III, IV",
+      "V"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following diets is appropriate for reactive hypoglycemia?",
+    "choices": [
+      "reduce intake of concentrated carbohydrates, 5-6 small meals",
+      "increased complex carbohydrate, low fat, high protein",
+      "decreased complex carbohydrate, low fat",
+      "high protein, high fat, high carbohydrate"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which patient has marasmus? Patient A Patient B Patient C Male Female Male serum albumin 3.5 2.6 4.0 transferrin 275 125 450 triceps skinfold 3 16.8 17 MAMC 15 24.1 28.1 TLC 1000 3500",
+    "choices": [
+      "A",
+      "B",
+      "C",
+      "A,B"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When assessing nutritional status, which would be the most beneficial?",
+    "choices": [
+      "24 hour recall, history of weight changes",
+      "medical history, diet order, socioeconomic status",
+      "clinical observation, weight status, cultural habits",
+      "diet intake info, clinical data, laboratory data"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The first function of the public health nutritionist is:",
+    "choices": [
+      "assess the needs of the community",
+      "counsel patients with special dietary needs",
+      "write pamphlets for educational purposes",
+      "expand the role of Dietitians"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What nutrients most affect the renal solute load?",
+    "choices": [
+      "protein and carbohydrate",
+      "sodium and carbohydrate",
+      "protein and sodium",
+      "sodium and fat"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The elderly need how many ml of water per KG?",
+    "choices": [
+      "35",
+      "45",
+      "30",
+      "25"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "According to the Diabetic Exchange Lists, when substituting 2% milk for skim milk, you must omit how many fat exchanges?",
+    "choices": [
+      "1/2",
+      "1",
+      "1/2",
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If a man normally consuming 2600 calories per day reduces his intake to 1500 calories per day, how much weight will he lose in one week?",
+    "choices": [
+      "0.5 KG",
+      "1.0 KG",
+      "1.5 KG",
+      "2.0 KG"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "For which of the following diseases is diet therapy the primary treatment?",
+    "choices": [
+      "peptic ulcer",
+      "diabetes",
+      "Wilson’s disease",
+      "galactosemia"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following best reflects protein status?",
+    "choices": [
+      "serum albumin",
+      "serum transferrin",
+      "cerebellar binding protein",
+      "prealbumin"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Following a Billroth II, steatorrhea often results. What is the likely cause?",
+    "choices": [
+      "bacterial overgrowth in the remaining loop",
+      "lack of pancreatic secretion due to less duodenal hormone secretion",
+      "a diet restricting simple carbohydrates",
+      "rapid absorption of simple carbohydrates"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Meats curd with whey won’t be tolerated by someone with: I. lactose intolerance II. diabetes III. post-gastrectomy of 3 months IV. duodenectomy",
+    "choices": [
+      "I, II, III",
+      "II, III, IV",
+      "I",
+      "I, III, IV"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Chemically defined formulas are used for:",
+    "choices": [
+      "short bowel syndrome",
+      "post chemotherapy treatment",
+      "hypermetabolism",
+      "galactosemia"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A PEG feeding would be useful in a patient with:",
+    "choices": [
+      "head or neck cancer, who will not be able to eat normally for weeks",
+      "short bowel syndrome",
+      "duodenal ulcers",
+      "pancreatitis"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A patient with hepatitis needs a high protein intake. Besides helping the liver to regenerate, what other purpose is served?",
+    "choices": [
+      "it helps increase iron absorption",
+      "it restores glycogen reserves",
+      "it helps prevent a fatty liver",
+      "it helps prevent necrosis of the liver"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The additive influence of foods and constituents which when eaten have a beneficial effect on health refers to:",
+    "choices": [
+      "nutraceuticals",
+      "food synergy",
+      "positive corollaries",
+      "medical foods"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which foods are most likely to cause an allergic reaction?",
+    "choices": [
+      "shellfish, peanuts, wheat",
+      "wheat, chocolate, rice",
+      "citrus fruits, milk, corn",
+      "chocolate, milk, corn"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which set of conditions is most commonly seen in American children?",
+    "choices": [
+      "obesity, dental caries, anemia",
+      "hypertension, dental caries, rickets",
+      "hyperkinesis, anemia, dental caries",
+      "diabetes, obesity, anemia"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A 1500 calorie diabetic diet with 45% of the calories from carbohydrate is prescribed. One third of the carbohydrate grams is met with 1/2 cup orange juice, 1 cup milk, and:",
+    "choices": [
+      "a slice toast",
+      "a slices toast",
+      "a slices toast and 1/2 cup oatmeal",
+      "1/2 slice toast"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a medium fat meat?",
+    "choices": [
+      "peanut butter",
+      "tuna packed in water",
+      "corned beef",
+      "chicken without skin"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which government agency would you contact regarding food distribution?",
+    "choices": [
+      "USDA",
+      "FDA",
+      "HHS",
+      "Foods Stamps"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which has the greatest effect on the renal solute load?",
+    "choices": [
+      "potassium",
+      "sodium",
+      "glucose",
+      "protein"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which is not a fiber in the diet?",
+    "choices": [
+      "cellulose",
+      "hemicellulose",
+      "amylose",
+      "pectin"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the diet for hypertension?",
+    "choices": [
+      "low sodium",
+      "low sodium, high potassium",
+      "low sodium, high calcium",
+      "low sodium, high potassium, high calcium"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The NHANES study looks at which parameters?",
+    "choices": [
+      "nutritional",
+      "nutritional, clinical",
+      "nutritional, biochemical",
+      "nutritional, clinical, biochemical"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is a major reason for constipation in the elderly?",
+    "choices": [
+      "a diet low in high residue foods",
+      "a diet high in low residue foods",
+      "decreased gastric motility",
+      "lack of physical exercise"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A 11 month old infant is at the g5th percentile weight for age and has been for the past 9 months. What should you do?",
+    "choices": [
+      "recommend increasing food intake by 25%",
+      "recommend decreasing food intake by 50%",
+      "nothing, he is fine",
+      "watch his growth over the next six months"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A 62\" male, large frame, 230 lbs. with Type II diabetes should:",
+    "choices": [
+      "gain 5 lbs. to be at desirable body weight",
+      "lose 20 lbs. slowly following balanced diet",
+      "lose 20 lbs. in 4 weeks on an 800 calorie diet",
+      "lose 10 lbs. slowly by following a balanced diet"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A patient with chronic pancreatitis should consume oral pancreatic enzymes:",
+    "choices": [
+      "with large meals and fatty foods",
+      "only if steatorrhea increases",
+      "with all meals and snacks",
+      "only if consuming a high fat, low protein diet"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If a patient is about to be discharged when you receive the discharge diet order, you should......",
+    "choices": [
+      "Give him something to take home",
+      "There is not enough time so forget it.",
+      "Enroll him in the Outpatient Clinic and schedule an appointment.",
+      "Teach him what you can in the time you have now."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Following a cholecystectomy, bile is produced by the:",
+    "choices": [
+      "pancreas",
+      "liver",
+      "spleen",
+      "portal vein"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "How many calories are in 1.5 liters of a 25% dextrose solution?",
+    "choices": [
+      "850",
+      "1275",
+      "1000",
+      "1500"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Research suggests that in order to guard against cancer you should ingest:",
+    "choices": [
+      "carotene and vitamin C",
+      "vitamins C and B12",
+      "protein and vitamin A",
+      "vitamins E and K"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following may be the cause of loose stools in a tube fed patient? I. feeding was administered at too rapid a rate II. the osmolality of the feeding was too low III. the patient is constipated IV. an inadequate amount of intestinal surface area",
+    "choices": [
+      "I",
+      "I, II",
+      "II, III",
+      "I, IV"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "An elevated T₄ indicates:",
+    "choices": [
+      "galactosemia",
+      "hypothyroidism",
+      "hyperthyroidism",
+      "ketomiria"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Before discontinuing a parenteral feeding, provide enteral support to prevent:",
+    "choices": [
+      "development of a fatty liver",
+      "ketoacidosis",
+      "hypoglycemia",
+      "hepatic encephalopathy"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following weight gains puts pregnant women at risk?",
+    "choices": [
+      "less than 4 lbs/month in the last half of pregnancy",
+      "less than 3 lbs/month in the last half of pregnancy",
+      "less than 6 lbs/month in the last half of pregnancy",
+      "more than 2 lbs/month in the last half of pregnancy"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Iron deficiency anemia has the following characteristics:",
+    "choices": [
+      "large cells laden with hemoglobin, hypochromic, microcytic",
+      "small, pale cells, hypochromic, microcytic",
+      "large cells laden with hemoglobin, macrocytic, megaloblastic",
+      "small, pale cells, macrocytic, megaloblastic"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which hormone moves milk through the mammary ducts?",
+    "choices": [
+      "prolactin",
+      "progesterone",
+      "estrogen",
+      "oxytocin"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which anthropometric measurements are useful in assessing adults?",
+    "choices": [
+      "triceps skinfold, head circumference, arm muscle circumference",
+      "head circumference, arm muscle circumference, height, weight",
+      "serum albumin, triceps skinfold",
+      "triceps skinfold, arm muscle circumference, height, weight"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which is a measure of somatic protein?",
+    "choices": [
+      "serum albumin",
+      "serum transferrin",
+      "mid-arm muscle circumference",
+      "triceps skinfold"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Muscle mass is determined using the:",
+    "choices": [
+      "triceps skinfold and arm circumference",
+      "skinfold caliper",
+      "BEE"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Gastric irritants include:",
+    "choices": [
+      "black pepper, chili powder, caffeine, alcohol, cocoa",
+      "seeds, nuts, chili powder, black pepper, alcohol",
+      "caffeine, black pepper, nuts, alcohol",
+      "orange juice, black pepper, chili powder, alcohol"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Good advice for a patient with a hiatal hernia is to:",
+    "choices": [
+      "increase intake of complex carbohydrates",
+      "lower the fat content of the diet",
+      "don’t eat before bed",
+      "avoid coffee"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The dumping syndrome: I. follows a gastrectomy II. is secondary to carbohydrate overload III. draws fluid into the intestine IV. needs a high carbohydrate diet",
+    "choices": [
+      "I, III, IV",
+      "II, III, IV",
+      "I",
+      "I, II, III"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Nutritional therapy for hepatitis includes:",
+    "choices": [
+      "high protein, high carbohydrate, moderate fat, high calories",
+      "high protein, low carbohydrate, low fat, moderate calories",
+      "low protein, high carbohydrate, low fat, high calories",
+      "low protein, high carbohydrate, low fat, low calories"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Esophageal varices may be caused by:",
+    "choices": [
+      "portal hypotension",
+      "portal hypertension",
+      "a high fiber diet",
+      "a high fiber, high residue diet"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The diet for hepatic coma is low in protein due to:",
+    "choices": [
+      "low ammonia levels",
+      "high cholesterol levels",
+      "high ammonia levels",
+      "high LDL"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In cystic fibrosis, the most impaired nutrient is:",
+    "choices": [
+      "protein",
+      "disaccharides",
+      "electrolytes",
+      "fat"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Hormones that control blood pressure and blood components are produced in:",
+    "choices": [
+      "the heart",
+      "the liver",
+      "the kidneys",
+      "the lungs"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "An acid ash would be created by ingesting:",
+    "choices": [
+      "corn, cranberries",
+      "milk",
+      "vegetables",
+      "fruits"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Symptoms of nephrosis include:",
+    "choices": [
+      "dehydration, hypocholesterolemia",
+      "albuminuria, hypercholesterolemia",
+      "edema, hypocholesterolemia",
+      "hypotension, hyperalbuminemia"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The catecholamines released during stress cause:",
+    "choices": [
+      "hypertension",
+      "hyperglycemia",
+      "diuresis",
+      "elevated BUN"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which is a part of the nutritional therapy for IDDM in a lean person?",
+    "choices": [
+      "time meals",
+      "decrease calorie intake",
+      "it is not crucial to maintain consistency of calories if average intake is low",
+      "decrease the frequency of feedings"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Increased serum uric acid levels may lead to:",
+    "choices": [
+      "galactosemia",
+      "glycogen storage disease",
+      "gout",
+      "PKU"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The diet for galactosemia should exclude:",
+    "choices": [
+      "high fat foods",
+      "high cholesterol foods",
+      "organ meats, MSG",
+      "simple carbohydrates"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The ketogenic diet is used to help treat:",
+    "choices": [
+      "cystic fibrosis",
+      "seizures",
+      "chronic renal failure",
+      "hypotension"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Immediately following a severe burn, nutritional therapy should include:",
+    "choices": [
+      "high calories",
+      "high protein",
+      "high calories, vitamins, minerals",
+      "fluid and electrolyte replacement"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The theory of obesity that refers to receptors in the hypothalamus is the:",
+    "choices": [
+      "lipostatic theory",
+      "set point theory",
+      "glucostatic theory",
+      "glucose-obese theory"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The VMA test diet measures:",
+    "choices": [
+      "fat malabsorption",
+      "total catecholamines",
+      "protein malabsorption",
+      "vitamin, mineral absorption"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A fecal excretion of ___ grams of fat/24 hours is considered fat malabsorption.",
+    "choices": [
+      "less than 1",
+      "more than 7",
+      "3 - 5",
+      "2 - 4"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Iatrogenic malnutrition is:",
+    "choices": [
+      "vitamin and mineral malabsorption",
+      "protein malabsorption",
+      "protein, calorie malnutrition",
+      "kwashiorkor"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What are the similarities between WIC and Food Stamps? I. regulated by USDA II. have at risk criteria III. have income criteria IV. a health exam is required",
+    "choices": [
+      "I, II, III, IV",
+      "I, II, III",
+      "II, III, IV",
+      "I, III"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A 60 KG female receives 2700 calories on PN. The calorie to nitrogen ratio is 150:1. How many grams of nitrogen is she getting?",
+    "choices": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What type of food would you feed to a patient who has the atheroid form of cerebral palsy?",
+    "choices": [
+      "milk-based products",
+      "finger foods like a hot dog in a roll",
+      "milk-free products",
+      "galactose-free foods"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Osteoporosis is most likely to occur in:",
+    "choices": [
+      "the physically active adult",
+      "a non-smoker",
+      "a Black female",
+      "a White female"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which is a quick diet assessment tool for a large group?",
+    "choices": [
+      "food frequency lists",
+      "diet history forms",
+      "weighing food samples and recording intake",
+      "food records"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Compared to human milk, commercially prepared infant formula is:",
+    "choices": [
+      "similar in nutrient content",
+      "equivalent to human milk in nutrient content and antibodies",
+      "higher in protein and iron but lacks antibodies",
+      "lower in protein and iron and lacks antibodies"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is not associated with anorexia nervosa?",
+    "choices": [
+      "food aversions",
+      "distorted body image",
+      "schizophrenia",
+      "constant concern about weight status"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the appropriate advice for a person with anorexia nervosa?",
+    "choices": [
+      "offer a wide variety of foods and frequent feedings",
+      "offer liquids high in calories and protein",
+      "offer nasogastric feedings",
+      "regular mealtimes, and a varied moderate intake"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A female who eats a wide variety of foods and takes supplemental iron and birth control pills may be:",
+    "choices": [
+      "marginally deficient in folic acid",
+      "low in calcium",
+      "low in vitamin A",
+      "low in zinc"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The immobilized state can lead to low levels of:",
+    "choices": [
+      "albumin and calcium",
+      "albumin and sodium",
+      "calcium and potassium",
+      "potassium and zinc"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A man with a peptic ulcer should consume:",
+    "choices": [
+      "milk every two hours",
+      "a bland diet",
+      "a balanced diet he can tolerate",
+      "a low roughage diet"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A cholesterol level of 240 mgs needs treatment first with:",
+    "choices": [
+      "diet",
+      "diet and drugs",
+      "drugs",
+      "exercise, diet and drugs"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An infant formula for lactose intolerance might include: I. whey, coconut oil II. casein hydrolysate, corn oil, glucose III. soy protein, corn syrup solids IV. sodium caseinate, hydrolyzed cornstarch",
+    "choices": [
+      "I, II, III",
+      "II, III",
+      "II",
+      "I, III"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A patient with nephrosis will likely exhibit:",
+    "choices": [
+      "hypercholesterolemia, albuminemia, edema",
+      "hypertension, hypocholesterolemia",
+      "hypotension, azotemia",
+      "malnutrition, hyperalbuminemia"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The above patient should receive how many grams of protein per KG?",
+    "choices": [
+      "-5 - 6",
+      "-8 - 8",
+      "-8 - 10",
+      "10 - 14"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Fiber, like that found in oats, beans and bran cereals, results in:",
+    "choices": [
+      "increased water absorption from the intestine",
+      "binding of bile acids",
+      "decreased sodium excretion in the stool",
+      "small, compact stools"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A patient suffering from bulimia may have all of the following symptoms except:",
+    "choices": [
+      "a sore throat",
+      "dental problems",
+      "extreme weight loss",
+      "rectal bleeding"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The efficacy of a low sugar, low artificial flavor diet on hyperkinesis is:",
+    "choices": [
+      "it works in two out of three patients",
+      "it has not been scientifically proven effective",
+      "it has never been tested",
+      "it has been proven effective"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is not a sign of marasmus?",
+    "choices": [
+      "severe protein and calorie wasting",
+      "weight loss",
+      "edema",
+      "low anthropometric measurements"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Urea excretion is related to ___, while creatinine excretion is related to ___",
+    "choices": [
+      "muscle mass, protein intake",
+      "protein intake, muscle mass",
+      "protein intake, adipose reserves",
+      "protein intake, calcium intake"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A patient has a rare urea disease where the body is unable to synthesize urea. What might be the result?",
+    "choices": [
+      "elevated ammonia levels",
+      "elevated BUN",
+      "elevated glucagon levels",
+      "compromised visceral protein levels"
+    ],
+    "answer": 0
+  },
+    {
+    "q": "Which statement applies to nutritional screening?",
+    "choices": [
+      "Only a physician makes the referral",
+      "Only a Dietitian makes the referral",
+      "It is exclusively done by Nursing",
+      "All health team members can participate according to policy."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A sandwich with two pieces of white bread and two ounces of turkey provides how many calories?",
+    "choices": [
+      "250",
+      "145",
+      "198",
+      "290"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Current research on the relationship between cancer and diet includes all of the following except...",
+    "choices": [
+      "cancer is associated with the intake of vitamin A",
+      "it is related to demographic factors",
+      "it is related to epidemiologic data",
+      "it is associated with ascorbic acid"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Two liters of a 5% dextrose solution provide how many calories?",
+    "choices": [
+      "170",
+      "340",
+      "212",
+      "195"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "When instructing a patient on diet therapy needed during intake of a monoamine oxidase inhibitor, which would not be included?",
+    "choices": [
+      "milk, cottage cheese, yogurt",
+      "yogurt, ricotta cheese",
+      "swiss cheese, yogurt",
+      "cheddar cheese, swiss cheese"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Catecholamines have what physiological effect?",
+    "choices": [
+      "induce diuresis",
+      "cause hypoglycemia",
+      "cause sodium retention",
+      "cause potassium retention"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A patient with dehydration exhibits the symptoms of:",
+    "choices": [
+      "high blood pressure, dizziness",
+      "sunken eyes, decreased renal function, increased tachycardia",
+      "decreased BUN, decreased serum creatinine",
+      "low blood pressure, low serum sodium"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Why would a man who eats very little protein have an albumin of 5.5g/dl?",
+    "choices": [
+      "Carbohydrate keeps albumin levels elevated.",
+      "He is dehydrated.",
+      "Serum albumin falls quickly with protein deprivation.",
+      "It is a sign of protein malnutrition."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The diet for stomatitis is:",
+    "choices": [
+      "low fat, high carbohydrate, normal protein",
+      "avoid spices, very hot, very cold, sour, tart foods",
+      "high protein, high carbohydrate",
+      "liquids, mostly carbohydrates"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The BMI for a woman who is 5'7\" tall and weighs 148 lbs. indicates:",
+    "choices": [
+      "underweight",
+      "normal weight",
+      "overweight",
+      "obese"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is not a guideline for Medicaid? I. low income II. over the age of 60 only III. nutritional need",
+    "choices": [
+      "I",
+      "II, III",
+      "II",
+      "III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which survey is repeated every few years?",
+    "choices": [
+      "NHANES",
+      "WHO",
+      "Ten State",
+      "FAO"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The Year 2010 Healthy People Goals are an outgrowth of a report by:",
+    "choices": [
+      "ADA",
+      "the Surgeon General, under HHS",
+      "WHO",
+      "FAO"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "An example of a \"Healthy People\" goal is:",
+    "choices": [
+      "a decrease in saturated fat consumption",
+      "an increase in iron intake",
+      "a decrease in infant mortality",
+      "an increase in the intake of complex carbohydrates"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When a starved patient begins to eat, they might expect:",
+    "choices": [
+      "constipation",
+      "an increased workload on the heart",
+      "lethargy",
+      "diarrhea"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following would be classified as NB in the NCP?",
+    "choices": [
+      "hypermetabolism",
+      "inadequate external intake",
+      "impaired ability to prepare foods",
+      "excessive protein intake"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The immediate post-stress release of glucagon:",
+    "choices": [
+      "increases glucose uptake into cells",
+      "increases glucose release into the bloodstream",
+      "increases insulin release",
+      "increases fluid and sodium excretion"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is the appropriate diet for peritoneal dialysis?",
+    "choices": [
+      "5 grams protein, 35 calg/KG",
+      "2.0 grams protein, 30 calg/KG",
+      "1.5 grams protein, 30 calg/KG",
+      "1.0 grams protein, 35 calg/KG"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is an example of a program that provides food to the needy?",
+    "choices": [
+      "the Food Bank",
+      "the Food Stamp Program",
+      "the Child Care Program",
+      "WIC"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which formula is high in calories and low in protein?",
+    "choices": [
+      "AminAid",
+      "Osmoline",
+      "Sustacal",
+      "Jewly"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the goal of the Dietary Guidelines?",
+    "choices": [
+      "prevention of chronic disease",
+      "provide standards for Food Stamp allocation",
+      "provide standards for WIC",
+      "provide standards for EFNEP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If an IDDM tells you she eats meals on an irregular schedule, you should:",
+    "choices": [
+      "obtain more information about her usual eating habits",
+      "explain that insulin therapy is related to intake",
+      "do nothing if blood sugar levels are okay",
+      "ask her to complete a detailed food record"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The allowance for Food Stamps is based on:",
+    "choices": [
+      "the average cost of food used by a family of the same size",
+      "the USDA Thrilly Food Program",
+      "data from the Congregate Meal Program",
+      "the cost of the Basic Four"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A single man with two daughters, ages 10 and 11, is looking for aid. Which program might provide assistance?",
+    "choices": [
+      "WIC",
+      "Food Stamps",
+      "Child Care Food Program",
+      "Headstart"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Why is an affluent couple (the man with diabetes, 67 years old, and the wife with a broken arm, 50 years of age) not eligible for Meals on Wheels?",
+    "choices": [
+      "she is too young",
+      "they are affluent",
+      "this program does not cater to special diets",
+      "they can leave the house"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which is permitted on a diet which excludes gluten?",
+    "choices": [
+      "rye",
+      "corn",
+      "barley",
+      "wheat bread"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which nutrients are involved in energy metabolism?",
+    "choices": [
+      "pyridoxine and cyanocobalamin",
+      "copper and zinc",
+      "pantothenic acid and biotin",
+      "blue acid and iron"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Where can a pregnant teen learn to cook?",
+    "choices": [
+      "EFNEP",
+      "Child Nutrition Services",
+      "UNICEF",
+      "WIC"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In metabolic acidosis, which of the following is involved?",
+    "choices": [
+      "excretion of potassium",
+      "excess calcium retention",
+      "excretion of sodium bicarbonate",
+      "excess calcium loss"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "How can you enhance usage of commodity foods from a food donation program?",
+    "choices": [
+      "teach food donation staff how to use the items",
+      "make a poster on usage",
+      "give each participant recipes using the food items",
+      "calculate the amounts of nutrients provided in the donated foods"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A poor, healthy 19 year old mother is unsure how to feed her 4 year old child. Which program may offer her the most help?",
+    "choices": [
+      "EFNEP",
+      "WIC",
+      "HHS",
+      "CACFP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An athlete weighs more than the average person of his height. What should you do first?",
+    "choices": [
+      "put him on a slow weight reduction diet",
+      "examine other anthropometric measurements",
+      "have him increase his exercise",
+      "suggest he drink more water"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The most effective nutrition assessment method for large groups is the:",
+    "choices": [
+      "food diary",
+      "24 hour recall",
+      "food frequency list",
+      "diet history"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which is the most appropriate bedtime snack for a diabetic on NPH insulin?",
+    "choices": [
+      "apple juice and crackers",
+      "graham crackers and diet soda",
+      "fresh fruit and crackers",
+      "cheese and crackers"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What can be done to lower the respiratory quotient of a tube fed pulmonary patient?",
+    "choices": [
+      "add MCT oil to decrease energy required for growth",
+      "change the type of fat to improve oxygen exchange",
+      "add carbohydrate to decrease the respiratory quotient",
+      "add a fat emulsion to replace some of the carbohydrate"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which correlates best with energy intake?",
+    "choices": [
+      "lean body mass",
+      "triceps skinfold",
+      "body mass index",
+      "body weight"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following most affects osmolarity?",
+    "choices": [
+      "protein",
+      "sugar",
+      "electrolytes",
+      "fat"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which fiber is insoluble in water?",
+    "choices": [
+      "pectin",
+      "gums",
+      "hemicellulose",
+      "polysaccharides"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "An infant wants a bottle at bedtime. You should counsel the parents to:",
+    "choices": [
+      "give the bottle only at bedtime",
+      "give the bottle only if the baby insists",
+      "only give milk in the bottle",
+      "only give water in the bottle"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A diabetic wants to exchange his bedtime snack of 8 ounces whole milk. What do you suggest?",
+    "choices": [
+      "1 oz. cheese and 1/2 cup orange juice",
+      "2 graham crackers and 1/2 cup orange juice",
+      "1 ounce cheese",
+      "2 ounces cheese"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following may result in hypoalbuminemia?",
+    "choices": [
+      "amino acid supplementation prior to surgery",
+      "a high protein diet with inadequate water",
+      "providing only a 5% dextrose in water solution after stress",
+      "giving a trauma patient enteral feeding only"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A mother with 2 daughters, ages 8 and 11, does not earn enough money to feed her family. Which program would you suggest?",
+    "choices": [
+      "WIC",
+      "Food Stamps",
+      "Child Care Food Program",
+      "Medicaid"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which drink would a Mormon choose?",
+    "choices": [
+      "cola",
+      "7-Up",
+      "tea",
+      "coffee"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What section of the intestine is most likely to be involved in Crohn’s disease?",
+    "choices": [
+      "ileum",
+      "jejunum",
+      "duodenum",
+      "appendix"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following would be classified as NC in the NCP?",
+    "choices": [
+      "inadequate vitamin intake",
+      "limited access to food",
+      "swallowing difficulty",
+      "inappropriate intake of food fats"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "An infant’s failure to thrive can be seen in:",
+    "choices": [
+      "their behavior",
+      "comparison with growth charts",
+      "weight for height",
+      "height for age"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following has the fewest calories?",
+    "choices": [
+      "plain hamburger on a bun",
+      "chef’s salad with dressing",
+      "green salad with Thousand Island dressing, and shredded cheese",
+      "fried fish sandwich"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following indicates protein calorie malnutrition?",
+    "choices": [
+      "a creatinine height index of 93%",
+      "height for weight ratio of 69%",
+      "triceps skinfold and arm muscle circumference of 79%",
+      "serum albumin of 4.5: transferrin of 410"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A child with AIDS needs a high calorie and ______ intake.",
+    "choices": [
+      "megalobe vitamins",
+      "high protein",
+      "low fat",
+      "low residue"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "An appropriate measurement for iron status in a local community is:",
+    "choices": [
+      "serum iron",
+      "transferrin",
+      "TIBC",
+      "hematocrit"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following may help decrease cavities?",
+    "choices": [
+      "raisins",
+      "carrots",
+      "cheese",
+      "yogurt"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which test helps you determine if a diabetic has been following his diet?",
+    "choices": [
+      "blood glucose",
+      "urine ketones",
+      "glycosylated hemoglobin",
+      "urine sugar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "You discover an incorrect diet order entered in the patient’s chart.",
+    "choices": [
+      "Chart the order as incorrect.",
+      "File the order because it was written by a physician.",
+      "Discuss the order with the physician and make suggestions.",
+      "Change the order in the chart."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the best therapy for weight loss?",
+    "choices": [
+      "reducing 500 calories per day, and exercise",
+      "support groups, exercise, diet control.",
+      "exercise, diet, behavior modification",
+      "exercise and diet control"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which is most associated with the incidence of Type 2 diabetes?",
+    "choices": [
+      "sugar intake",
+      "protein intake",
+      "overweight",
+      "salt intake"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "According to the ADA exchange lists, what is the nutrient content of the following: 1 cup cantaloupe, 1/2 cup cereal, 1 cup 1% milk, 1 tsp. margarine, 1 tsp. low sugar jelly, black coffee, 1 slice toast.",
+    "choices": [
+      "calories 397 protein 12 CHO 61 fat 6.5",
+      "calories 346 protein 12 CHO 52 fat 9",
+      "calories 365 protein 12 CHO 57 fat 7",
+      "calories 327 protein 13 CHO 58 fat 10"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Iron status is best monitored by:",
+    "choices": [
+      "dietary and clinical methods",
+      "dietary and lab studies",
+      "dietary studies",
+      "anthropometric studies"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which bacteria may cause gastric ulcers?",
+    "choices": [
+      "Salmonella",
+      "Streptococcus aureus",
+      "Helicobacter pylori",
+      "Clostridium perfringens"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The appropriate diet therapy following a Billroth II is:",
+    "choices": [
+      "high carbohydrate, low fat, high protein",
+      "high fat, high protein, high carbohydrate",
+      "decrease simple carbohydrates, high protein, moderate fat,",
+      "supplements"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following diseases may lead to anemia?",
+    "choices": [
+      "myocardial infarction",
+      "galactosemia",
+      "renal failure",
+      "diabetes mellitus"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "To learn about prenatal problems in the community, go to:",
+    "choices": [
+      "Center for Disease Control",
+      "WIC",
+      "NHANES",
+      "FDA"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which best applies to nutritional screening?",
+    "choices": [
+      "JCAHO standards must be followed",
+      "should include nutritional parameters",
+      "done after nutritional problems are identified",
+      "only done on at risk patients"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "When using anthropometric measurements, the most important factor is:",
+    "choices": [
+      "competence of the practitioner and calibration",
+      "number of participants done at one sitting",
+      "that the patient be sitting",
+      "that they be done early in the morning"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A pork chop is which type of meat exchange?",
+    "choices": [
+      "high fat",
+      "medium fat",
+      "medium fat plus one fat exchange",
+      "lean"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What should most be encouraged in a Headstart program?",
+    "choices": [
+      "nutrition activities related to food",
+      "participation for at least one year",
+      "class instructions",
+      "healthy snacks"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Medicaid benefits apply to:",
+    "choices": [
+      "healthy adults",
+      "a 60 year old female",
+      "those at nutritional risk",
+      "low income individuals"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The symbol U on a food label indicates:",
+    "choices": [
+      "it is treated with ultraviolet light",
+      "is treated with radiation",
+      "vitamin retention has been retained during processing",
+      "it is a Kosher designation"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Congregate meals and home delivered meals fall under:",
+    "choices": [
+      "WIC",
+      "EFNEP",
+      "Older Americans Act, Title III",
+      "Medicare"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which is most characteristic of marasmus?",
+    "choices": [
+      "serum albumin of 2.5 g/dl",
+      "edema",
+      "severe fat and muscle wasting",
+      "decreased lymphocytes"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The stasis of pancreatic juice and bile could result in: I. autodigestion II. fat malabsorption III. obstructive jaundice",
+    "choices": [
+      "I and II",
+      "I and III",
+      "II and III",
+      "I, II and III"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A side effect of antidepressants is:",
+    "choices": [
+      "chronic diarrhea",
+      "muscle wasting",
+      "excess weight gain",
+      "nausea and vomiting"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which would you recommend to a Mexican American on a low fat diet?",
+    "choices": [
+      "low fat cottage cheese",
+      "skim milk",
+      "beans and rice",
+      "low fat yogurt"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Hypertension will decrease with a decrease in:",
+    "choices": [
+      "fiber",
+      "alcohol",
+      "potassium",
+      "calcium"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What medication is affected by serum sodium levels?",
+    "choices": [
+      "Lithium",
+      "Mellarii",
+      "Valproate",
+      "Tetracycline"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A child has been measured several times before the age of two years. Results of the measurements were not accurate because the child was measured:",
+    "choices": [
+      "first thing in the morning",
+      "standing up",
+      "after breakfast",
+      "with light clothing"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is not a governmental agency?",
+    "choices": [
+      "Health and Human Services",
+      "Food and Drug Administration",
+      "Food and Nutrition Board",
+      "American Heart Association"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Low levels of folate, pyridoxine and cyanocobalamin are associated with:",
+    "choices": [
+      "glycogen storage disease",
+      "homocystinurias",
+      "phenylketonuria",
+      "galactosemia"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A patient with low hemoglobin and low MCV might have:",
+    "choices": [
+      "microcytic anemia",
+      "macrocytic anemia",
+      "megaloblastic anemia",
+      "normochromic anemia"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "According to the Diabetic Exchanges, 2 T peanut butter is:",
+    "choices": [
+      "2 high fat meats",
+      "1 high fat meat",
+      "2 fats",
+      "1 high fat meat plus 2 fats"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "After a gastrectomy, the diet order should indicate a decrease in:",
+    "choices": [
+      "disaccharides",
+      "fats",
+      "protein",
+      "calories"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Children and adolescents need what level of physical activity?",
+    "choices": [
+      "60 minutes every day",
+      "30 minutes every day",
+      "60 minutes at least three days each week",
+      "90 minutes at least three days each week"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following provides 60 g of CHO?",
+    "choices": [
+      "1 English muffin, 1 c. skim milk, ½ c. apple juice",
+      "1 fat-free granola bar, ½ c. raisins, 1 c. fruited yogurt with aspartame",
+      "2 small waffles with 27 litre syrup and 1 T peanut butter",
+      "1 four oz. Bagel with 2 T lite cream cheese and 1 T jelly"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The Prader Will syndrome is associated with...",
+    "choices": [
+      "hyperactivity",
+      "deficiency of glucose-6-phosphatase",
+      "macrocytic anemia",
+      "obesity"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is permitted on a diet restricting tyramine?",
+    "choices": [
+      "hard cheese like cheddar or swiss",
+      "uncured cheese like cottage, ricotta",
+      "pickled or smoked foods",
+      "tofu"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What does a fecal fat of 12 grams indicate?",
+    "choices": [
+      "severe fat malabsorption",
+      "normal fat absorption",
+      "high normal fat absorption",
+      "nothing"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "If a patient has a biochemical block in the formation of urea, what will accumulate in his blood?",
+    "choices": [
+      "uric acid",
+      "ammonia",
+      "protein",
+      "glucose"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The main goal for a Type 2 obese diabetic with persistent hyperglycemia is:",
+    "choices": [
+      "weight loss",
+      "control of serum glucose levels",
+      "consumption of a low fat diet",
+      "consumption of a low protein diet"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Who is the most appropriate candidate for parenteral nutrition?",
+    "choices": [
+      "a 12-year old girl coming in for an appendectomy",
+      "a middle aged woman who will begin chemotherapy",
+      "an elderly lady with emphysema",
+      "a young man going for gallbladder surgery"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "When counseling an anorexic, the best advice is to:",
+    "choices": [
+      "be real strict in their food choices",
+      "be flexible and help them choose reasonable goals",
+      "provide a large variety of menu items",
+      "give them free rein with their intake"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "WIC encourages women with babies to:",
+    "choices": [
+      "formula feed",
+      "breast feed",
+      "feed solid foods early",
+      "feed a mixture of formula and solid foods early"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In reviewing the patient’s medical record, you note a hemoglobin of 10 g/dl and an MCV of 110 cu mm. You should document:",
+    "choices": [
+      "anemia due to intrinsic factor",
+      "anemia without nutritional implications",
+      "anemia with larger than normal erythrocytes",
+      "that the iron content of the diet should be increased"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "For which disease would a low sodium diet be recommended?",
+    "choices": [
+      "ascites",
+      "esophageal varices",
+      "pancreatitis",
+      "appendicitis"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A patient needs a 2000 calorie, 2 gram sodium feeding. Which formula is best?",
+    "choices": [
+      "formula 1: calories/cc 1, g Na/liter 2",
+      "formula 2: calories/cc 1.5, g Na/liter 2",
+      "formula 3: calories/cc 2, g Na/liter 1",
+      "formula 4: calories/cc 1, g Na/liter 1"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A 75 year old female with adequate income would benefit from:",
+    "choices": [
+      "Food Stamps",
+      "Congregate Meals",
+      "EFNEP",
+      "WIC"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which can be included in a meal for gluten-induced enteropathy?",
+    "choices": [
+      "spaghetti and tomato sauce",
+      "cheese and crackers",
+      "potatoes with butter",
+      "oatmeal with sugar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Phytochemicals, which may influence the development of tumors, are found in:",
+    "choices": [
+      "fruits, vegetables, grains",
+      "lean poultry and fish",
+      "low fat dairy products",
+      "polymasurated fats"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which diet is restricted in carbohydrate?",
+    "choices": [
+      "reactive hypoglycemia",
+      "diabetes",
+      "PKU",
+      "galactosemia"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Compared to whole milk, breast milk is:",
+    "choices": [
+      "lower in protein, higher in carbohydrate and fat",
+      "higher in protein and fat, lower in carbohydrate",
+      "lower in protein, carbohydrate and fat",
+      "has the same nutrient composition"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A person with the dumping syndrome cannot handle:",
+    "choices": [
+      "complex carbohydrates",
+      "polysaccharides",
+      "disaccharides",
+      "amino acids"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the appropriate diet for heart failure?",
+    "choices": [
+      "low potassium",
+      "low calcium",
+      "low sodium",
+      "low fat"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "How many calories are provided in 1.5 liters of D25 W?",
+    "choices": [
+      "1275",
+      "2275",
+      "1500",
+      "2000"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A homeless patient who is deficient in all nutrients is to be discharged. What organization may help?",
+    "choices": [
+      "WIC",
+      "EFNEP",
+      "the social workers group",
+      "the shelter"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Why might a child with PKU have an increased incidence of dental caries?",
+    "choices": [
+      "phenylalanine is not converted to tyrosine",
+      "the diet is high in carbohydrates, low in protein",
+      "pyruvate is not converted to alanine",
+      "the diet is devoid of protein"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Trauma can place the patient in:",
+    "choices": [
+      "an anabolic state",
+      "a hypermetabolic state",
+      "a hypothermic state",
+      "a hypometabolic state"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A patient who had an ileal resection is placed on a tube feeding and begins to have diarrhea. This may be due to:",
+    "choices": [
+      "use of a hypertonic formula",
+      "use of an isotonic formula",
+      "blockage of the GI tract",
+      "lactose intolerance"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which is restricted in a diet for hepatic encephalopathy?",
+    "choices": [
+      "protein, sodium, fluid",
+      "protein, fluid, calories",
+      "calories, protein, fat",
+      "sodium, fat, calories"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How many non-protein calories are provided by 2 liters of a 7% Aminosyn solution and 1 liter of 10% dextrose in water?",
+    "choices": [
+      "340",
+      "390",
+      "370",
+      "255"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When should you provide nutrition counseling to an AIDS patient?",
+    "choices": [
+      "when nausea and vomiting become problems",
+      "immediately upon diagnosis",
+      "when diarrhea occurs",
+      "no counseling is needed"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Medicare is for:",
+    "choices": [
+      "the elderly",
+      "the financially needy",
+      "those at nutritional risk",
+      "those with medical needs"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What best measures excess calorie reserves?",
+    "choices": [
+      "weight",
+      "creatinine",
+      "triceps skinfold",
+      "arm circumference"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Why may a patient with ascites be dehydrated?",
+    "choices": [
+      "fluid has moved to interstitial spaces",
+      "fluid has moved to intravascular spaces",
+      "fluid has moved to vascular spaces",
+      "fluid has moved to the lungs"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is equivalent to a very lean meat exchange?",
+    "choices": [
+      "1/4 cup low fat cottage cheese",
+      "2 T. grated parmesan cheese",
+      "1 ounce mozzarella cheese",
+      "1 ounce swiss cheese"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which is a common complication of AIDS?",
+    "choices": [
+      "constipation",
+      "diarrhea",
+      "hypoglycemia",
+      "hyperkalemia"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A post-surgical patient with prolonged ileus should be treated with:",
+    "choices": [
+      "a high fiber diet",
+      "enteral nutrition with added fiber",
+      "enteral nutrition",
+      "parenteral nutrition"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A common result of treating an AIDS patient with zidovudine is?",
+    "choices": [
+      "diarrhea",
+      "constipation",
+      "macrocytic anemia",
+      "hypokalemia"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A 140 lb. female on dialysis should have how many grams of protein?",
+    "choices": [
+      "38-55",
+      "58-63",
+      "70-89",
+      "30-39"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "An obese person with Type 2 diabetes should:",
+    "choices": [
+      "time meals",
+      "decrease the frequency of feedings",
+      "achieve DBW",
+      "increase the frequency of feedings"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A tube fed patient receiving bolus feedings develops a distended abdomen. What should you recommend?",
+    "choices": [
+      "change the tube feeding to isotonic, lactose-free",
+      "decrease the osmolality of the feeding.",
+      "decrease the amount of water flush",
+      "decrease the rate"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which food is highest in fiber?",
+    "choices": [
+      "cooked dried beans",
+      "bananas",
+      "white bread",
+      "apples"
+    ],
+    "answer": 0
+  },
+    {
+    "q": "Which of the following is lowest in fat?",
+    "choices": [
+      "hamburger",
+      "salami",
+      "goat cheese",
+      "Canadian bacon"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which is true with osteoporosis?",
+    "choices": [
+      "it is more common in men than in women",
+      "it is treated with 500 mg calcium per day",
+      "it is common in those 65 years of age and older",
+      "weight bearing exercise exacerbates the problem"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Open tube feedings should be disposed of after:",
+    "choices": [
+      "48 hours",
+      "24 hours",
+      "6 hours",
+      "3 hours"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is a guide for calculating water needs with tube feedings?",
+    "choices": [
+      "1 cc water / 0.5 calories",
+      "1 cc water / 1.0 calories",
+      "1 cc water / 2.0 calories",
+      "1 cc water / 3.0 calories"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Following a colectomy, the absorption of which of the following would be of the most concern?",
+    "choices": [
+      "vitamins D and E",
+      "water and sodium",
+      "B vitamins",
+      "vitamin C"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "According to the diabetic exchange lists, which of the following is equivalent to one medium fat meat?",
+    "choices": [
+      "4 ounces tofu",
+      "2 ounces pork",
+      "2 eggs",
+      "2 T. peanut butter"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A long term care patient has normal intestinal function but cannot eat. What tube feeding should you provide?",
+    "choices": [
+      "high protein, high calorie formula",
+      "isotonic lactose-free formula",
+      "elemental formula",
+      "low fiber, low fat formula"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which food should someone on an MAOI not eat?",
+    "choices": [
+      "cottage cheese",
+      "herbal tea",
+      "pepperoni",
+      "butter"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If you have a lactose intolerance, which food could you most likely tolerate?",
+    "choices": [
+      "whole milk",
+      "skim milk",
+      "ice cream",
+      "yogurt"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The normal range for hemoglobin A1C is:",
+    "choices": [
+      "1 - 2%",
+      "4 - 6%",
+      "10 - 12%",
+      "35 - 40%"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "If a diabetic patient reduces his calorie intake from 2300 to 1800 calories per day, how much will he lose in one month?",
+    "choices": [
+      "4 pounds",
+      "6 pounds",
+      "2 pounds",
+      "8 pounds"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A spastic quadriplexic requires:",
+    "choices": [
+      "lower energy intake",
+      "fewer calories, increased fluid and fiber",
+      "increased fluid and fiber, acid ash diet",
+      "lower energy intake, acid ash diet"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "An athlete complains of weakness, rapid weight gain and muscle spasms. What may be the cause?",
+    "choices": [
+      "lack of adequate rest",
+      "too much exercise",
+      "carbohydrate loading",
+      "not enough iron"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Who is most at risk from protein calorie malnutrition?",
+    "choices": [
+      "a cancer patient on chemotherapy",
+      "a patient with gastric ulcers",
+      "a patient with Crohn’s disease",
+      "a patient with megaloblastic anemia"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Patients with decubitus ulcers will likely demonstrate low:",
+    "choices": [
+      "serum sodium",
+      "serum albumin",
+      "serum potassium",
+      "serum glucose"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "NHANES III increased the number of participants in which age group?",
+    "choices": [
+      "infants and children",
+      "the elderly",
+      "adolescents",
+      "pregnant women and infants"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which type of anemia is likely to be seen in a patient with arthritis?",
+    "choices": [
+      "microcytic, hypochromic",
+      "anemia secondary to chronic disease",
+      "macrocytic",
+      "megaloblastic"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A TPN solution is to be delivered at 50ml per hour at 3/4 strength. What is the appropriate order?",
+    "choices": [
+      "900 ml formula, 300 ml water",
+      "600 ml formula, 600 ml water",
+      "600 ml formula, 400 ml water",
+      "300 ml formula, 900 ml water"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Determine the calorie contribution of carbohydrate from the following parenteral formula. The amounts stated are given per liter. 300 ml 60% dextrose; 500 ml 10% amino acids; 200 ml 20% lipid; total nutrient mixture administered at 65 ml/hour for 24 hours",
+    "choices": [
+      "393 calories per day",
+      "1550 calories per day",
+      "955 calories per day",
+      "1572 calories per day"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Using the above formula, determine the calories coming from lipids per day.",
+    "choices": [
+      "519",
+      "561",
+      "577",
+      "624"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Using the above formula, determine the protein intake per day in grams.",
+    "choices": [
+      "78",
+      "80",
+      "84",
+      "86"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How much free water is in 1.5 liters of an enteral feeding that has 1.5 calories per cc?",
+    "choices": [
+      "1150 cc",
+      "1057 cc",
+      "926 cc",
+      "901 cc"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A patient receives 4 ounces whole milk and 6 graham crackers as a snack. Which of the following substitutes would lower the glycemic index?",
+    "choices": [
+      "skim milk in place of whole milk",
+      "fruit juice in place of whole milk",
+      "12 saltines in place of 6 graham crackers",
+      "1 T peanut butter in place of 3 graham crackers"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which will cause the most delay in gastric emptying?",
+    "choices": [
+      "lean baked meat",
+      "broiled cod",
+      "shrimp",
+      "corned beef"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "If a patient's GFR is < 50 ml/minute, what should their protein intake be (in g/KG)?",
+    "choices": [
+      "1",
+      ".8",
+      ".55 - .6",
+      ".2 - .4"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A 2 year old child with iron-deficiency anemia has anorexia, vomiting, weight loss and restlessness. Look for:",
+    "choices": [
+      "excessive milk and fruit juice intake",
+      "excessive vitamin C and D intake",
+      "asthma and respiratory distress",
+      "pica and lead poisoning"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Mr. Jones has heart failure but no CAD or increased CHD risk. His nutritional prescription should be:",
+    "choices": [
+      "2 gram sodium",
+      "2 gram sodium, low potassium",
+      "low cholesterol, low sodium",
+      "low cholesterol, low saturated fat, low sodium"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Creatine supplements may be beneficial for the:",
+    "choices": [
+      "body builder",
+      "marathon runner",
+      "soccer player",
+      "hockey player"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Acidic chyme in the duodenum is neutralized by pancreatic:",
+    "choices": [
+      "lipase",
+      "bicarbonate",
+      "amylase",
+      "protease"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Milk is packaged in opaque containers to avoid UV destruction of:",
+    "choices": [
+      "thiamin",
+      "riboflavin",
+      "niacin",
+      "ascorbic acid"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which program teaches good nutrition practices and provides foods with certain nutrients?",
+    "choices": [
+      "EFNEP",
+      "NET",
+      "WIC",
+      "MCP"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A PN patient is receiving 45 calories/KG. What may be the result?",
+    "choices": [
+      "hypocalcemia",
+      "hyperkalemia",
+      "hypokalemia",
+      "hyperphosphatemia"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A tube fed patient develops diarrhea. What is the most likely cause?",
+    "choices": [
+      "medications",
+      "the osmolality is too low",
+      "the strength is too weak",
+      "it is being given at an improper rate"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "You are assessing a 41\" female patient who weighs 160 lbs. She has hypertension, high cholesterol and diabetes. What do you recommend?",
+    "choices": [
+      "low sodium",
+      "low carbohydrates",
+      "low calories",
+      "low fat"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A patient with liver disease needs adjustments in the intake of:",
+    "choices": [
+      "protein, fat and sodium",
+      "protein, fluids, sodium",
+      "protein, calories, sodium",
+      "fluids, calories, fat"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The data that is most useful in evaluating children is:",
+    "choices": [
+      "sex and age",
+      "iron and vitamin intake",
+      "energy intake and health history",
+      "height and weight"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which survey is conducted every 10 years?",
+    "choices": [
+      "the USDA Food Consumption Survey",
+      "HANES",
+      "Ten State Nutrition Survey",
+      "Preschool Children Study"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Goals for a community nutrition program should be based on:",
+    "choices": [
+      "the Dietary Guidelines for Americans",
+      "the Nutrition Screening Initiative",
+      "the Healthy People report",
+      "the NHANES III report"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The essential amino acid tryptophan is most closely related to:",
+    "choices": [
+      "folie acid",
+      "riboflavin",
+      "niacin",
+      "pantothenic acid"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Memory loss may be associated with a deficiency of:",
+    "choices": [
+      "riboflavin",
+      "thiamin",
+      "protein",
+      "electrolytes"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following would lower serum cholesterol levels?",
+    "choices": [
+      "dried beans",
+      "green beans",
+      "yellow beans",
+      "summer squash"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In a TPN mixture, what volume of the amino acid solutions listed would come closest to providing 185 calories?",
+    "choices": [
+      "1000 ml of 8.5% amino acids",
+      "850 ml of 5.5% amino acids",
+      "500 ml of 7.0% amino acids",
+      "300 ml of 10% amino acids"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Enteral feeding products that contain protein in the form of small peptides and amino acids are recommended for patients who have:",
+    "choices": [
+      "short-bowel syndrome",
+      "undergone gastrectomy",
+      "undergone colectomy",
+      "undergone jejunostomy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A nutritional care plan for overweight children should include:",
+    "choices": [
+      "restrict intake to maintain current weight",
+      "maintain body weight",
+      "reduce weight with caloric reductions of 500 per day",
+      "reduce rate of body weight gain while allowing growth"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A renal patient has come for dialysis on Monday morning with a serum sodium of 130 mEq/L, a BUN of 100 mg/dl, creatinine 8.0, and a 4 KG weight gain since his last dialysis on Friday morning. His laboratory indicators were in acceptable ranges on Friday afternoon. What would you expect happened over the weekend?",
+    "choices": [
+      "consumed too little sodium, too much water, too little protein",
+      "consumed too little sodium, not enough water, too much protein",
+      "consumed too much sodium, too much water, too much protein",
+      "consumed too much sodium, too little water, too little protein"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Looking at the above question, what else would you expect to see?",
+    "choices": [
+      "increased bicarbonate, increased potassium, decreased phosphorus",
+      "decreased bicarbonate, increased potassium, increased phosphorus",
+      "decreased bicarbonate, decreased potassium, increased phosphorus",
+      "increased bicarbonate, increased potassium, increased phosphorus"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What would the lab values above have likely reflected if the patient had been nauseated and had averaged only 400 calories from primarily starchy foods over the weekend?",
+    "choices": [
+      "little or no rise in potassium, BUN/creatinine ratio <10",
+      "increased phosphorus, BUN/creatinine ratio >15",
+      "typical rise in potassium, BUN/creatinine ratio >15",
+      "metabolic alkalosis, BUN/creatinine ratio <10"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A nutrition surveillance program is designed primarily to:",
+    "choices": [
+      "verify data from other surveys",
+      "identify the nutritional needs of the population",
+      "indicate the number of people at increased risk for medical conditions",
+      "indicate the causes underlying the nutrition problems identified"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A standing height should first be obtained when an infant is how many months old?",
+    "choices": [
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "When given as the sole source of energy, isocaloric amounts of which energy substrate would most effectively reduce starvation ketosis?",
+    "choices": [
+      "corn oil",
+      "MCT oil",
+      "glucose",
+      "essential amino acids"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "For the past 2 months, a man who is 50° tall has been nauseated and anorexic and has consumed fewer than 500 cals/day, mostly from sweet foods. His albumin of 5.0 g/dl most likely reflects:",
+    "choices": [
+      "adjustment to the new energy intake",
+      "an increase in albumin due to dehydration",
+      "increased production of albumin by the liver due to the catabolic state",
+      "retention of albumin due to the high-carbohydrate, low-calorie diet"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A dietary deficiency of which of the following causes a macrocytic anemia resembling pernicious anemia?",
+    "choices": [
+      "folacin",
+      "pyridoxine",
+      "vitamin B6",
+      "vitamin C"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A PN regimen than contains 1 L of D20W and 1 L of 7% Aminosyn provides how many non-protein calories?",
+    "choices": [
+      "300",
+      "1400",
+      "1700",
+      "2000"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Who has the greatest water, protein and calorie needs per unit of body weight?",
+    "choices": [
+      "a 6 month old infant",
+      "a 50 year old female",
+      "a 16 year old male",
+      "a 25 year old male"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the best approach for controlling obesity in an otherwise healthy ten year old girl?",
+    "choices": [
+      "reduction of calorie intake to allow weight loss of 1 - 2 lbs weekly",
+      "reduction of energy intake to no less than 1000 cal/day",
+      "avoidance of simple sugars and sugar-containing products",
+      "maintenance of weight during continued growth"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A woman who is 55° tall weighs 190 lb before pregnancy and gains 30 lbs by the beginning of her second trimester. Advise her to:",
+    "choices": [
+      "maintain her current weight",
+      "begin a weight reduction diet",
+      "gain weight at an decreased rate",
+      "continue to gain weight at the same rate"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The effectiveness of a group education program for decreasing the number of anemic pregnant women enrolled in a community nutrition program is best indicated by:",
+    "choices": [
+      "improved scores on a nutrition knowledge posttest",
+      "improved scores on a Likert-type attitudinal scale",
+      "an increase in hematocrit or hemoglobin levels",
+      "an increase in the intake of dietary iron"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What would a vegan not eat?",
+    "choices": [
+      "coleslaw made with oil and vinegar",
+      "congealed fruit salad",
+      "salad with tofu dressing",
+      "peanut butter"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which contains more total dietary fiber:",
+    "choices": [
+      "1/2 cup raw spinach",
+      "1 oz raisin bran cereal",
+      "1 slice whole wheat bread",
+      "2 T peanut butter"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What change should be made in the following menu if it is to be served to Seventh Day Adventists? tomato juice, cottage cheese fruit plate or egg salad sandwich, milk, coffee, tea",
+    "choices": [
+      "offer fortified soy milk",
+      "offer decaffeinated beverages",
+      "offer tofu as an alternative to cottage cheese",
+      "offer a meat analog as an alternative to egg salad"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The best way to counsel a patient with anorexia nervosa is to:",
+    "choices": [
+      "recommend that the patient increase food intake and attend weekly counseling sessions",
+      "emphasize the health benefits associated with weight gain and increased calorie intake",
+      "maintain a no-nonsense attitude to discourage inappropriate behavior",
+      "remain flexible to help the patient set realistic goals"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which is the primary fuel used by resting muscle and at low intensity exercise?",
+    "choices": [
+      "glucose",
+      "fatty acids",
+      "branch chain amino acids",
+      "keto-acids"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In which of the following would you likely see very low albumin if it is drawn a few days after admission to an acute care facility?",
+    "choices": [
+      "anorexia nervosa",
+      "50% full thickness burn",
+      "patient with low diagnosed colon cancer",
+      "patient with COPD"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "When measuring a child's somatic protein mass, in addition to the BMI, use:",
+    "choices": [
+      "upper arm muscle area",
+      "triceps skinfold",
+      "mid-arm muscle circumference",
+      "knee to height ratio"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "An AIDS patient should select the following fresh fruit:",
+    "choices": [
+      "Grapes, orange",
+      "Orange, banana, pineapple",
+      "Apple, grapes, peach",
+      "Grapes, pear"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Asian, Hispanic and Native Americans have the following in common:",
+    "choices": [
+      "they consume few green vegetables",
+      "they consume significant amounts of dairy products",
+      "they consume little milk",
+      "they consume few root vegetables"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Your patient is on Coumadin. Which foods would you make sure to consistently include in their diet?",
+    "choices": [
+      "oranges, peaches",
+      "sweet potatoes",
+      "beef, lamb",
+      "spinach, collard greens"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If a child is at the 95 percentile weight for height and after one month drops to the 10th percentile, what does it likely signify?",
+    "choices": [
+      "poor nutrition",
+      "lack of adequate calorie consumption",
+      "error in measurement",
+      "clinical disorder indicating malabsorption"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A child presents at the 65th percentile height for age. What does this signify?",
+    "choices": [
+      "overweight",
+      "normal",
+      "underweight",
+      "small for age"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In acute hepatitis, you would likely see:",
+    "choices": [
+      "decreases in SGOT, increase in SGPT",
+      "increases in both SGOT and SGPT",
+      "decrease in both SGOT and SGPT",
+      "increase in SGOT and decrease in SGPT"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In severe cirrhosis with ascites, diet therapy should be:",
+    "choices": [
+      "restrict sodium",
+      "restrict CHO and fat",
+      "restrict protein and sodium",
+      "restrict fat"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An AIDS patient's temperature has risen to 102 degrees. His BMR has increased:",
+    "choices": [
+      "24%",
+      "36%",
+      "12%",
+      "5%"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A patient on a clear liquid diet should not be served:",
+    "choices": [
+      "strawberry flavored gelatin",
+      "vegetable stock",
+      "apple juice",
+      "fruit flavored popsicle"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An athlete needs 4000 calories. The cornflakes nutrient label says that one serving provides 25% of the RDA for CHO. How many servings of cornflakes does he need to get his 25%?",
+    "choices": [
+      "one",
+      "two",
+      "three",
+      "four"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A middle income female needs support for breast feeding. Which group will help?",
+    "choices": [
+      "Milk Bank",
+      "Pritikin Program",
+      "LaLeche",
+      "Feingold Program"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What elements of the diet vary the most in hepatic disease?",
+    "choices": [
+      "fat, carbohydrate, potassium",
+      "sodium, fluid, protein",
+      "sodium, potassium, protein",
+      "fat, sodium, potassium"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the most effective tool for providing nutrition education to the community?",
+    "choices": [
+      "the RDFs",
+      "the report Healthy People",
+      "My Pyramid",
+      "The Healthy Eating Index"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What should a Jewish patient include in his diet to increase the intake of zinc?",
+    "choices": [
+      "fresh green vegetables",
+      "pork",
+      "turkey",
+      "wheat bread"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A 7 year old on a ketogenic diet requires 1500 calories. Which is the appropriate order?",
+    "choices": [
+      "145 g fat, 25 g protein, 35 g carbohydrate",
+      "95 g fat, 40 g protein, 25 g carbohydrate",
+      "102 g fat, 56 g protein, 12 g carbohydrate",
+      "75 g fat, 32 g protein, 43 g carbohydrate"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A new patient with a BMI of 32 and hypertension comes to you for counseling. What is your first recommendation?",
+    "choices": [
+      "achieve DBW",
+      "maintain weight and exercise",
+      "reduce sodium intake",
+      "reduce sodium, reduce fluid, reduce caloric intake"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A female has a 36° waist and a 40° hip measurement. She is at risk for:",
+    "choices": [
+      "nothing",
+      "cancer",
+      "heart disease",
+      "malnutrition"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A vegan with macrocytic anemia needs which of the following?",
+    "choices": [
+      "from-rich foods",
+      "fortified soy milk",
+      "eggs, wheat bread",
+      "meat, green vegetables"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A patient with a GFR of 20 ml/min should receive how many grams of protein/kg?",
+    "choices": [
+      "1.1",
+      "0.8",
+      "0.6",
+      "0.2"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A patient is recovering from an ileocecal resection, where too cm was removed. What are your recommendations?",
+    "choices": [
+      "oral vitamin B12, increase fluids",
+      "parenteral vitamin B14, increase fluids, increase protein",
+      "decrease fluids, increase protein, parenteral B12",
+      "decrease protein, decrease fluids, oral B12"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A patient on Lithium decreases his sodium intake to 2 grams/day.",
+    "choices": [
+      "perfect will be;",
+      "decreased activity of the drug",
+      "enhanced activity of the drug",
+      "no change in drug activity",
+      "reduced response to the drug"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In the Dietary Guidelines, what represents the fat included?",
+    "choices": [
+      "20-35% calories, <10% saturated fat",
+      "30% calories, <6% saturated fat",
+      "25% calories, <15% saturated fat",
+      "35% calories, <10% saturated fat"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following would likely be a cause of marasmus?",
+    "choices": [
+      "leaving a patient for two weeks on D3W",
+      "chemotherapy",
+      "following a 20 gram protein diet for two months",
+      "antibiotic therapy"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A patient with short bowel syndrome will likely receive as initial nutrition therapy:",
+    "choices": [
+      "parenteral nutrition",
+      "elemental formula through an enteral feeding",
+      "predigested nutrients through a gastrostomy tune",
+      "lactose-free, low osmolar, jejunal feeding"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A tube feeding ran from YPM till 6AM, providing 1800 calories, at 1.6 calories/cc. How many cc/hour were given?",
+    "choices": [
+      "100",
+      "125",
+      "210",
+      "65"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A patient on parenteral support develops sepsis. What is the likely cause?",
+    "choices": [
+      "lack of immune-enhancing nutrients",
+      "poor care of the entry site",
+      "related to the condition that created the need for parenteral support",
+      "bacterial translocation"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "How long should a new mother breast-feed?",
+    "choices": [
+      "at least 6 months",
+      "at least 12 months",
+      "until 6 months, then add cow's milk",
+      "until 4 months, then switch to cow's milk"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The most important prenatal supplement is:",
+    "choices": [
+      "calcium",
+      "vitamin D",
+      "iron",
+      "folic acid"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A patient has been hospitalized for 17 days with multiple injuries following an accident. When should the discharge plan begin?",
+    "choices": [
+      "as soon as it is known when the patient will be discharged",
+      "once the patient is stable",
+      "on the first day of admission",
+      "at least two days prior to discharge"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is not a likely cause of failure to thrive in a child?",
+    "choices": [
+      "a vegetarian diet",
+      "a chronic illness",
+      "parental food restrictions due to them being overly concerned with obesity",
+      "lack of fiber in the diet"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A child with PKU can eat:",
+    "choices": [
+      "spaghetti with tomato sauce",
+      "vanilla ice cream",
+      "carrots and celery sticks",
+      "aspartame-sweetened gelatin"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A child has been identified as being at high risk for food allergies. What should be withheld for the first few years?",
+    "choices": [
+      "peanut butter and milk",
+      "eggs and strawberries",
+      "oats and fish",
+      "citrus fruits and chocolate"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following would be classified as NI in the NCP?",
+    "choices": [
+      "not ready for diet change",
+      "altered GI function",
+      "involuntary weight loss",
+      "increased energy expenditure"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following would be appropriate for a hemodialysis patient on a 60gram protein diet, with 75% from HBV protein?",
+    "choices": [
+      "1 egg, 2 ounces chicken, 3 ounces beef, ½ cup milk",
+      "1 egg, 2 ounces chicken, 3 slices bread, 3 ounces beef",
+      "2 eggs, 3 ounces chicken, 3 ounces beef, 1 cup milk",
+      "1 egg, 3 ounces chicken, 2 cups milk, 5 slices bread"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Who resolves differences in bills from the House and the Senate?",
+    "choices": [
+      "House committee",
+      "Senate committee",
+      "Committee on resolutions",
+      "Joint conference committee of the House and Senate"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which bill requests government funding?",
+    "choices": [
+      "budget bill",
+      "markup bill",
+      "appropriations bill",
+      "spending grant bill"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Induce a peripheral solution at a maximum rate of how many mOsm/L?",
+    "choices": [
+      "300",
+      "800",
+      "1400",
+      "2000"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A father needs help in feeding his children, ages 6 and 8. Which are the best options?",
+    "choices": [
+      "WIC and TANF",
+      "Head Start and Food Stamps",
+      "Food Stamps and School Lunch",
+      "Commodity Foods and WIC"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What would be an expected outcome of WIC?",
+    "choices": [
+      "fewer women breast feed",
+      "fewer babies, better birth control",
+      "better educated low income women concerning nutrition",
+      "less anemia, increased HG and HT levels"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Food staff from a Commodity Distribution program are not allowed to bring foods to a Jewish facility. What is the main reason for this?",
+    "choices": [
+      "because meat cannot be served with dairy products at the same meal",
+      "kosher foods are not allowed to be mixed with non-kosher foods",
+      "Jewish dietary practices are lactose-goods",
+      "Jewish dietary practices are lactovegetarian"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A teenager was brought to the hospital with CVA and dysphagia. The Dietitian should immediately:",
+    "choices": [
+      "order a nasogastric feeding",
+      "request a swallow test",
+      "order a dysphagia diet",
+      "order a CVA diet and disregard the dysphagia"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The immune system reacts to foods that are normally harmless. This is:",
+    "choices": [
+      "food intoxication",
+      "an inflammatory response",
+      "an immunoglobulin E (IgE) mediated reaction",
+      "food intolerance"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which level of HgAuc suggests good compliance with dietary recommendations in a diabetic after 3 months of counseling?",
+    "choices": [
+      "6.5 mg/dl",
+      "4.0 mg/dl",
+      "8.2 mg/dl",
+      "10.3 mg/dl"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A hospitalized patient who had not eaten well for 2 weeks had a 2-3 serum phosphorus level and a 1-3 serum magnesium level. He has.....",
+    "choices": [
+      "hypophosphatemia, hypomagnesemia",
+      "hyperphosphatemia, hypomagnesemia",
+      "hyperphosphatemia, hypomatemia",
+      "hyperkalemia, hypermagnesemia"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A concern with parenteral feeding is:",
+    "choices": [
+      "hypokalemia",
+      "hyperglycemia",
+      "hyperkalemia",
+      "hypocalcemia"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "You have determined that an infant should take 340 calories/24 hours. How many ounces of milk should be given to the baby every 6 hours?",
+    "choices": [
+      "2 oz",
+      "3 oz",
+      "3.5 oz",
+      "4.5 oz"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following self-assessment tools would be given to clients prior to screening at a congregate meal site?",
+    "choices": [
+      "PEACH survey",
+      "DETERMINE checklist",
+      "NSI Level I screen",
+      "NSI Level II screen"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A Crohn's patient who was previously well-nourished has a fever and ileus 7 days PO. Which feeding method should you recommend?",
+    "choices": [
+      "central venous hyperalimentation",
+      "full liquids",
+      "peripheral IV infusion",
+      "half-strength tube feeding"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A clinical Dietitian has successfully met an indicator for 6 months. The next step should be to:",
+    "choices": [
+      "establish a new indicator",
+      "report the successful completion of intervention",
+      "evaluate the need to continue monitoring the indicator",
+      "evaluate the need to revise the standard of care"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A nephrotic syndrome patient with edema has a serum albumin level that continues to fall. Recognize that:",
+    "choices": [
+      "liver dysfunction is causing decreased albumin synthesis",
+      "volume overload has diluted the albumin",
+      "the patient is getting sicker and eating less",
+      "protein is being lost in the urine"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Intervention by a Dietitian conducting nutrition assessment is best determined by:",
+    "choices": [
+      "a patient's medical history",
+      "a patient's diagnosis",
+      "the case mix of the patient population",
+      "results of nutrition screening"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The best way to justify continuation of WIC would be to show improvement in:",
+    "choices": [
+      "the number of participants enrolled",
+      "the infant morbidity rate",
+      "maternal weight gains during pregnancy",
+      "infant head circumference"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A patient with severe acute pancreatitis experiences nausea and vomiting and requires 2500 calories/day. Which of the following would you recommend?",
+    "choices": [
+      "3000cc of a 1 cal/cc tube feeding through the jejunum",
+      "1500cc of a 2 cal/cc nasogastric tube feeding",
+      "1000 cc of D50W, 1000cc of 7% amino acids, 650 cc of 20% lipids",
+      "1000cc of D50W, 1000cc of 7% amino acids, 500cc of 10% lipids"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Roman Catholic dietary laws state that fish is:",
+    "choices": [
+      "to be served very Friday all year",
+      "to be served on Ash Wednesday and Good Friday",
+      "to be served on Ash Wednesday and Fridays during Lent",
+      "no longer required on Fridays"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A normal pregnancy requires supplementation of:",
+    "choices": [
+      "iron",
+      "vitamin C, calcium, iron",
+      "iron and folic acid",
+      "calcium and zinc"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which condition benefits from the use of indirect calorimetry?",
+    "choices": [
+      "post-gastrectomy",
+      "patient receiving chemotherapy",
+      "patient with third degree burns",
+      "post-surgical patient"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A Rabbi is admitted to the hospital. What question will he ask the Dietitian?",
+    "choices": [
+      "What time are meals served?",
+      "Who cooks the food?",
+      "What is the mixture of foods in combination dishes?",
+      "Where will he eat?"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following statements about cow's milk are true? I. It is high in protein. II. It creates a high solute load. III. It is low in iron and vitamin C.",
+    "choices": [
+      "I only",
+      "I, III",
+      "II, III",
+      "all of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A patient on parenteral nutrition is to be transitioned to enteral feeding. He should receive:",
+    "choices": [
+      "half-strength enteral feeding initially",
+      "half-strength, then ¾ strength enteral feeding",
+      "half-strength enteral feeding with a low osmolality",
+      "full strength enteral feeding at a low rate"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A patient on a full liquid diet should not receive:",
+    "choices": [
+      "sherbet",
+      "strained cereal",
+      "pureed fruit",
+      "margarine"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the best practical way to measure energy balance?",
+    "choices": [
+      "evaluate weight gain and weight loss",
+      "utilize food intake records",
+      "use activity factors",
+      "calculate the number of calories consumed"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Infants should be given solid foods at:",
+    "choices": [
+      "1-3 months",
+      "3-4 months",
+      "5-8 months",
+      "10-12 months"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Iron preparations should be taken:",
+    "choices": [
+      "before meals",
+      "on an empty stomach",
+      "with meals",
+      "before bedtime"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "An appropriate menu for a Kosher meal is:",
+    "choices": [
+      "macaroni and cheese, green beans",
+      "roast beef, potato, vegetable, cream soup",
+      "veal parmesan, noodles, green beans",
+      "crabmeat salad, lettuce, milk"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A Hispanic woman needs more calcium in her diet. What do you recommend?",
+    "choices": [
+      "milk",
+      "plantains",
+      "avocados",
+      "pinto beans"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following would lacto-ovovegetarian not eat?",
+    "choices": [
+      "eggs",
+      "halibut",
+      "cheese",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which provides the most vitamin A for a Mexican?",
+    "choices": [
+      "tortillas and refried beans",
+      "cantaloupe and squash",
+      "cheese",
+      "tortillas and milk"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which snack would you not give to an infant?",
+    "choices": [
+      "yogurt",
+      "cheese sticks",
+      "graham crackers",
+      "grapes"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which hormone is involved in developing the placenta?",
+    "choices": [
+      "progesterone",
+      "estrogen",
+      "lactogen",
+      "testosterone"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which supplements should you give to a breast-fed baby?",
+    "choices": [
+      "vitamin D and fluoride",
+      "fluoride",
+      "vitamin D",
+      "Vitamin A and C"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which is the most useful for evaluating recent under-nutrition or over-nutrition?",
+    "choices": [
+      "height for age",
+      "weight for height",
+      "weight for age",
+      "length for weight"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which is the least useful evaluation tool in a community assessment program?",
+    "choices": [
+      "height for age",
+      "weight for height",
+      "weight for age",
+      "length for weight"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A child is below the 5th percentile weight for height. What can be said about the child?",
+    "choices": [
+      "The child is tall for their age.",
+      "The child has a disease that inhibits growth.",
+      "It is an indication of long term under-nutrition.",
+      "It is an indication of recent under-nutrition."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What would you first advise a constipated patient to do?",
+    "choices": [
+      "take a mild laxative.",
+      "eat less fat",
+      "increase fluids and fiber intake",
+      "eat more protein"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A patient with dysphagia waiting for a swallow test may receive:",
+    "choices": [
+      "thick liquids",
+      "thin liquids",
+      "peripheral parenteral nutrition",
+      "parenteral nutrition"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "At what age should children be measured standing up?",
+    "choices": [
+      "6 months",
+      "12 months",
+      "18 months",
+      "24 months"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is normal weight gain during the first trimester?",
+    "choices": [
+      "1–2 lbs.",
+      "2–5 lbs.",
+      "5–8 lbs.",
+      "8–10 lbs."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The breast-fed infant is drinking primarily colostrum for:",
+    "choices": [
+      "the first 24 hours",
+      "the first few days",
+      "1–2 weeks",
+      "3 months"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following items is appropriate for a Muslim diet?",
+    "choices": [
+      "sweet and sour pork",
+      "salad with Bacos",
+      "pork fried rice",
+      "chicken in wine sauce"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What would a vegan not eat?",
+    "choices": [
+      "cohesive made with oil and vinegar",
+      "congealed fruit salad",
+      "salad with tofu dressing",
+      "peanut butter"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is lacking in the traditional diet for Asians living in America?",
+    "choices": [
+      "iron",
+      "calcium",
+      "folic acid",
+      "thiamin"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following indicates stunted growth?",
+    "choices": [
+      "weight for height",
+      "height for age",
+      "weight for age",
+      "weight for length"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A patient comes to you with a diet that you know is not good to follow. What should you do?",
+    "choices": [
+      "Tell him it's not good.",
+      "Explain why it is not good.",
+      "Tell him to only follow what you have provided.",
+      "Let him do as he wishes."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which hormone regulates breast milk production?",
+    "choices": [
+      "prolactin",
+      "progesterone",
+      "estrogen",
+      "oxytocin"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How many grams does a low birth weight infant weigh?",
+    "choices": [
+      "less than 2500",
+      "between 500 and 1500",
+      "between 3000 and 4000",
+      "between 100 and 500"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An 18 month old child should receive...",
+    "choices": [
+      "whole milk",
+      "2% milk",
+      "1% milk",
+      "skim milk"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is true about SOOT?",
+    "choices": [
+      "it is increased with hepatitis and diabetes",
+      "it is increased with hepatitis, decreased with diabetes",
+      "it is decreased in both hepatitis and diabetes",
+      "it is decreased with hepatitis and increased with diabetes"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the best way to increase attendance at a nutrition seminar for dentists?",
+    "choices": [
+      "hold it in a location convenient to large numbers of dentists",
+      "have it held in a medical facility",
+      "hold it on weekends when their offices are likely closed",
+      "have it sponsored by a dental organization"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "As a public health Nutritionist, you notice an increase in the percentage of obese Hispanic females in the community. What is the best way to educate them?",
+    "choices": [
+      "have a cooking class that they can participate in the cooking and then eat the food they prepared",
+      "hold classes that teach low fat cooking",
+      "develop posters with low fat cooking tips",
+      "develop low fat recipes and instructional materials that they can follow at home"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A five month old baby has changed from the 65th to the 95th percentile weight for height. The Dietitian should first:",
+    "choices": [
+      "suggest the mother introduce more solid foods",
+      "change the feeding formula",
+      "check to see if weights have been plotted properly",
+      "increase the amount of formula given"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What would you do to decrease fat intake for a Hispanic?",
+    "choices": [
+      "change from whole milk to 2% milk",
+      "change beans from refried to boiled",
+      "change to low fat yogurt",
+      "serve low fat cheese"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "When is breast feeding contraindicated?",
+    "choices": [
+      "when the mother is underweight",
+      "when the mother has AIDS",
+      "when the mother has a breast infection",
+      "when the mother has hyperlipidemia"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which test measures somatic protein:",
+    "choices": [
+      "prealbumin, albumin",
+      "creatinine clearance, serum creatinine",
+      "serum transferrin",
+      "prealbumin, albumin, transferring"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Expected creatinine clearance is estimated from the client's:",
+    "choices": [
+      "weight",
+      "TSF, AMC",
+      "height",
+      "waist circumference"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "How much water does an athlete need if they have lost 2 pounds during a marathon?",
+    "choices": [
+      "8 ounces",
+      "16 ounces",
+      "24 ounces",
+      "32 ounces"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "High doses of which vitamin will interfere with Levodopa?",
+    "choices": [
+      "pyridoxine",
+      "cyanocobalamin",
+      "thiamin",
+      "riboflavin"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Levodopa is used in the treatment of:",
+    "choices": [
+      "rheumatoid arthritis",
+      "Parkinson's disease",
+      "diabetic ketoacidosis",
+      "nephrotic syndrome"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Quickly stopping a 25% dextrose solution leads to:",
+    "choices": [
+      "hyperglycemia",
+      "hypoglycemia",
+      "hypophosphatemia",
+      "hyperkalemia"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Infants born to mothers with diabetes may be:",
+    "choices": [
+      "larger than normal, and be hypoglycemia shortly after birth",
+      "smaller than normal and be hyperglycemic shortly after birth",
+      "larger than normal and be hyperglycemic shortly after birth",
+      "smaller than normal and be hypoglycemic shortly after birth"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The mother of an infant who weighed 4.5KG at birth and was hypoglycemic, may:",
+    "choices": [
+      "have gained excessive amounts of weight during pregnancy",
+      "not have gained enough weight during pregnancy",
+      "have had gestational diabetes",
+      "have reactive hypoglycemia"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the most important advice to give a patient with a peptic ulcer?",
+    "choices": [
+      "drink milk every 1-2 hours",
+      "consume small portions",
+      "eat everything in balance",
+      "abstain from spicy food"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A tube fed patient develops diarrhea. What needs to be done first?",
+    "choices": [
+      "review their nutritional needs",
+      "increase the rate of the feeding",
+      "review the osmolality of the feeding",
+      "discontinue the feeding until the diarrhea stops"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A patient admitted to the ICU is diagnosed with HIV and progressive infection. Which nutrients would be helpful?",
+    "choices": [
+      "phosphorus and zinc",
+      "sodium and potassium",
+      "sodium and chromium",
+      "potassium and magnesium"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A young girl who is HIV positive with Karposi's sarcoma tells you she would like to take vitamin C supplements. What should you tell her?",
+    "choices": [
+      "ignore her request and talk about incorporating better balanced foods into her diet",
+      "ignore her request and advise her to drink more juices",
+      "explain the dangers of taking too much vitamin C",
+      "ask her to keep a food diary to see where she is lacking"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Why would you add bicarbonate to a solution for a person with hyperkalemia?",
+    "choices": [
+      "it forces magnesium out of the cell to attract potassium",
+      "it forces chloride out of the cell to attract potassium",
+      "it exchanges phosphorus for potassium",
+      "it exchanges hydrogen for potassium"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A patient with Parkinson's disease on Levodopa should:",
+    "choices": [
+      "increase protein intake at breakfast",
+      "consume no more than 40 grams protein per day",
+      "evenly divide protein intake throughout the ay",
+      "minimize protein at breakfast and lunch and add it to the evening meal"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which would you recommend for a patient with mild dysphagia?",
+    "choices": [
+      "honey",
+      "apple juice",
+      "nectar",
+      "pudding"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Four patients are admitted to your service. Who would you address first?",
+    "choices": [
+      "patient who had a recent MI",
+      "patient with gastric distress",
+      "patient with cancer",
+      "patient admitted for an appendectomy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Lactic acid is a result of:",
+    "choices": [
+      "anaerobic glycolysis",
+      "aerobic glycolysis",
+      "TCA cycle",
+      "Cori cycle"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When counseling a diabetic with limited education, which would be the most appropriate question to ask in assessing her comprehension level?",
+    "choices": [
+      "do you enjoy candy and sweets",
+      "name a food that is a fat",
+      "do you have difficulty swallowing or chewing",
+      "how many meals and snacks do you consume each day"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Based on the DRO's, Medicare reimbursement depends on: I. length of patient stay II. age of patient III. primary diagnosis",
+    "choices": [
+      "I",
+      "II, III",
+      "I, II",
+      "I, II, III"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A patient is diagnosed with iatrogenic malnutrition. Nutritional therapy should be:",
+    "choices": [
+      "high calorie",
+      "high protein",
+      "high calorie, high protein",
+      "low calorie, high protein"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Within 2 – 3 hours of continuous exercise at 60-80% of maximum:",
+    "choices": [
+      "muscle glycogen is depleted",
+      "muscle glycogen is the main energy source",
+      "amino acids begin to contribute a source of energy",
+      "fatty acids are the favored substrates"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "To maintain hydration during continuous endurance physical activity of 4 hours, consume:",
+    "choices": [
+      "fluids",
+      "fluids and sodium",
+      "fluids, sodium, carbohydrates",
+      "non-CHO electrolyte solutions"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "To restore hydration after continuous endurance activity of 2 hours, consume:",
+    "choices": [
+      "fluid, carbohydrate, sodium",
+      "non-CHO electrolyte solutions",
+      "fluids",
+      "fluids and sodium"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The test that measures toxic levels of lead on heme synthesis is the:",
+    "choices": [
+      "prothrombin test",
+      "free erythrocyte protopophyrin test",
+      "hemoglobin value test",
+      "MCV"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Nutrition intervention with Alzheimer's disease should include:",
+    "choices": [
+      "eating with TV on provides stimulation",
+      "offer one food at a time, avoid distractions",
+      "encourage eating meals with others",
+      "several small meals and snacks throughout the day"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Anasarca is extreme generalized edema and swelling of the skin associated with:",
+    "choices": [
+      "uncontrolled diabetes",
+      "heart, liver or renal failure",
+      "short bowel syndrome",
+      "pancreatitis"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Giucophage (Metformin) functions by:",
+    "choices": [
+      "stimulates insulin secretion",
+      "inhibits digestive enzyme action",
+      "decreases peripheral resistance",
+      "enhances insulin action"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "An 11 month old infant is constipated. The most likely nutrition diagnosis would be:",
+    "choices": [
+      "GI distress",
+      "lack of fruits",
+      "inadequate fluid intake",
+      "imbalanced intake"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A client who primarily consumes frozen dinners and breakfast cereal because of limited access to transportation most likely would have a nutrition diagnosis of:",
+    "choices": [
+      "not ready for diet change",
+      "inability to manage self care",
+      "impaired ability to prepare meals",
+      "poor nutrition quality of foods"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A patient complains of abdominal distention, mouth lesions, and a 10% weight loss over the past 6 months. The nutrition diagnosis would be:",
+    "choices": [
+      "impaired nutrient utilization",
+      "inadequate vitamin intake",
+      "involuntary weight loss",
+      "altered GI function"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A cancer patient receiving radiation therapy to the head and neck presents with weight loss. The nutrition diagnosis would be:",
+    "choices": [
+      "swallowing difficulty",
+      "involuntary weight loss",
+      "impaired nutrient utilization",
+      "hypermetabolism"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "When working with patients who have food allergies in a pediatric GI clinic, which of the following outcomes should be measured?",
+    "choices": [
+      "frequency of patient compliance with instructions",
+      "reduction of food-related reactions among patients",
+      "level of knowledge about causes of food allergies",
+      "patient satisfaction with Dietitian's interaction"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is an achievable outcome for a weight loss program?",
+    "choices": [
+      "Promote desirable body weight among young adults",
+      "Increase by 25% the number of physicians who refer patients for weight-management counseling",
+      "Screen and refer for treatment within two years those whose body weight is 10% above desirable.",
+      "Reduce by 20% the number of obese adults, ages 25-49, within two years of starting the program."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A child with cystic fibrosis has had a recent weight loss and several large, foul-smelling stools each day over the past two months. To evaluate the situation, the first step should be to assess her:",
+    "choices": [
+      "calorie intake",
+      "total fat intake",
+      "compliance with PERT",
+      "24 hour fecal fat"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A patient with diabetes has not eaten for more than three days. You should:",
+    "choices": [
+      "liberalize the diet",
+      "provide multivitamin/mineral supplements",
+      "provide increased fluids",
+      "stay with her plan and encourage small frequent feedings"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following about nutrition screening in a hospital is true?",
+    "choices": [
+      "provides direction for patient care",
+      "cost-effective for all patients",
+      "it has universal criteria for all age groups",
+      "it should be performed only when ordered"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A child has chronic non-specific diarrhea without malabsorption. An increased intake of which of the following might be the cause?",
+    "choices": [
+      "sorbitol",
+      "fat",
+      "protein",
+      "fruit"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A strict Muslim would not consume:",
+    "choices": [
+      "fruited gelatin, shrimp, ham",
+      "dairy products",
+      "non-carbonated beverages",
+      "eggs, cheese"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With a CHO-insulin ratio of 16:1, how much insulin is needed with this meal? 1.1/3 cups spaghetti, 1 cup spaghetti sauce, 1 cup green beans, 1 slice bread, 1 teaspoon butter, ½ cup ice cream",
+    "choices": [
+      "4 units",
+      "5 units",
+      "6 units",
+      "8 units"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A newly diagnosed diabetic needs 2200 calories, 50% from carbohydrates. How many CHO choices can he have at each meal if he has 3 snacks with 2 CHO choices each?",
+    "choices": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following outcomes would best indicate parental support of a child's weight loss effort in a program for obese pre-teen children?",
+    "choices": [
+      "Eliminate sweets",
+      "Discuss weight loss indicators",
+      "Decide to defer action until after puberty",
+      "Enroll child in physical activity programs"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A 9 month old infant being fed iron-fortified, milk-based formula is obese. You should recommend:",
+    "choices": [
+      "limiting the formula feeding to 16 ounces",
+      "changing the formula to 2% milk",
+      "changing the formula to whole milk",
+      "monitoring weight and intake"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A patient on warfarin should avoid:",
+    "choices": [
+      "black cobosh",
+      "thiamin supplements",
+      "simple carbohydrates",
+      "B vitamin supplements"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The best way for you to follow-up on a patient's application of diet instruction provides is to:",
+    "choices": [
+      "give pre and post tests on recommendations",
+      "evaluate his food diary for one week",
+      "ask him how he is doing with the new plan",
+      "use body language to determine his interest in following the plan"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A family receiving food stamps often runs out of food by the middle of the month. Obtain an emergency food voucher for them and refer them to:",
+    "choices": [
+      "a congregate meal site",
+      "a social services agency",
+      "WTC",
+      "EFNEP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A 35 year old female with Type 1 diabetes received nutrition counseling and started NPH therapy one month ago. Today her fasting blood glucose level is 290mg/dl and cholesterol level is 185mg/dl. She eats one meal per day. Which need do you address first?",
+    "choices": [
+      "instruction about the relationship of diet to blood glucose level",
+      "instruction about maintaining current body weight",
+      "advice to include various food groups",
+      "advice about controlling cholesterol levels"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following would provide the most useful data when conducting nutrition screening on preschool children at a health fair?",
+    "choices": [
+      "triceps skinfold thickness",
+      "weight for age",
+      "weight for stature",
+      "stature for age"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following nutrition diagnoses is most likely to be associated with cyclosporine therapy?",
+    "choices": [
+      "hyperphosphatemia",
+      "hyperlipidemia",
+      "hypoglycemia",
+      "hypokalemia"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "An infant with milk hypersensitivity could safely consume:",
+    "choices": [
+      "soy milk fortified with calcium",
+      "goat's milk fortified with folic acid",
+      "a modular formula with crystalline amino acids",
+      "a casein hydrolysate formula"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is included in a subjective global assessment?",
+    "choices": [
+      "standard weight for height",
+      "mid-arm muscle circumference",
+      "prealbumin",
+      "dietary intake"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Southeast Asian populations would likely consume the following foods:",
+    "choices": [
+      "rice, vegetables and small amounts of meat",
+      "fruits, cheese, and small amounts of rice and meat",
+      "large amounts of rice and milk, and small amounts of meat and fruit",
+      "large amounts of meat and milk, small amounts of fruits and vegetables"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An elderly obese patient has been diagnosed with Type 2 diabetes. Which of the following is an appropriate nutrition diagnosis?",
+    "choices": [
+      "elevated serum triglycerides",
+      "high HDL cholesterol",
+      "low blood pressure",
+      "low serum insulin"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An indication for use of a protein hydrolysate infant formula is:",
+    "choices": [
+      "prematurity",
+      "constipation",
+      "phenylketonuria",
+      "protein hypersensitivity"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "An appropriate source of folate for a female from Central America is:",
+    "choices": [
+      "corn",
+      "broccoli",
+      "black beans",
+      "raisins"
+    ],
+    "answer": 2
+  }
+]

@@ -1,0 +1,2990 @@
+[
+  {
+    "q": "What temperature range is recommended for a dairy refrigerator?",
+    "choices": [
+      "28-32°F",
+      "36-40°F",
+      "45-50°F",
+      "55-60°F"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which piece of food service equipment is the least energy efficient?",
+    "choices": [
+      "convection oven",
+      "deck oven",
+      "steam-jacketed kettle",
+      "rotary oven"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A Dietitian ordering canned goods can be assured of a reliable product if they:",
+    "choices": [
+      "buy directly from the manufacturer",
+      "accept the most reasonable bid",
+      "conduct a can cutting analysis",
+      "buy the same brand, grade, size as the last time"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which piece of food service equipment may be restricted by a local law?",
+    "choices": [
+      "toaster",
+      "steam-jacketed kettle",
+      "convection oven",
+      "garbage disposal"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What gas is released from a fire?",
+    "choices": [
+      "helium",
+      "hydrogen",
+      "carbon dioxide",
+      "carbon monoxide"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "If you worked overtime and did not get paid, which labor law would help your claim?",
+    "choices": [
+      "The Equal Opportunity Act",
+      "The Fair Labor Standards Act",
+      "The Equal Pay Act",
+      "The Civil Rights Act"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "If a female is hired and does not receive the same pay as a male in the same position, she can seek help from:",
+    "choices": [
+      "The Equal Opportunity Act",
+      "The Fair Labor Standards Act",
+      "the Equal Pay Act",
+      "The Fair Wage Act"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the labor turnover rate if 6 employees in a department of 55 were terminated and replaced?",
+    "choices": [
+      "12%",
+      "10%",
+      "9%",
+      "11%"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the food cost percentage if the cost of food is $325 and the income is $65.5?",
+    "choices": [
+      "38%",
+      "36%",
+      "34%",
+      "32%"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If a union member repeatedly arrives late, you should...",
+    "choices": [
+      "fire him",
+      "report him to management",
+      "say nothing but make a note of it",
+      "forget it"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What method of food service is used when one school delivers meals to another?",
+    "choices": [
+      "ready-prepared",
+      "commissary-satellite",
+      "assembly store",
+      "cook-chill"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "After an outbreak of food-borne illness in the cafeteria, you discover one of your employees has an infected cut on his finger. You should:",
+    "choices": [
+      "call the state public health office to investigate",
+      "have the lab culture the kitchen",
+      "fire the employee",
+      "send the employee home until the cut has healed"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "If an employee works 5 days each week, how many regular employees can be covered by one relief employee?",
+    "choices": [
+      "1 1/2",
+      "2",
+      "2 1/2",
+      "3"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "How much hamburger will it take to make 300 three ounce patties with a 20% shrinkage?",
+    "choices": [
+      "52 lbs.",
+      "68 lbs.",
+      "90 lbs.",
+      "70 lbs."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A food service operates with a 35% food cost. If a menu item has a raw food cost of $1.25, and it takes an employee 45 minutes at $6.00 an hour to prepare, what is the traditional selling price?",
+    "choices": [
+      "$2.75",
+      "$3.25",
+      "$2.50",
+      "$3.58"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "An 8 lb. roast beef cost $2.79/lb. The edible portion is 65%. What is the AP price of the roast?",
+    "choices": [
+      "$21.19",
+      "$22.03",
+      "$22.32",
+      "$23.04"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The FDA: I. Inspects meat, poultry, fish, eggs II. Inspects factories III. enforces the Food, Drug and Cosmetic Act IV. monitors interstate shipping of shellfish",
+    "choices": [
+      "I, II, III",
+      "III, IV",
+      "II, III, IV",
+      "I, III"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Find the cost per meal if you serve 120,000 meals, spend $4,6000 in food purchases and $1250 worth of food was removed from the inventory.",
+    "choices": [
+      "$39",
+      "$42",
+      "$37",
+      "$43"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How many meals were served per labor minute if 34 FTE produced 3800 meals in one 40 hour week?",
+    "choices": [
+      "2.79",
+      "0.05",
+      "1.12",
+      "0.25"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which management functions should require the greatest allotment of time by a production manager?",
+    "choices": [
+      "planning and organizing",
+      "organizing and directing",
+      "directing and controlling",
+      "organizing and controlling"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A cafeteria seats 60 customers. Lunch runs from 1115AM to 1100 PM. Turnover is 2.5 customers/hour. How many can be served during those hours?",
+    "choices": [
+      "125",
+      "240",
+      "350",
+      "550"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "You have been promoted to a top management position. What adjustment in skills is needed?",
+    "choices": [
+      "technical skills decrease, conceptual skills increase",
+      "conceptual skills decrease, technical and human skills increase",
+      "technical skills increase, conceptual skills decrease",
+      "technical skills decrease, conceptual and human skills increase"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Beef stew has been unrefrigerated for 4 hours after preparation. What should you do?",
+    "choices": [
+      "reheat it to 140°F and refrigerate it in a shallow pan",
+      "discard the stew",
+      "reheat it to 105°F and refrigerate it",
+      "refrigerate the stew in shallow pans"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which type of power is ineffective in motivating behavioral change and may create resistance?",
+    "choices": [
+      "referent",
+      "coercive",
+      "legitimate",
+      "expert"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A business pays 4% of its income as rent ($1200), 70% towards labor and food costs, and $2500 towards other monthly expenses. How much profit does this business make per month?",
+    "choices": [
+      "$6000",
+      "$4200",
+      "$5200",
+      "$7200"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When determining the labor turnover rate in one period look at the number of:",
+    "choices": [
+      "employees at the beginning of the period and the number of new employees",
+      "employees at the beginning of the period and the number who left",
+      "employees at the end of the period and the number of new employees",
+      "the number of employees at the end of the period and the number who left"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The nutritional label on food utilizes the DRI’s which replace the old:",
+    "choices": [
+      "RDAs",
+      "USERA’s",
+      "USR’s",
+      "OSHA’s"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Using the scientific approach to management, which of the following would result?",
+    "choices": [
+      "decreased labor minutes per meal",
+      "decreased labor hours per week",
+      "increased labor minutes per meal",
+      "increased labor hours per week"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Where should a hand-washing sink be located?",
+    "choices": [
+      "near the door entering the kitchen",
+      "near the dishroom",
+      "near the cafeteria counter",
+      "near the food preparation area"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which food service system is least likely to have microbial contamination?",
+    "choices": [
+      "conventional",
+      "cook-chill",
+      "cook-freeze",
+      "assembly serve"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What can an employer do regarding an employee who wishes to join the union?",
+    "choices": [
+      "prevent him from going to the union",
+      "talk to him against the union",
+      "tell him about union dues",
+      "tell him he may lose his job if he goes"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a paid employee who represents other union workers?",
+    "choices": [
+      "a mediator",
+      "the department head",
+      "the shop steward",
+      "the bargaining agent"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which oven is most energy efficient?",
+    "choices": [
+      "convection oven",
+      "rotary oven",
+      "deck oven",
+      "microwave oven"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The Dietitian finds that the ice cream freezer is not working and everything inside has melted. She decides to throw it all out and substitute another item for dessert. She is demonstrating what type of leadership?",
+    "choices": [
+      "autocratic",
+      "bureaucratic",
+      "democratic",
+      "participatory"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following food service systems has the lowest labor costs?",
+    "choices": [
+      "cook freeze",
+      "cook chill",
+      "convenience",
+      "conventional"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is poor management?",
+    "choices": [
+      "one supervisor for one employee",
+      "one supervisor for every two employees",
+      "one supervisor for the entire department",
+      "two supervisors for one employee"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "How does a new supervisor gain respect?",
+    "choices": [
+      "show employees different ways to do their job",
+      "work with a different employee each day",
+      "communicate regularly with them to keep them informed",
+      "smile a lot"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which is considered a hazardous situation?",
+    "choices": [
+      "a gauge on the coffee run not working",
+      "an employee washing floors during rush hour",
+      "an employee cleaning the grill with steel wool",
+      "an employee leaving the freezer door ajar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What type of leadership style is shown with a circular organization chart?",
+    "choices": [
+      "democratic",
+      "autocratic",
+      "participative",
+      "bureaucratic"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "When can a citizen have impact on a bill?",
+    "choices": [
+      "during debate in the Senate",
+      "when the bill goes to committee",
+      "when the bill is in public hearings",
+      "during debate in the House"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If you were an employee and member of the union, and were involved in initial labor dispute talks, you would be called:",
+    "choices": [
+      "an arbitrator",
+      "a mediator",
+      "a shop steward",
+      "a union agent"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Store frozen fruits and vegetables at:",
+    "choices": [
+      "0 - 10°F",
+      "-10 - 20°F",
+      "<32°F",
+      "0 - 10°F"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In a hospital with 300 patients, it takes 14 minutes to prepare one meal. How many FEEs are needed per week?",
+    "choices": [
+      "12",
+      "37",
+      "46",
+      "10"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "If a food service reconstitutes frozen food that is made on site, what type of production system is it?",
+    "choices": [
+      "convenience",
+      "conventional",
+      "satellite",
+      "cook-freeze"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which is an example of line authority?",
+    "choices": [
+      "a part time consultant for WTC",
+      "a consulting Dietitian for an outpatient department",
+      "an administrative Dietitian in a 600 bed hospital",
+      "a consulting Dietitian for a nursing home"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which term relates to scientific management?",
+    "choices": [
+      "psychological",
+      "intellectual",
+      "physical",
+      "sociological"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Work simplification studies:",
+    "choices": [
+      "looks at the job as a whole",
+      "increase worker responsibility",
+      "decrease costs and increases productivity",
+      "increase worker interest in the job"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Management’s basic function is:",
+    "choices": [
+      "controlling",
+      "directing",
+      "planning",
+      "evaluating"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Policies are:",
+    "choices": [
+      "predetermined goals of management",
+      "statements that provide direction and motivate",
+      "guides that define the scope of permissible activity",
+      "specific tasks to be performed"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The organizational chart:",
+    "choices": [
+      "is an organized list of duties",
+      "shows the employee how he fits into the organization",
+      "organizes departmental activities",
+      "is an evaluation tool for productivity"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is not shown on an organizational chart?",
+    "choices": [
+      "relationships of positions to one another",
+      "the degree of authority and informal relationships",
+      "advisory responsibilities",
+      "lines of communication"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A job description:",
+    "choices": [
+      "can be used for employee appraisal",
+      "studies and analyzes all aspects of the job",
+      "lists what steps to do and how to do them",
+      "lists time limits on all aspects of the job"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A job breakdown:",
+    "choices": [
+      "can be used for employee appraisal",
+      "studies and analyzes all aspects of the job",
+      "lists what steps to do and how to do them",
+      "lists time limits on all aspects of the job"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A work schedule:",
+    "choices": [
+      "lists both tasks and time",
+      "lists only tasks to be performed",
+      "is used for employee appraisal",
+      "studies all aspects of the job"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In making decision, take the following steps:",
+    "choices": [
+      "gather data, choose solution, take action, follow-up",
+      "determine workable solutions, choose one, take action",
+      "choose solution, take action, follow-up",
+      "recognize and analyze the problem, gather data, choose solution, take action, follow-up"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Responsibility, recognition by management, and participation in decision-making are all considered true motivators by:",
+    "choices": [
+      "Herzberg",
+      "Taylor",
+      "Maslow",
+      "Likert"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Being well-treated by supervisors, being given special attention, and the importance of breaks in increasing productivity, are all considered motivators by:",
+    "choices": [
+      "Herzberg",
+      "Mayo",
+      "Maslow",
+      "MacGregor"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Quality circles are useful in:",
+    "choices": [
+      "employee evaluations",
+      "job selection and placement",
+      "policy development",
+      "increasing productivity"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The Y Theory of management is:",
+    "choices": [
+      "authoritarian",
+      "autocratic",
+      "based on managing tasks",
+      "democratic"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A scale drawing of an area showing the path of a worker during a process is:",
+    "choices": [
+      "a flow diagram",
+      "a process chart",
+      "an operation chart",
+      "a cross chart"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A graphic representation of the separate steps in a procedure using symbols is:",
+    "choices": [
+      "a flow diagram",
+      "a process chart",
+      "an operations chart",
+      "a cross chart"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The number of work movements between pieces of equipment is indicated on:",
+    "choices": [
+      "a flow diagram",
+      "a Gantt chart",
+      "a cross chart",
+      "Johari’s window"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The best use of performance appraisals is:",
+    "choices": [
+      "to improve performance",
+      "to motivate the employee",
+      "to weed out the employees who perform poorly",
+      "to reward those who do well"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "OSHA’s responsibilities do not include:",
+    "choices": [
+      "establishing minimum safety standards",
+      "inspecting facilities",
+      "examining records of occupational injuries",
+      "developing a better safety program for a facility"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What procedure is binding and cannot be changed?",
+    "choices": [
+      "arbitration",
+      "mediation",
+      "an injunction",
+      "collective bargaining"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a hearing between labor and management during an impasse to aid in settling disputes?",
+    "choices": [
+      "arbitration",
+      "mediation",
+      "injunction",
+      "collective bargaining"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "How many quarts of batter are needed to make 144 muffins using a #12 scoop?",
+    "choices": [
+      "12",
+      "16",
+      "22",
+      "6"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "If you open sealed bids and place the order with the lowest bid, you are using which buying method?",
+    "choices": [
+      "informal",
+      "open market",
+      "future contracts",
+      "formal, competitive bid"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A written record of items ordered, with quantities and specifications is:",
+    "choices": [
+      "a purchase requisition",
+      "a standing order",
+      "an invoice",
+      "a receiving record"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When goods are received, the delivery slip included is:",
+    "choices": [
+      "an invoice",
+      "a standing order",
+      "the receiving record",
+      "a purchase requisition"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which food items require the highest humidity?",
+    "choices": [
+      "meat",
+      "dairy",
+      "fruit, vegetables",
+      "poultry"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The main reason for keeping an inventory is:",
+    "choices": [
+      "to plan next years budget",
+      "to prevent thievery",
+      "to see how well you are following the budget",
+      "to determine when and how much to reorder"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Large volume purchasing, centralized production, service areas in separate facilities are features of:",
+    "choices": [
+      "the commission system",
+      "the ready-prepared system",
+      "the assemble serve system",
+      "the conventional system"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A blast freezer and renormalization are part of the:",
+    "choices": [
+      "commissary system",
+      "ready-prepared system",
+      "assemble serve system",
+      "conventional system"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Gauge refers to:",
+    "choices": [
+      "ply",
+      "finish",
+      "polish",
+      "thickness"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following foods are safe?",
+    "choices": [
+      "beef stew at 160'",
+      "potato salad at 75'",
+      "man casserole at 100'",
+      "egg salad at 80'"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Two of the listed ingredients on a frozen food label are BHA and BHT. What is their function?",
+    "choices": [
+      "flavor enhancers",
+      "emulsifiers",
+      "to prevent enzymatic oxidation",
+      "to prevent lipid oxidation"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What function is served by glycerol monostearate?",
+    "choices": [
+      "adds to the taste of the food",
+      "acts as an emulsifier",
+      "acts as an antioxidant",
+      "acts as a humectant"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Why should a manager not allow employees to wear long jewelry in the kitchen?",
+    "choices": [
+      "to prevent showing off to other workers",
+      "sanitation considerations",
+      "possible theft",
+      "employee safety and sanitation"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "An example of self-actualization is:",
+    "choices": [
+      "breathing unassisted",
+      "companionship",
+      "safety",
+      "asking for additional training"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In the past 5-10 years, foodservice costs have risen due to increased:",
+    "choices": [
+      "food costs",
+      "labor costs",
+      "equipment costs",
+      "utility costs"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A flexible monthly budget would be recommended for a hospital which:",
+    "choices": [
+      "expects no change in expenses or revenue",
+      "expects to be at 90% occupancy",
+      "is planning to close some of its wings for renovation for three months",
+      "has less than 100 employees"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Your Nutrition Department has 6.5 FTB Dietitians at $20/hour. How much salary is that per week?",
+    "choices": [
+      "$2500",
+      "$3960",
+      "$4850",
+      "$6500"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which is the least time efficient way for a Dietitian to evaluate a new piece of equipment for purchase?",
+    "choices": [
+      "read specifications provided by the manufacturer",
+      "discuss it with other Dietitians via telephone",
+      "meet with the company representatives",
+      "attend food service trade fairs"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the first thing you should you do if an employee frequently comes to work without the proper uniform?",
+    "choices": [
+      "fire him",
+      "give him a written warning",
+      "find out why",
+      "give him a warning, and fire him the next time it happens"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What would you do if an employee does not wash pots as required?",
+    "choices": [
+      "fire him",
+      "reeducate her as to proper procedures and provide follow-up",
+      "take the job away from the employee",
+      "discipline the employee"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which would add bulk to frozen yogurt?",
+    "choices": [
+      "carrageenan",
+      "carob gum",
+      "monoglycerides",
+      "microcrystalline cellulose"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "When meat is irradiated, the best flavor comes from:",
+    "choices": [
+      "meat that has been frozen",
+      "fresh meat",
+      "aged meat",
+      "young meat"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A food service worker confides in you that he has tested HIV positive. What should you do?",
+    "choices": [
+      "ask him to report to the health clinic",
+      "instruct him to wear gloves on duty",
+      "reassign him to another area of the kitchen",
+      "assure him that confidentiality will be respected"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the popularity index for pot roast?",
+    "choices": [
+      "40%",
+      "50%",
+      "60%",
+      "70%"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "If the above entrees had been served on Tuesday, how many servings of spaghetti will you need next Tuesday, if you expect to serve 300 total entrees?",
+    "choices": [
+      "150",
+      "63",
+      "87",
+      "101"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A non-directed interview provides:",
+    "choices": [
+      "the same information on all applicants",
+      "a structured set of questions",
+      "the least amount of information",
+      "more information than a directed interview"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "To increase the number of patrons served in the cafeteria during the lunch meal:",
+    "choices": [
+      "increase the number of cafeteria employees",
+      "add a second tray line",
+      "use the scramble system",
+      "add another cashier"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is an example of productivity management?",
+    "choices": [
+      "labor turnover rate",
+      "labor minutes per day",
+      "food cost percentage",
+      "edible portion cost"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Why are open-ended questions better during an interview?",
+    "choices": [
+      "they provide the same info on all applicants",
+      "there is less personal bias",
+      "they are less time-consuming",
+      "they provide more info"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "When preparing a budget, which management function is involved?",
+    "choices": [
+      "controlling",
+      "organizing",
+      "evaluating",
+      "projecting"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "All of the following are operational costs except:",
+    "choices": [
+      "utilities",
+      "cleaning",
+      "labor costs",
+      "laundry service"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which item would appear in a capital budget?",
+    "choices": [
+      "food service equipment",
+      "food costs",
+      "labor costs",
+      "paper supplies"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What can you do if your company denies you the right to organize and form a labor union?",
+    "choices": [
+      "nothing",
+      "quickly form a union",
+      "change jobs",
+      "file a claim with the NLRB"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In work simplification, which of the following tools is helpful?",
+    "choices": [
+      "labor turnover rate",
+      "flow chart",
+      "meals per labor minute",
+      "meals per labor hour"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which additive improves crispness in vegetables?",
+    "choices": [
+      "BHA",
+      "BHT",
+      "calcium",
+      "pectin"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Limplementing a program costs $3 for each patient and the return is $6 per patient, the cost/benefit ratio is:",
+    "choices": [
+      "1:2",
+      "2:1",
+      "1:1",
+      "3:1"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The proper portion size of a dessert item is 1/3 cup. Which scoop should you use?",
+    "choices": [
+      "#12",
+      "#8",
+      "#16",
+      "#10"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The human relations theory of management stresses:",
+    "choices": [
+      "tasks, structure and authority",
+      "employee's needs",
+      "direct control by management",
+      "management's needs"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the lowest acceptable holding temperature while serving?",
+    "choices": [
+      "120°F",
+      "140°F",
+      "160°F",
+      "180°F"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following would be used to analyze trayline accuracy?",
+    "choices": [
+      "Gantt chart",
+      "Process control chart",
+      "Cause and effect diagram",
+      "Break-even analysis"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Equipment purchases depend on:",
+    "choices": [
+      "the budget",
+      "what the cooks want",
+      "the menu",
+      "the type of facility"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Quality standards for fruits assure you of:",
+    "choices": [
+      "wholesomeness",
+      "specification of minimum quality characteristics",
+      "safety from pesticides and residues",
+      "good taste"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Productivity is measured by:",
+    "choices": [
+      "the number of portions served per hour",
+      "the number of employees working each day",
+      "the number of food deliveries",
+      "the inventory"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is a formal study to verify that documentation and processes have been followed?",
+    "choices": [
+      "the audit",
+      "a quality assurance program",
+      "a verification study",
+      "statistical analysis"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Unions usually advance employees based on:",
+    "choices": [
+      "age",
+      "skill",
+      "merit",
+      "seniority"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A hospital administrator would be most concerned with:",
+    "choices": [
+      "the increase in the number of elderly admissions",
+      "the increasing growth of outpatient services",
+      "the increase in patient's length of stay",
+      "the increase in diabetic admissions"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Spaghetti sauce prepared on Monday is to be served on Wednesday. What should you recommend to the cook?",
+    "choices": [
+      "cool the sauce and store it in a deep pan",
+      "store the sauce in shallow grass in the refrigerator",
+      "store the sauce in a deep pan in the refrigerator quickly",
+      "cool completely on the counter, then refrigerate"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Theory Z is based on the following premise:",
+    "choices": [
+      "workers accept responsibility",
+      "self-direction and control are emphasized",
+      "task, structure and authority",
+      "mutual worker-employer loyalty"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which group is responsible for nutritional labeling?",
+    "choices": [
+      "USDA",
+      "US Dept. of Commerce",
+      "FDA",
+      "UPT"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Freezing will:",
+    "choices": [
+      "inhibit bacterial growth",
+      "destroy toxins",
+      "destroy bacteria",
+      "destroy enzymes"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What method is used when you log in and out movement from the storeroom?",
+    "choices": [
+      "perpetual inventory",
+      "mini-mix inventory",
+      "physical inventory",
+      "stage three inventory"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which job would you not give to a Consultant Dietitian?",
+    "choices": [
+      "planning future goals",
+      "writing policies and procedures",
+      "providing staff in-service",
+      "supervision of dietary employees"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Before adding new items to the menu:",
+    "choices": [
+      "give samples to a few patients and ask for their comments",
+      "ask patients in writing if they would like the new items",
+      "have your managers decide which ones to offer",
+      "conduct a taste panel with patients"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The major function of management is:",
+    "choices": [
+      "forecasting",
+      "actuating",
+      "planning",
+      "organizing"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Previously cooked hazardous food must be reheated to an internal Temperature of 165 °F for fifteen seconds within:",
+    "choices": [
+      "1 hour",
+      "2 hours",
+      "4 hours",
+      "30 minutes"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The Ouchi Theory Z management theory states that:",
+    "choices": [
+      "decision-making is a centralized function",
+      "committed employees can exercise self-control",
+      "employee potential is only partially utilized",
+      "employee involvement is the key to productivity"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A Food Service Director uses a 4 month moveable average to determine how many chicken breasts are needed for August given the number served in April, May, June and July. How would they forecast the need for September?",
+    "choices": [
+      "add August and delete April",
+      "add August",
+      "add August and delete July",
+      "look at last years September production tally"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An employee voted in by the union who works to settle grievances while on paid time is the:",
+    "choices": [
+      "mediator",
+      "arbitrator",
+      "conciliator",
+      "shop steward"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which law sets the minimum wage?",
+    "choices": [
+      "the Fair Labor Standards Act",
+      "the National Labor Relations Act",
+      "the Equal Opportunity Act",
+      "The Labor Management Act"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The span of control refers to the number of:",
+    "choices": [
+      "supervisors",
+      "part-time employees",
+      "employees under the direction of one person",
+      "staff positions"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The line type of organizational chart shows:",
+    "choices": [
+      "a direct flow of authority from top to bottom",
+      "authority flows from side to side",
+      "all advisory positions",
+      "informal relationships"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The employee turnover rate refers to the following:",
+    "choices": [
+      "total replacement employees divided by average work force",
+      "% of turnover rate divided by number of replacements",
+      "# employees terminated and replaced divided by total number of positions",
+      "# total positions divided by number part-time employees"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which is the best way to maximize meat storage?",
+    "choices": [
+      "cut the meat into small pieces",
+      "store it in oxygen in packages",
+      "vacuum-packaged in oxygen-impermeable film",
+      "pack it in oxygen-permeable film"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Adulterated food is regulated by the...",
+    "choices": [
+      "HHS",
+      "FDA under the Food, Drug, Cosmetic Act",
+      "Department of Commerce",
+      "USDA"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "An employee evaluation should be given:",
+    "choices": [
+      "in a quiet place with privacy",
+      "in the Diet Office",
+      "at the end of the day",
+      "at the beginning of the day"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A viscometer measures:",
+    "choices": [
+      "temperature",
+      "pH",
+      "stability",
+      "consistency"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Approximately how many patient trays per minute must a centralized tray assembly unit produce in order to serve 400 patients during 90 minutes?",
+    "choices": [
+      "3",
+      "3.5",
+      "4",
+      "4.5"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "How do you convince Administration that a former nutrition program should be reinstated?",
+    "choices": [
+      "show that 95% of patients enjoyed the program",
+      "show that 85% of those who attended came to all sessions",
+      "show that 75% of those who attended had fewer hospital stays",
+      "show that only 10% felt the program was not worthwhile"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Costs which are proportionately responsive to changes in volume are:",
+    "choices": [
+      "variable",
+      "sunk",
+      "hidden",
+      "fixed"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The width of a main kitchen aisle should be:",
+    "choices": [
+      "24\"",
+      "36\"",
+      "48\"",
+      "60\""
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Why are mono- and di-glycerides added to the shortening used in cakes?",
+    "choices": [
+      "increase spreadability",
+      "thickeners",
+      "emulsifiers",
+      "coloring agents"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "How wide should an aisle be for two people with a mobile cart to move through?",
+    "choices": [
+      "40\"",
+      "50\"",
+      "60\"",
+      "72\""
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which process results in creative, prioritized decision-making?",
+    "choices": [
+      "a focus group",
+      "the Delphi technique",
+      "the nominal group technique",
+      "operational analysis"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If you are working on a cost benefit analysis you would:",
+    "choices": [
+      "record the number of patient complaints",
+      "record the number of hours the Dietitian spent providing nutrition education",
+      "record the number of patients who were satisfied with the education provided",
+      "keep a record of all who failed to attend"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "DRG's allow $1600 for an appendectomy with a 4 day stay. The patient is released in 3 days. The hospital will receive:",
+    "choices": [
+      "$1200",
+      "$800",
+      "$2000",
+      "$1600"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "If there is an increase in input and output, productivity will:",
+    "choices": [
+      "increase",
+      "remain constant",
+      "decrease",
+      "modulate"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The food service supervisor should carefully monitor a cook-chill production because of concerns about:",
+    "choices": [
+      "work simplification techniques",
+      "food safety",
+      "portion control",
+      "product acceptability"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Management by objectives refers to a management process which employs:",
+    "choices": [
+      "periodic, prepalamed, broad objectives",
+      "precise, measurable objectives",
+      "determination of goals by department superiors",
+      "objectives of instruction set by top management"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A useful application of counting FTEs is in planning:",
+    "choices": [
+      "the menu",
+      "the type of service",
+      "the kitchen layout",
+      "the budget for wages"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The report presenting the financial condition of an organization as of a particular date is a:",
+    "choices": [
+      "budget",
+      "balance sheet",
+      "income statement",
+      "funds flow sheet"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The maximum number of calories per serving in a product labeled \"low calorie\" is:",
+    "choices": [
+      "20",
+      "40",
+      "60",
+      "80"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Five pounds of pressure creates a temperature that is ______ the boiling point of water.",
+    "choices": [
+      "less than",
+      "greater than",
+      "equal to",
+      "twice"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the chemical composition of a class ABC fire extinguisher?",
+    "choices": [
+      "water under pressure",
+      "carbon dioxide under pressure",
+      "carbon monoxide under pressure",
+      "dry inert chemicals under pressure"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "When cleaning ______ use chlorine or quaternary ammonia.",
+    "choices": [
+      "laundry",
+      "countertops",
+      "oven"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Underwriters Laboratory does which of the following?",
+    "choices": [
+      "inspects facilities for safety",
+      "inspects facilities for cleanliness",
+      "checks safety of electrical equipment",
+      "inspects gas equipment"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Propionate is used in foods to:",
+    "choices": [
+      "enhance flavor",
+      "increase shelf life by inhibiting mold",
+      "thicken",
+      "retain color"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A supervising Dietitian who wishes to delegate specific responsibilities should first:",
+    "choices": [
+      "organize a task force",
+      "check the production schedule",
+      "establish expected outcomes",
+      "establish expected time frames to accomplish the tasks"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following would add bulk to frozen yogurt?",
+    "choices": [
+      "microcrystalline cellulose",
+      "monoglycerides",
+      "carob gum",
+      "carrageenan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of these work center designs discourages through traffic?",
+    "choices": [
+      "U - shaped",
+      "back to back parallel",
+      "straight line",
+      "square"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When trying to cut down on the number of employees on a tray assembly line, evaluate the:",
+    "choices": [
+      "number of work stations",
+      "amount of idle time",
+      "line speed",
+      "capacity"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The efficiency of a foodservice employee is increased if the work center is designed to allow the employee to:",
+    "choices": [
+      "sit and reach",
+      "stand and reach",
+      "use two hands",
+      "use zigzag motions"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "To reduce the budget, first look at:",
+    "choices": [
+      "menu costs",
+      "fixed costs",
+      "variable costs",
+      "semi-variable costs"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The National Sanitation Foundation standard for equipment construction that is most related to microbiological food safety requires that:",
+    "choices": [
+      "outside corners are bull-nosed",
+      "surfaces do not have open seams or cracks",
+      "equipment surfaces are without sharp edges",
+      "bolts are securely fastened"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The cleanliness of on-line steam is not an issue when purchasing a:",
+    "choices": [
+      "convection steamer",
+      "combination oven",
+      "steam-jacketed kettle",
+      "compartment steamer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "You are preparing dinner for a 500 bed facility. The menu includes roast beef, mashed potatoes and carrots. Which equipment is best suited for this task?",
+    "choices": [
+      "a convection oven and a tilting braising pan",
+      "deck ovens and pressure steamers",
+      "a microwave oven and a trunton kettle",
+      "a rotary oven and a steamer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Meat loaf has been left out for 5 hours. Should you serve it?",
+    "choices": [
+      "yes",
+      "yes because bacteria was destroyed during the heating process",
+      "no because of the risk of botulism",
+      "no because of the risk of staphylococcus"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which would be the best tool for rating foods in a pediatric hospital?",
+    "choices": [
+      "the triangle test",
+      "paired comparison test",
+      "the facial hedonic scale",
+      "the paired preference test"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In interstate shipping of shellfish is monitored by the:",
+    "choices": [
+      "USDA",
+      "HHS",
+      "FDA",
+      "FTC"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Where should a Class B fire extinguisher be placed?",
+    "choices": [
+      "near the range",
+      "near the dishmachine",
+      "near the freezer",
+      "near the refrigerator"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "On your meal rounds you notice that elderly patients are not being fed properly. What is the best solution?",
+    "choices": [
+      "speak with the Director of Nursing",
+      "discuss it at a discharge planning meeting",
+      "confer with the Nurse's Aide responsible",
+      "assign your Diet Aide to help feed the patient"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The kitchen floor will be changed. What do you recommend?",
+    "choices": [
+      "asphalt tiles",
+      "terrazzo",
+      "concrete blocks",
+      "clay tiles"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "How many minutes are needed to sanitize dishes when washing by hand using chlorine?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What law guarantees workers the right to organize and join labor unions?",
+    "choices": [
+      "Taft Hartley",
+      "Equal Employment Act",
+      "Labor Management Relations Act",
+      "National Labor Relations Act"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the major reason for installing automated equipment?",
+    "choices": [
+      "easier to use",
+      "rising labor costs",
+      "easier to clean",
+      "greater flexibility"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The primary reason for portion control in food service is:",
+    "choices": [
+      "cost control",
+      "to standardize serving sizes",
+      "customer satisfaction",
+      "weight reduction diets"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "You teach food service workers about pot-washing temperatures. How do you know if the workers then follow the rules?",
+    "choices": [
+      "ask them to repeat the rules",
+      "test the water temperatures at frequent intervals",
+      "ask them to write down the guidelines",
+      "check to see if the pots are clean"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In order to influence a legislator one day before a vote, the Dietitian should:",
+    "choices": [
+      "visit the legislative aide",
+      "write a letter to the legislator",
+      "send a postcard to the legislator",
+      "telephone the legislator"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The hospital budget for the first 6 months is set for an 80% occupancy rate. Budget figures for this level are listed below. The second six months will have an occupancy rate of 60%. What would the food cost budget be for the second six months? Food cost $30000, Labor cost $25000, Operating costs $24000",
+    "choices": [
+      "$20000",
+      "$22500",
+      "$30000",
+      "$32000"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A press conference announcing your new business is",
+    "choices": [
+      "advertising",
+      "networking",
+      "media promotion",
+      "personal selling"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If you increase the size of the kitchen, what effect will there be on worker efficiency?",
+    "choices": [
+      "an increase",
+      "a decrease",
+      "no change",
+      "depends on the menu"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A substitute is legally differentiated from another food by:",
+    "choices": [
+      "nutrient content",
+      "calorie content",
+      "fat content",
+      "color"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The use of a sugar substitute is regulated by:",
+    "choices": [
+      "NHI",
+      "FDA",
+      "WHO",
+      "FTC"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which is a good method of food handling?",
+    "choices": [
+      "sanitizer raw food before preparation",
+      "defrost frozen food in the refrigerator",
+      "refrigerate raw food at 45°F",
+      "thaw frozen food quickly under running hot water"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Appearance, taste and texture are considered:",
+    "choices": [
+      "quantity control",
+      "safety control",
+      "quality control",
+      "production control"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "You are involved in planning a prospectus. This is:",
+    "choices": [
+      "measuring the size of all food service equipment",
+      "a planning guide for a kitchen",
+      "how to arrange the dairy box",
+      "how to document nutrition care"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "When does a breakeven point increase?",
+    "choices": [
+      "when sales decrease",
+      "when profits decrease",
+      "when profit increases",
+      "when costs increase"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A food service manager who supervises 35 employees has a problem with discipline and increased absenteeism. Why?",
+    "choices": [
+      "decreased unity among managers",
+      "excessive span of control",
+      "decreased unity of command",
+      "excessive unity of command"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the most important reason for a microwave oven in food services?",
+    "choices": [
+      "saves energy",
+      "saves money",
+      "saves time",
+      "saves cleanup"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If you purchase an oven for $10000. It is expected to last for 10 years, after which it can be sold for $3000. What is its depreciation cost each year?",
+    "choices": [
+      "$2000",
+      "$1500",
+      "$700",
+      "$500"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is not found in a standardized recipe?",
+    "choices": [
+      "seasoning to be included in the recipe",
+      "time and temperature of cooking",
+      "mixing bowls, measuring spoons",
+      "amounts of ingredients to include"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In dry storage, the humidity should be:",
+    "choices": [
+      "20-30%",
+      "30-40%",
+      "40-50%",
+      "50-60%"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Employees Work hours/week: Dietitian 40, Nurse 40, Doctor 30, Diet aides 20, Secretary 20, Clerk 10. How many FTEs are in the above operation?",
+    "choices": [
+      "2.0",
+      "4.0",
+      "6.0",
+      "8.0"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "HACCP standards would be similar for which of the following foods?",
+    "choices": [
+      "canned corn and frozen corn",
+      "fresh chicken and frozen chicken",
+      "fresh beef and frozen chicken",
+      "frozen beef and frozen corn"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The final step in a union dispute is:",
+    "choices": [
+      "arbitration",
+      "mediation",
+      "injunction",
+      "check-off"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A decision to feed patients in their rooms, rather than in the cafeteria is based on:",
+    "choices": [
+      "the philosophy of the institution",
+      "the equipment in the kitchen",
+      "the labor available",
+      "federal regulations"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The dishwasher temperatures are as follows: pre-wash 140°F, wash 150°F, rinse 200°F. You should:",
+    "choices": [
+      "turn up the rinse temperature",
+      "turn down the pre-wash temperature",
+      "turn down the rinse temperature",
+      "do nothing, they are fine"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "To find out about the new regulations developed by the FDA you would check:",
+    "choices": [
+      "the Congressional Record",
+      "the Federal Register",
+      "current newspapers",
+      "the Congressional Index"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "At what temperature should coffee and items such as thin soups be held for serving?",
+    "choices": [
+      "140-160°F",
+      "180-190°F",
+      "200-212°F"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Forty entries of fish cost $2.00 per serving. Total sales for the fish came to $240.00. What was the food cost percentage?",
+    "choices": [
+      "25%",
+      "33%",
+      "50%",
+      "60%"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which system is not labor efficient?",
+    "choices": [
+      "conventional",
+      "vending",
+      "cafeteria",
+      "assembly serve"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Motiviches is added to some types of coffee to:",
+    "choices": [
+      "retain the flavor",
+      "retain the flavour",
+      "decaffeinate it",
+      "destroy the bacteria"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "During an interview, which of the following can you ask?",
+    "choices": [
+      "Do you have a car?",
+      "How will you get to work?",
+      "Can you get to work on time without any problem?",
+      "Do you own a car?"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Quality control is:",
+    "choices": [
+      "outcome or output oriented",
+      "a measure of the quality of care provided",
+      "patient care oriented",
+      "proactive - focuses on the prevention of errors in food service"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Quality assurance is:",
+    "choices": [
+      "a measurement of the quality of care provided to patients",
+      "food service oriented",
+      "control of the distribution and service of food",
+      "control of the budget"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How many FTFS can you hire with a weekly budget of $8640 if the salary is $12.00 per hour?",
+    "choices": [
+      "10",
+      "13",
+      "16",
+      "18"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "How many 4 ounce servings can you get from 1 gallon of ice cream?",
+    "choices": [
+      "32",
+      "26",
+      "22",
+      "44"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How many servings are there in 10 gallons of ice cream using a $16 scoop?",
+    "choices": [
+      "250",
+      "480",
+      "600",
+      "640"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the gross food cost for June using the following information? June 1 inventory $5300, July 1 inventory $2700, Food purchases - month of June $3150",
+    "choices": [
+      "$5750",
+      "$3150",
+      "$4900",
+      "$6200"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How do you determine the average check in the cafeteria?",
+    "choices": [
+      "divide total sales by the number of customers",
+      "divide entire sales by the number of customers",
+      "divide the number of customers by total sales",
+      "divide the total sales by the cost of an average priced meal"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Using the following information, determine the selling price of the meal used to determine the break-even point. Fixed costs $100, Variable costs per meal $5, Break-even point 20 meals",
+    "choices": [
+      "$10",
+      "$15",
+      "$5",
+      "$2.50"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the best way to prevent contamination of food?",
+    "choices": [
+      "freeze it",
+      "freeze it in sterile packages",
+      "make employees wash hands frequently",
+      "wash countertops regularly with sanitizing agents"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Using the factor method, determine the selling price using the data below. raw food cost 3.14; prepared food cost 5.21; labor cost 3.39; overhead cost 1.12; factor 3.37",
+    "choices": [
+      "6.40",
+      "7.84",
+      "8.10",
+      "10.58"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A narrow span of management should be employed with:",
+    "choices": [
+      "routine, repetitive, homogeneous work",
+      "health care professionals who don't require close supervision",
+      "well motivated, highly trained group",
+      "newly hired employees"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is most important in determining the space required for a food production unit in a new facility?",
+    "choices": [
+      "number of hours the foodservice will be operating",
+      "market form of food purchased",
+      "number of foodservice employees",
+      "length of menu cycle"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "You have invested in new hardware and software that will reduce the labor hours needed to complete a task. What is the payback period? Hardware $3500 Software $2400 Staff instruction $1000, Labor hours saved: 6 per week at $20/hour",
+    "choices": [
+      "6 years",
+      "13 months",
+      "30 months",
+      "one year"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A foodservice is being converted from a conventional system to a ready-prepared system. The Dietitian should first consider the adequacy of the:",
+    "choices": [
+      "steam table space",
+      "dry storage space",
+      "low-temperature storage capacity",
+      "oven capacity"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Excess food soil in a dishmachine wash tank will result in foam that interferes with satisfactory dishwashing. The most appropriate corrective action is to:",
+    "choices": [
+      "pre-rinse dishes before washing",
+      "increase the amount of detergent",
+      "increase water pressure in the wash tank",
+      "drain the wash tank during meals and refill"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A 50 bed hospital has limited kitchen space for refrigeration, dry storage and food production. The most appropriate type of menu is:",
+    "choices": [
+      "restaurant style",
+      "nonselective",
+      "selective",
+      "single-use"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Using the following data, the average check for September is: Total revenue $909000 Net income 173010, FTEs 27.9 Number of customers 32613",
+    "choices": [
+      "$5.30",
+      "$6.30",
+      "$27.87",
+      "$33.04"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If dishes come out of the dishmachine with water spots:",
+    "choices": [
+      "use more detergent",
+      "add a drying agent to the wash cycle",
+      "add a drying agent to the rinse cycle",
+      "use less detergent"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What may be asked during an interview?",
+    "choices": [
+      "Do you own or rent your home?",
+      "Of what country are you a citizen?",
+      "Have you worked at the company under a different name?",
+      "Will you list all organizations, clubs and lodges to which you belong?"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If the productivity goal for a patient tray assembly unit is 4 trays per minute, the unit should be able to assemble approximately 350 trays in:",
+    "choices": [
+      "1 hour",
+      "1 hour 15 minutes",
+      "1 hour 30 minutes",
+      "1 hour 45 minutes"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "You are asked to develop quality control guidelines for receiving purchased foods. The most important guideline would be:",
+    "choices": [
+      "proper counts of the foods received",
+      "proper weights of the foods received",
+      "proper temperatures of the foods received",
+      "accurate prices on the invoices"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A pan of augratin potatoes has been cooked to an endpoint temperature of 140°F. Serving is scheduled to begin in 10 minutes. You should:",
+    "choices": [
+      "delay service until the potatoes are done",
+      "begin service without the potatoes and deliver them when done",
+      "substitute mashed potatoes until the augratin are done",
+      "complete the cooking process in the hot holding unit"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A hospital cafeteria that currently serves 500 meals at noon must increase service to 800 without adding food production staff. The best action would be:",
+    "choices": [
+      "simplify the meal",
+      "redesign the kitchen",
+      "rearrange employee work schedules",
+      "replace current equipment with fast-performance equipment"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The purpose of outcomes research is to:",
+    "choices": [
+      "determine the best approach to solving a problem",
+      "determine the most cost-effective way to solve a problem",
+      "determine the most productive outcomes",
+      "determine the best outcome desired"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The organized gathering of data and information for the purpose of analyzing a service for clients is:",
+    "choices": [
+      "an experimental design",
+      "a relationship analysis",
+      "product development",
+      "market research"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A Dietitian's documents their work on time. This is an example of:",
+    "choices": [
+      "responsibility",
+      "accountability",
+      "courtesy",
+      "good time management"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "You find out that next year's budget will change by the following: 10% increase in labor cost, 5% increase in food cost, 2% increase in overhead. What will the total budget be if the following info is from the current year? Labor costs $100,000, Food cost $100,000, Overhead cost $40,000",
+    "choices": [
+      "$450,000",
+      "$234,800",
+      "$267,000",
+      "$255,800"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Chicken has a popularity index of 45%. There are 380 total patients, 65% of whom are eating. How many will choose chicken?",
+    "choices": [
+      "202",
+      "145",
+      "196",
+      "154"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "How much will it cost to prepare these scrambled eggs? Amount to be made: 25, Cost of eggs $.83 per dozen, a. ounces margarine at $2.29 per pound, b. 2 cups milk at $2.30 per gallon",
+    "choices": [
+      "$1.47",
+      "$2.35",
+      "$1.02",
+      "$1.79"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following must be included when preparing a budget?",
+    "choices": [
+      "controlling expenses",
+      "forecasting revenue",
+      "controlling labor costs",
+      "proper cash control"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A baker makes a batch of cookies in 18 minutes. What is the maximum number of batches he can make in 2 hours?",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What would be the next number on this list with a moving average of 5? a. 1400, 1200, 1300, 1250, 1350, 1400, 1425",
+    "choices": [
+      "1345",
+      "1275",
+      "1434",
+      "1403"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A meat slicer should be cleaned:",
+    "choices": [
+      "at the end of each day",
+      "at the end of each shift",
+      "after each use",
+      "after each meal"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "When switching from a conventional to a convection oven,",
+    "choices": [
+      "increase the temperature by 15 degrees",
+      "decrease the temperature by 23 degrees",
+      "increase the temperature by 12 degrees",
+      "decrease the temperature by 5 degrees"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following extinguishers is best to use on a grease fire?",
+    "choices": [
+      "triangle symbol",
+      "circle symbol",
+      "square symbol",
+      "inverted triangle symbol"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "If the temperature on the dishmachine rinse cycle is 135°F, you should:",
+    "choices": [
+      "add additional sanitizer",
+      "use paper products until the problem has been resolved",
+      "nothing – that is the proper temperature",
+      "increase the length of the rinse cycle"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "OSHA requires documentation on the use of the following:",
+    "choices": [
+      "latex gloves",
+      "respiratory masks",
+      "safety goggles",
+      "hairiors"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the benefit-cost ratio of a program intervention that cost $1,800,000 if the savings as a result of the program were $5.67 million?",
+    "choices": [
+      "11",
+      "21",
+      "31",
+      "13"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "You called a meeting for 9AM. Three out of the five people arrived on time. What is the general guideline for starting meetings?",
+    "choices": [
+      "wait until all participants have arrived",
+      "wait to minutes past the stated starting time",
+      "wait until the most significant members have arrived",
+      "start on time"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The minimum recommended temperature for a chemical sanitizer is:",
+    "choices": [
+      "75°F",
+      "140°F",
+      "100°F",
+      "170°F"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sugar and salt act as preservatives because they:",
+    "choices": [
+      "provide unfavorable osmotic pressure",
+      "prevent microbial contact",
+      "disguise flavor",
+      "reduce the alkalinity"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "To sanitize, immerse dishes in a chemical solution for _ minute(s):",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following components is projected first during the budgeting process?",
+    "choices": [
+      "cash",
+      "labor",
+      "operating expenses",
+      "revenue"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The temperature of a beef casserole drops below 140° within an hour. What should you do?",
+    "choices": [
+      "throw it out",
+      "return it to the hot-holding cabinet to reheat it to a temperature of 65",
+      "return it to the oven to reheat it to a minimum of 140",
+      "return it to the oven to reheat it to a minimum of 165"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "If you are concerned that the receiver is not accurately checking incoming stock, you should begin:",
+    "choices": [
+      "purchasing by bid",
+      "use a prime vendor",
+      "implement blind receiving",
+      "conduct random checks of food cases"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A foodservice uses hamburger parties at an average rate of 6 cases per day. Lead time is 3 days. You want to have a safety supply of 2 cases. You need to order them when the supply drops to ___ cases.",
+    "choices": [
+      "18",
+      "20",
+      "36",
+      "45"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following kitchen layouts will help prevent other employees from walking through the cook's work area?",
+    "choices": [
+      "plan each work center with its own supply storage areas",
+      "plan work aisles separate from traffic aisles",
+      "position work centers adjacent to the appropriate point of service",
+      "design aisles wide enough to accommodate both"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "There are seven foodservice employees in the tray assembly unit. The patient census is 350. If 1½ hours of assembly time is allowed, a feasible productivity goal for the unit is to assemble how many trays per minute?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following menu items generate the most revenue? Menu item Selling price Raw food cost Units sold: Shrimp alfredo $12.05 $4.05 75, Chicken marsala 11.50 $3.83 193, Prime rib 14.95 $4.39 172, Lemon halibut 13.50 $4.29 210",
+    "choices": [
+      "shrimp alfredo",
+      "chicken marsala",
+      "prime rib",
+      "lemon halibut"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following types of menus would be most appropriate for a new acute-care facility with an expected length of stay of 2 days?",
+    "choices": [
+      "static",
+      "7 day cycle",
+      "14 day cycle",
+      "21 day cycle"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Financial data for 1 month is shown. What is the net profit? Cafeteria revenue $119954, Patient meals revenue $146250, Catering sales $1850, Food costs $10234, Labor costs $147446, Other costs $10204",
+    "choices": [
+      "$200",
+      "$10404",
+      "$167850",
+      "$268084"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which menu item generates the highest profit? Menu item units sold selling price raw food cost prime cost: Lasagna 1500 $3.00 $1.35 $2.00, Vegetarian chili 100 $1.25 $0.57 $1.00, Hamburger 400 $2.00 $0.90 $1.50, Euclillada 100 $3.00 $1.14 $1.75",
+    "choices": [
+      "lasagna",
+      "vegetarian chili",
+      "hamburger",
+      "enchilade"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Hospitals use formularies to:",
+    "choices": [
+      "obtain volume purchasing discounts",
+      "limit the use of certain products",
+      "develop process charts",
+      "organize departments in the hospital"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which organization regulates the irradiation of foods?",
+    "choices": [
+      "DHHS",
+      "USDA",
+      "Department of Commerce Marine Fisheries Service",
+      "FDA"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The interstate shipping of shellfish is monitored by the:",
+    "choices": [
+      "DHHS",
+      "USDA",
+      "Department of Commerce",
+      "FDA"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If the chlorine solution in the dishmachine is not working properly, the first action should be:",
+    "choices": [
+      "change to quarternary ammonia",
+      "check the concentration and temperature of the solution",
+      "use disposable dishes",
+      "change to an iodine solution"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "If dishes are not cleaned properly in the dishmachine, the first thing to check is:",
+    "choices": [
+      "the temperature of the various cycles",
+      "the number of items being serviced in a short time",
+      "the length of time between a meal and dishwashing",
+      "the number of employees assigned to the process"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A 412 scoop, was used to serve 600 servings of mashed potatoes instead of a #16 scoop. How many servings were they short?",
+    "choices": [
+      "90",
+      "25",
+      "210",
+      "156"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The #12 scoop measures:",
+    "choices": [
+      "1/4 cup",
+      "1/2 cup",
+      "1/3 cup",
+      "one cup"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If an employee is not performing well, the first thing to do is to check the:",
+    "choices": [
+      "job description",
+      "job specification",
+      "job analysis",
+      "work schedule"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "PERT is a tool that will help you:",
+    "choices": [
+      "control large projects and calculate the time needed to get the job done",
+      "assign workers to various tasks",
+      "determine productivity levels",
+      "determine the average clock"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which is an example of an indirect cost?",
+    "choices": [
+      "fringe benefits",
+      "travel costs",
+      "food",
+      "china"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The most appropriate temperature for a sanitizing solution is:",
+    "choices": [
+      "50 degrees F",
+      "70 degrees F",
+      "90 degrees F",
+      "100 degrees F"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "You are a supervising Dietitian and are very satisfied with one of your Diet Aides who works very hard. One year after hiring her, you realize the information on her application wasn’t true. What should you do?",
+    "choices": [
+      "say nothing and ignore it",
+      "discuss it with her one on one in your office",
+      "inform human resources about the situation",
+      "fire her"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A food delivery arrived during trayline service. What should the Dietitian do?",
+    "choices": [
+      "ask the driver to wait",
+      "ask the driver to verify the shipment and sign the invoice",
+      "direct the available security guard to verify the shipment",
+      "stop the trayline service and receive the delivery"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The FDA is responsible for:",
+    "choices": [
+      "pesticide residue tolerance levels",
+      "standard of fill, assuring meat wholesomeness, nutrition labels",
+      "grading of meat",
+      "standard of identity, nutrition labels, imitation foods"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A Director from another Department sends you an email regarding construction. This is an example of what kind of communication?",
+    "choices": [
+      "horizontal",
+      "downward",
+      "straight",
+      "informal"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The cafeteria serves lunch from 11AM – 2:30PM with a seat turnover rate of 1.5/hour. They need to seat 250 customers. How many chairs do they need?",
+    "choices": [
+      "48",
+      "56",
+      "72",
+      "125"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A $240 income was generated selling 40 pieces of fish with a raw food cost of $2.00 each. What is the % food cost?",
+    "choices": [
+      "33%",
+      "10%",
+      "20%",
+      "10%"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Formularies are descriptions of:",
+    "choices": [
+      "approved treatment regimens",
+      "pharmacy drug specifications",
+      "capital budget items",
+      "semi-variable costs"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The Family and Medical Leave Act guarantees:",
+    "choices": [
+      "an equivalent position with equal benefits and pay status",
+      "the same position you held before you left",
+      "the first open position after you return",
+      "a similar position in a different division"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "You are planning the budget for next year. Labor costs will increase by 20%. Food costs will increase by 5%. Operating costs will increase by 2%. This year, sales totaled $1,000,000. Labor costs were 40% of income, food cost was 40% of income, and operating costs were 20% of income. What is the projected budget?",
+    "choices": [
+      "1064000",
+      "1640000",
+      "1840000",
+      "1170000"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "You recently interviewed a top candidate for an administrative position, and are about to offer him the job. You then learn that he is planning on adopting a child. What should you do?",
+    "choices": [
+      "hire him",
+      "confront him about the possibility",
+      "do not hire him",
+      "wait two weeks to see if his does adopt the child"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Processed chopped lettuce costs $6.60/h. Whole-head lettuce costs $16.40/jcolb. case. If the head lettuce can be processed in two hours at $5.25/hour for labor, what is the relative value of processed and head lettuce if the yield is 75%?",
+    "choices": [
+      "$6.90 processed; $7.72 head lettuce",
+      "$6.90 processed; $8.90 head lettuce",
+      "$7.92 processed; $9.96 head lettuce",
+      "$7.92 processed; $8.96 head lettuce"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "How many actual relief employees are needed to cover 20 full-time employees?",
+    "choices": [
+      "12",
+      "15",
+      "11",
+      "8"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Based on an 8 hour day, the number of hours worked was 55,267 per year. The total number of hours paid was 59,995 per year. Calculate the number of productive FTEs.",
+    "choices": [
+      "2.27",
+      "18.90",
+      "26.00",
+      "28.80"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following formulas is used to determine a meal equivalent in a commercial operation?",
+    "choices": [
+      "average of a prototype meal",
+      "average dollars spent per patron over a one week period",
+      "total sales divided by budgeted cost per meal",
+      "total revenues for a specific period divided by the cost of a prototype meal"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The kitchen layout below is characteristic of which foodservice system? Deck ovens / Range / Tilting skillet / Refrigerator / Freezer / Preparation counter / Bulk hot carts / Bulk cold carts",
+    "choices": [
+      "commissary",
+      "conventional",
+      "ready-prepared",
+      "assembly-serve"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The kitchen layout below is characteristic of which foodservice system? Deck ovens / Range / Tilting skillet / Refrigerator / Freezer / Preparation counter / Meal assembly / Delivery carts",
+    "choices": [
+      "commissary",
+      "conventional",
+      "ready-prepared",
+      "assembly-serve"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The kitchen layout below is characteristic of which foodservice system? Refrigerator / Freezer / Steamers / Ovens / Microwave / Meal assembly / Delivery carts",
+    "choices": [
+      "commissary",
+      "conventional",
+      "ready prepared",
+      "assembly-serve"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following has the quickest onset of food-borne illness?",
+    "choices": [
+      "staphylococcus aureus",
+      "clostridium botulinum",
+      "clostridium perfringens",
+      "campylobacter jejuni"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The profitability of a coffee shop may be determined by calculating the ratio of profit to:",
+    "choices": [
+      "sales",
+      "labor costs",
+      "liabilities",
+      "indirect costs"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Dishes are greasy when unloaded from the dishmachine. What should you check first?",
+    "choices": [
+      "wash temperature",
+      "rinse temperature",
+      "amount of detergent",
+      "amount of rinse agent"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following strategies is most likely to increase revenue? Contribution margin Low High Sales Low Pot roast Beef tacos High Barbecued ribs Beef stew",
+    "choices": [
+      "replace the beef tacos",
+      "replace the beef stew",
+      "offer pot roast more often",
+      "replace the pot roast"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which method of buying includes contacting several vendors to obtain price quotes and placing orders?",
+    "choices": [
+      "prime vendor",
+      "informal",
+      "formal",
+      "contract"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "To determine how profitable a department has been, determine the profit margin, which is:",
+    "choices": [
+      "ratio of income to revenue",
+      "ratio of costs to income",
+      "ratio of overhead to sales",
+      "ratio of profit to sales"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A catered lunch is cancelled after the food has been prepared. What should you do?",
+    "choices": [
+      "sell the meals in the cafeteria at a break-even price",
+      "give meals to kitchen/cafeteria employees",
+      "incorporate the items into the next meal service",
+      "discard the items"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The raw food cost of an item is $1.12 per serving. What is the hidden cost?",
+    "choices": [
+      "$ 10",
+      "$ 07",
+      "$ 13",
+      "$ 11"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which would be a sentinel event?",
+    "choices": [
+      "an NPO patient receiving a regular tray",
+      "a low sodium patient receiving a regular tray",
+      "a weight reduction patient receiving a regular tray",
+      "a high potassium patient receiving a regular tray"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which would be a sentinel event?",
+    "choices": [
+      "a meat slicer left with the blade unguarded",
+      "a wet floor near the dishmachine",
+      "an unclean can opener",
+      "MSDS sheets not posted"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An employee consistently calls in sick the day before a holiday. His Supervisor should:",
+    "choices": [
+      "discuss this with other managers",
+      "telephone the employee to verify the illness",
+      "schedule a counseling session with him",
+      "file a letter of concern with the employee relations department"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "According to HACCP, which would be the recommendation when preparing spaghetti and sauce?",
+    "choices": [
+      "divide the prepared sauce into several small pans before chilling",
+      "rinse spaghetti in cold water before mixing with sauce",
+      "cook the meat thoroughly before mixing with sauce",
+      "stir occasionally throughout the holding time"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Primary considerations in the purchase of foodservice equipment are:",
+    "choices": [
+      "cost and performance",
+      "safety and versatility",
+      "safety and performance",
+      "cleanability and versatility"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is least valuable in a specification?",
+    "choices": [
+      "grade and brand",
+      "quality tolerance limits",
+      "count on container or number per pound",
+      "the unit on which price will be based"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "When a supervisor says to a subordinate, “Do it because I am asking you to; I’m the boss,” they are using what type of power?",
+    "choices": [
+      "position",
+      "referent",
+      "personal",
+      "incumbent"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following tools would be best in determining consumption of vegetables in a high school?",
+    "choices": [
+      "24 hour dietary recall records",
+      "conduct plate waste studies",
+      "conduct focus groups with students",
+      "check school cafeteria sales records"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cost-effectiveness analysis is used to:",
+    "choices": [
+      "compare two or more alternatives to achieve the same objective",
+      "evaluate direct, indirect benefits",
+      "place a dollar amount on the outcome of the procedure",
+      "calculate a profit margin"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A manager asks for input and advice from several employees on a situation. He then makes a decision which may or may not reflect the input provided by the employees. He is using what leadership decision-making style?",
+    "choices": [
+      "democratic",
+      "autocratic",
+      "group",
+      "consultative"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The primary goal of outcomes research in a health care setting is to:",
+    "choices": [
+      "decrease healthcare costs",
+      "increase cost-effectiveness",
+      "improve the quality of services offered",
+      "give the facility a competitive advantage"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The food service director who wants to hire a dietitian should first:",
+    "choices": [
+      "publish a job listing in the Journal of the American Dietetic Assoc.",
+      "screen potential applicants to determine who has an RD credential",
+      "develop a job description and specification for the position",
+      "review dietitian’s resumes on file"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is an outcome indicator?",
+    "choices": [
+      "freezer temperatures are recorded daily",
+      "customers are satisfied with the meals",
+      "tube feeding bags and sets are changed every 24 hours",
+      "food allergies are documented in the medical record"
+    ],
+    "answer": 1
+  }
+]
