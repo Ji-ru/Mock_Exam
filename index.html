@@ -320,7 +320,6 @@
       text-align: center;
       margin-bottom: 16px;
       box-shadow: 0 10px 40px rgba(102, 126, 234, 0.4);
-      width: 100%;
     }
     
     .result-summary h2 {
@@ -429,6 +428,7 @@
       border-radius: 12px;
       padding: 16px;
       border: 2px solid #e5e7eb;
+      width: 100%;
     }
     
     .review-item.correct {
@@ -484,8 +484,15 @@
         padding: 20px;
       }
       
+      .container {
+        max-width: 100%;
+        padding: 0 20px;
+      }
+      
       .header {
         padding: 20px;
+        max-width: 1400px;
+        margin: 0 auto 20px;
       }
       
       .header h1 {
@@ -505,6 +512,8 @@
         max-height: none;
         padding: 20px;
         margin-bottom: 20px;
+        max-width: 1400px;
+        margin: 0 auto 20px;
       }
       
       .nav-grid {
@@ -513,6 +522,8 @@
       
       .question-area {
         padding: 28px;
+        max-width: 1400px;
+        margin: 0 auto;
       }
       
       .question-text {
@@ -533,6 +544,22 @@
       
       .result-summary .score {
         font-size: 64px;
+      }
+      
+      .review-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 16px;
+      }
+      
+      .review-item {
+        width: 100%;
+      }
+    }
+    
+    @media (min-width: 1200px) {
+      .review-container {
+        grid-template-columns: repeat(3, 1fr);
       }
     }
   </style>
@@ -730,6 +757,7 @@
             <span>Try Again</span>
           </button>
         </div>
+        <div class="review-container"></div>
         <div class="pagination">
           <div class="pagination-info">
             Showing ${startIdx + 1}-${endIdx} of ${questions.length} questions
@@ -746,7 +774,6 @@
             </button>
           </div>
         </div>
-        <div class="review-container"></div>
       `;
       
       const container = area.querySelector('.review-container');
