@@ -1,137 +1,237 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Nutritionist/Dietitian Mock Exam</title>
-  <style>
-    body {font-family: Arial, sans-serif; background: #f9fafb; margin: 0; padding: 20px; color: #111827;}
-    .header {display:flex; justify-content:space-between; align-items:center; margin-bottom:20px;}
-    .header h1 {font-size:20px; margin:0;}
-    #timer {font-weight: bold; color: #b91c1c;}
-    .grid {display: grid; grid-template-columns: repeat(auto-fill, minmax(40px, 1fr)); gap: 6px; margin-bottom: 20px;}
-    .grid button {padding:8px; border:1px solid #d1d5db; border-radius:4px; background:#fef2f2; cursor:pointer; font-size:13px;}
-    .grid button.answered {background:#bbf7d0;}
-    .question-box {border:1px solid #e5e7eb; border-radius:8px; padding:16px; background:#fff; margin-bottom: 16px;}
-    .question-text {font-weight:bold; margin-bottom:10px;}
-    .options {margin-bottom:10px;}
-    .options label {display:block; margin-bottom:6px;}
-    .controls {display:flex; justify-content:space-between; gap:10px; margin-top:10px;}
-    .controls button {padding:8px 14px; border:none; border-radius:4px; cursor:pointer;}
-    .controls .next {background:#2563eb; color:#fff;}
-    .controls .prev {background:#f3f4f6;}
-    .controls .submit {background:#16a34a; color:#fff;}
-    .answer-review {margin-top:10px; font-size:14px;}
-    .answer-review.correct {color:green; font-weight:bold;}
-    .answer-review.incorrect {color:#b91c1c; font-weight:bold;}
-    #result {margin-top:20px; padding:15px; background:#f3f4f6; border-radius:8px; display:none;}
-  </style>
-</head>
-<body>
-  <div class="header">
-    <h1>Nutritionist / Dietitian Mock Exam</h1>
-    <div>Time left: <span id="timer">02:00:00</span></div>
-  </div>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Nutritionist/Dietitian Mock Exam</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background: #f9fafb;
+        margin: 0;
+        padding: 20px;
+        color: #111827;
+      }
+      .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 20px;
+      }
+      .header h1 {
+        font-size: 20px;
+        margin: 0;
+      }
+      #timer {
+        font-weight: bold;
+        color: #b91c1c;
+      }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(40px, 1fr));
+        gap: 6px;
+        margin-bottom: 20px;
+      }
+      .grid button {
+        padding: 8px;
+        border: 1px solid #d1d5db;
+        border-radius: 4px;
+        background: #fef2f2;
+        cursor: pointer;
+        font-size: 13px;
+      }
+      .grid button.answered {
+        background: #bbf7d0;
+      }
+      .question-box {
+        border: 1px solid #e5e7eb;
+        border-radius: 8px;
+        padding: 16px;
+        background: #fff;
+        margin-bottom: 16px;
+      }
+      .question-text {
+        font-weight: bold;
+        margin-bottom: 10px;
+      }
+      .options {
+        margin-bottom: 10px;
+      }
+      .options label {
+        display: block;
+        margin-bottom: 6px;
+      }
+      .controls {
+        display: flex;
+        justify-content: space-between;
+        gap: 10px;
+        margin-top: 10px;
+      }
+      .controls button {
+        padding: 8px 14px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      .controls .next {
+        background: #2563eb;
+        color: #fff;
+      }
+      .controls .prev {
+        background: #f3f4f6;
+      }
+      .controls .submit {
+        background: #16a34a;
+        color: #fff;
+      }
+      .answer-review {
+        margin-top: 10px;
+        font-size: 14px;
+      }
+      .answer-review.correct {
+        color: green;
+        font-weight: bold;
+      }
+      .answer-review.incorrect {
+        color: #b91c1c;
+        font-weight: bold;
+      }
+      #result {
+        margin-top: 20px;
+        padding: 15px;
+        background: #f3f4f6;
+        border-radius: 8px;
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="header">
+      <h1>Nutritionist / Dietitian Mock Exam</h1>
+      <div>Time left: <span id="timer">02:00:00</span></div>
+    </div>
 
-  <div class="grid" id="navGrid"></div>
+    <div class="grid" id="navGrid"></div>
 
-  <div class="question-box" id="questionBox"></div>
+    <div class="question-box" id="questionBox"></div>
 
-  <div id="result"></div>
+    <div id="result"></div>
 
-<script>
-const questions = [
-  {q: 'Which macronutrient provides the most energy per gram?', choices:['Protein','Carbohydrate','Fat','Alcohol'], answer:2},
-  {q: 'Which vitamin is fat-soluble?', choices:['Vitamin C','Vitamin B6','Vitamin A','Vitamin B12'], answer:2},
-  // ... Add up to 100 questions similarly
-];
+    <script>
+      let questions = [];
+      let current = 0;
+      let answers = [];
+      let remaining = 2 * 60 * 60; // 2 hours
+      let timerInterval;
 
-let current = 0;
-let answers = new Array(questions.length).fill(null);
-let remaining = 2*60*60; // 2 hours
-let timerInterval;
+      // Load questions dynamically from JSON file
+      fetch("nutrition_exam_200.json")
+        .then((response) => response.json())
+        .then((data) => {
+          questions = data;
+          answers = new Array(questions.length).fill(null);
+          loadNav();
+          showQuestion(0);
+        })
+        .catch((err) => console.error("Error loading questions:", err));
 
-function formatTime(sec){
-  const h=Math.floor(sec/3600).toString().padStart(2,'0');
-  const m=Math.floor((sec%3600)/60).toString().padStart(2,'0');
-  const s=(sec%60).toString().padStart(2,'0');
-  return `${h}:${m}:${s}`;
-}
+      function formatTime(sec) {
+        const h = Math.floor(sec / 3600)
+          .toString()
+          .padStart(2, "0");
+        const m = Math.floor((sec % 3600) / 60)
+          .toString()
+          .padStart(2, "0");
+        const s = (sec % 60).toString().padStart(2, "0");
+        return `${h}:${m}:${s}`;
+      }
 
-function updateTimer(){
-  document.getElementById('timer').innerText = formatTime(remaining);
-  if(remaining<=0){ clearInterval(timerInterval); submitExam(); }
-  remaining--;
-}
+      function updateTimer() {
+        document.getElementById("timer").innerText = formatTime(remaining);
+        if (remaining <= 0) {
+          clearInterval(timerInterval);
+          submitExam();
+        }
+        remaining--;
+      }
 
-timerInterval = setInterval(updateTimer,1000);
+      timerInterval = setInterval(updateTimer, 1000);
 
-function loadNav(){
-  const grid=document.getElementById('navGrid');
-  grid.innerHTML="";
-  for(let i=0;i<questions.length;i++){
-    const btn=document.createElement('button');
-    btn.innerText=i+1;
-    btn.onclick=()=>showQuestion(i);
-    if(answers[i]!==null) btn.classList.add('answered');
-    grid.appendChild(btn);
-  }
-}
+      function loadNav() {
+        const grid = document.getElementById("navGrid");
+        grid.innerHTML = "";
+        for (let i = 0; i < questions.length; i++) {
+          const btn = document.createElement("button");
+          btn.innerText = i + 1;
+          btn.onclick = () => showQuestion(i);
+          if (answers[i] !== null) btn.classList.add("answered");
+          grid.appendChild(btn);
+        }
+      }
 
-function showQuestion(index){
-  current=index;
-  const q=questions[index];
-  const box=document.getElementById('questionBox');
-  box.innerHTML=`<div class='question-text'>${index+1}. ${q.q}</div>`;
-  const opts=document.createElement('div');
-  opts.className='options';
-  q.choices.forEach((c,i)=>{
-    opts.innerHTML+=`<label><input type='radio' name='q${index}' value='${i}' ${answers[index]===i?'checked':''}> ${c}</label>`;
-  });
-  box.appendChild(opts);
+      function showQuestion(index) {
+        current = index;
+        const q = questions[index];
+        const box = document.getElementById("questionBox");
+        box.innerHTML = `<div class='question-text'>${index + 1}. ${q.q}</div>`;
+        const opts = document.createElement("div");
+        opts.className = "options";
+        q.choices.forEach((c, i) => {
+          opts.innerHTML += `<label><input type='radio' name='q${index}' value='${i}' ${
+            answers[index] === i ? "checked" : ""
+          }> ${c}</label>`;
+        });
+        box.appendChild(opts);
 
-  const controls=document.createElement('div');
-  controls.className='controls';
-  controls.innerHTML=`
-    <button class='prev' ${index===0?'disabled':''} onclick='showQuestion(${index-1})'>Previous</button>
-    <button class='next' ${index===questions.length-1?'disabled':''} onclick='saveAnswer();showQuestion(${index+1})'>Next</button>
+        const controls = document.createElement("div");
+        controls.className = "controls";
+        controls.innerHTML = `
+    <button class='prev' ${
+      index === 0 ? "disabled" : ""
+    } onclick='showQuestion(${index - 1})'>Previous</button>
+    <button class='next' ${
+      index === questions.length - 1 ? "disabled" : ""
+    } onclick='saveAnswer();showQuestion(${index + 1})'>Next</button>
     <button class='submit' onclick='saveAnswer();submitExam()'>Submit Exam</button>`;
-  box.appendChild(controls);
-}
+        box.appendChild(controls);
+      }
 
-function saveAnswer(){
-  const radios=document.getElementsByName('q'+current);
-  radios.forEach(r=>{if(r.checked) answers[current]=parseInt(r.value);});
-  loadNav();
-}
+      function saveAnswer() {
+        const radios = document.getElementsByName("q" + current);
+        radios.forEach((r) => {
+          if (r.checked) answers[current] = parseInt(r.value);
+        });
+        loadNav();
+      }
 
-function submitExam(){
-  clearInterval(timerInterval);
-  let score=0;
-  const box=document.getElementById('questionBox');
-  box.innerHTML='';
-  questions.forEach((q,i)=>{
-    const div=document.createElement('div');
-    div.className='question-box';
-    div.innerHTML=`<div class='question-text'>${i+1}. ${q.q}</div>`;
-    q.choices.forEach((c,idx)=>{
-      const checked=answers[i]===idx? 'checked' : '';
-      div.innerHTML+=`<div><input type='radio' disabled ${checked}> ${c}</div>`;
-    });
-    if(answers[i]===q.answer){
-      score++;
-      div.innerHTML+=`<div class='answer-review correct'>Correct</div>`;
-    } else {
-      div.innerHTML+=`<div class='answer-review incorrect'>Incorrect. Correct answer: ${q.choices[q.answer]}</div>`;
-    }
-    box.appendChild(div);
-  });
-  document.getElementById('result').style.display='block';
-  document.getElementById('result').innerHTML=`<strong>Score: ${score}/${questions.length}</strong>`;
-}
-
-loadNav();
-showQuestion(0);
-</script>
-</body>
+      function submitExam() {
+        clearInterval(timerInterval);
+        let score = 0;
+        const box = document.getElementById("questionBox");
+        box.innerHTML = "";
+        questions.forEach((q, i) => {
+          const div = document.createElement("div");
+          div.className = "question-box";
+          div.innerHTML = `<div class='question-text'>${i + 1}. ${q.q}</div>`;
+          q.choices.forEach((c, idx) => {
+            const checked = answers[i] === idx ? "checked" : "";
+            div.innerHTML += `<div><input type='radio' disabled ${checked}> ${c}</div>`;
+          });
+          if (answers[i] === q.answer) {
+            score++;
+            div.innerHTML += `<div class='answer-review correct'>Correct</div>`;
+          } else {
+            div.innerHTML += `<div class='answer-review incorrect'>Incorrect. Correct answer: ${
+              q.choices[q.answer]
+            }</div>`;
+          }
+          box.appendChild(div);
+        });
+        document.getElementById("result").style.display = "block";
+        document.getElementById(
+          "result"
+        ).innerHTML = `<strong>Score: ${score}/${questions.length}</strong>`;
+      }
+    </script>
+  </body>
 </html>
