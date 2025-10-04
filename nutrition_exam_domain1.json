@@ -1,0 +1,1763 @@
+[
+  {
+    "q": "When you check overrun, you are checking:",
+    "choices": [
+      "excess stock in the storeroom",
+      "surplus soap and rinse aids used in the dishmachine",
+      "the weight of ice cream",
+      "total costs of unexpected meals served"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the process by which the water content of a vegetable is replaced by a concentrated salt solution?",
+    "choices": [
+      "gelling",
+      "osmosis",
+      "diffusion",
+      "retrograduation"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which recipe ingredient should be adjusted if a cake has a crunchy crust and compact moist texture?",
+    "choices": [
+      "milk",
+      "flour",
+      "sugar",
+      "baking powder"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Why do egg whites beat more easily at room temperature?",
+    "choices": [
+      "the pH is increased",
+      "the protein is denatured",
+      "the surface tension is lower",
+      "the surface tension is higher"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which pigment does not change color in an acid or an alkaline solution?",
+    "choices": [
+      "anthocyanin",
+      "chlorophyll",
+      "carotene",
+      "flavone"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The end products of cellular oxidation are:",
+    "choices": [
+      "water, carbon dioxide, energy",
+      "carbon, hydrogen, nitrogen",
+      "indigestible fiber, nitrogen",
+      "monosaccharides, amino acids, energy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Carbohydrates listed in order of decreasing sweetness are:",
+    "choices": [
+      "fructose, glucose, sucrose, sorbitol",
+      "sucrose, glucose, fructose, sorbitol",
+      "fructose, sucrose, glucose, sorbitol",
+      "sorbitol, fructose, sucrose, glucose"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The flakiness of pie crust depends on:",
+    "choices": [
+      "type of fat",
+      "oxidation of fat",
+      "temperature of the fat",
+      "oven temperature"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A group of rats being fed gelatin as the sole protein source are not growing well. What is the likely reason?",
+    "choices": [
+      "gelatin has no tryptophan and is low in methionine and lysine",
+      "gelatin has no methionine and is low in tryptophan",
+      "gelatin has no lysine or methionine, and is low in tryptophan",
+      "gelatin has no arginine"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A #10 can holds how many cups of product?",
+    "choices": [
+      "10",
+      "13",
+      "12",
+      "5"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If you replace half and half with whipping cream in ice cream, the effects on the ice crystals will be:",
+    "choices": [
+      "an increase in size because there is less fat",
+      "a decrease in size because there is more fat",
+      "no change",
+      "an increase in size because there is more fat"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Fat produces more calories than carbohydrate because:",
+    "choices": [
+      "fat has more carbon and hydrogen in relation to oxygen",
+      "fat has less carbon and hydrogen in relation to oxygen",
+      "fat is a larger molecule",
+      "fat is a smaller molecule"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Research has shown that neural tube defects can be reduced with proper supplementation of:",
+    "choices": [
+      "iron",
+      "folic acid",
+      "glutamine",
+      "arginine"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The best laboratory value to use in assessing iron status is:",
+    "choices": [
+      "hemoglobin",
+      "hematocrit",
+      "ferritin",
+      "serum iron"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which is the best flour when making cakes?",
+    "choices": [
+      "graham flour",
+      "all-purpose flour",
+      "whole wheat flour",
+      "durum wheat flour"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Where is lactose absorbed?",
+    "choices": [
+      "small intestine",
+      "stomach",
+      "pancreas",
+      "liver"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Considering the following smoke points of various fats, which would be the best to use for frying?",
+    "choices": [
+      "300°F",
+      "325°F",
+      "375°F",
+      "400°F"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which minerals are involved in carbohydrate metabolism?",
+    "choices": [
+      "cobalt, zinc",
+      "chromium, zinc",
+      "copper, chromium",
+      "iron, zinc"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Acidic chyme becomes neutralized in the duodenum by:",
+    "choices": [
+      "mixing with bicarbonate and fluids",
+      "mixing with alkaline intestinal enzymes",
+      "mixing with sodium and potassium",
+      "mixing with bile"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The colon functions in the absorption of:",
+    "choices": [
+      "amino acids, fatty acids",
+      "unsaturated fatty acids, electrolytes",
+      "water, salts, vitamin K, thiamin, riboflavin",
+      "glucose and fatty acids"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "To prevent frozen gravy from separating when thawed:",
+    "choices": [
+      "reheat slowly and stir constantly",
+      "thaw it before heating and stir constantly",
+      "prepare it with modified starch",
+      "cook it longer before freezing to stabilize the gravy"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "How much fluid is lost through insensible losses?",
+    "choices": [
+      "5 liters",
+      "1 liter",
+      "2 liters",
+      "3-4 liters"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "An amino acid that cannot be produced by the body is:",
+    "choices": [
+      "alanine",
+      "glycine",
+      "tyrosine",
+      "tryptophan"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The following is an irreversible reaction:",
+    "choices": [
+      "pyruvic acid into lactic acid",
+      "pyruvic acid into acetyl CoA",
+      "glucose-6-phosphate into glycogen",
+      "glucose-6-phosphate into pyruvate"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Riboflavin, thiamin and niacin are all involved in the:",
+    "choices": [
+      "metabolism of carbohydrate",
+      "metabolism of fat",
+      "metabolism of protein",
+      "production of amino acids"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An increased plasma pyruvate level is an indication of:",
+    "choices": [
+      "iron deficiency",
+      "riboflavin deficiency",
+      "excess carbohydrate ingestion",
+      "thiamin deficiency"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following stabilizes an egg white foam?",
+    "choices": [
+      "an acid",
+      "water",
+      "flour",
+      "salt"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Winterized oil is:",
+    "choices": [
+      "cloudy when refrigerated",
+      "clear when refrigerated",
+      "cloudy when stored for long periods of time",
+      "clear only if kept at room temperature"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What may cause EKG abnormalities?",
+    "choices": [
+      "high serum potassium level",
+      "low serum potassium level",
+      "low serum sodium level",
+      "high serum sodium level"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In the fed state, the brain uses which nutrient as a source of energy?",
+    "choices": [
+      "fatty acid",
+      "lactic acid",
+      "glucose",
+      "ketone bodies"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In starvation, the brain uses which nutrient as an energy source?",
+    "choices": [
+      "fatty acids",
+      "lactic acid",
+      "glucose",
+      "ketone bodies"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Gluconeogenesis is the:",
+    "choices": [
+      "catabolism of carbohydrate",
+      "creation of glucose from glycerol and amino acids",
+      "breakdown of glycogen releasing glucose",
+      "creation of glycogen"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Glycolysis is the:",
+    "choices": [
+      "catabolism of carbohydrate",
+      "creation of glucose from glycerol and amino acids",
+      "breakdown of glycogen releasing glucose",
+      "creation of glycogen"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Glycogenolysis is the:",
+    "choices": [
+      "catabolism of carbohydrate",
+      "creation of glucose from glycerol and amino acids",
+      "breakdown of glycogen releasing glucose",
+      "creation of glycogen"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The end product of aerobic glycolysis is:",
+    "choices": [
+      "acetyl - CoA",
+      "pyruvic acid",
+      "lactic acid",
+      "glycogen"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Protein-bound iodine (PBI) measures:",
+    "choices": [
+      "nutritional status",
+      "toxic levels of iodine",
+      "deficiency of epinephrine",
+      "level of thyroxine being produced"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The hormone epinephrine:",
+    "choices": [
+      "lowers blood glucose during catabolic stress",
+      "raises blood glucose during catabolic stress",
+      "is secreted from the pituitary gland",
+      "stimulates glycogen production"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A provitamin is:",
+    "choices": [
+      "a nutrient that can be converted into a vitamin",
+      "a vitamin that can be converted into a nutrient",
+      "the endogenous form of a vitamin",
+      "a man-made copy of a vitamin"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The formula for producing the active form of vitamin D is:",
+    "choices": [
+      "vitamin D3 converting into 7-dehydrocholesterol",
+      "ergosterol converting into calciferol",
+      "cholesterol converting into calciferol",
+      "7-dehydrocholesterol converting into cholecalciferol"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In the human, vitamin K is affected by:",
+    "choices": [
+      "anticoagulants and antibiotics",
+      "iodine",
+      "water-soluble vitamins",
+      "gluten"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which hormone regulates calcium levels?",
+    "choices": [
+      "insulin",
+      "thyroid",
+      "parathyroid",
+      "aldosterone"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Pyridoxine acts as a coenzyme in:",
+    "choices": [
+      "iron transfer",
+      "deamination and transamination",
+      "fat transfer through the lymphatic system",
+      "osmotic pressure of body fluids"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following are synthesized by intestinal bacteria?",
+    "choices": [
+      "biotin, pantothenic acid, vitamin K",
+      "vitamin E, vitamin K, biotin",
+      "pyridoxine, vitamin E",
+      "ascorbic acid, pyridoxine, vitamin K"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ascorbic acid aids in healing. Which of the following applies?",
+    "choices": [
+      "collagen → hydroxyproline",
+      "proline → hydroxyproline → collagen",
+      "hydroxyproline → proline → collagen",
+      "hydroxyproline → collagen"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Biotin is considered a coenzyme in the synthesis of:",
+    "choices": [
+      "protein",
+      "carbohydrate",
+      "glycogen",
+      "fatty acids"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Food iron is in the ______ form.",
+    "choices": [
+      "ferric",
+      "ferritin",
+      "transferrin",
+      "ferrous"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Food iron is reduced in the stomach to the more absorbable form of:",
+    "choices": [
+      "ferric",
+      "ferrous",
+      "transferrin",
+      "ferritin"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which would aid the absorption of an iron supplement?",
+    "choices": [
+      "cow's milk, eggs",
+      "orange juice, hamburger",
+      "milk, eggs, cheese",
+      "dates, eggs"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bile is produced in the ______ and stored in the ______.",
+    "choices": [
+      "liver, gallbladder",
+      "gallbladder, liver",
+      "liver, liver",
+      "gallbladder, gallbladder"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Cholecystokinin causes:",
+    "choices": [
+      "conduction of the gallbladder",
+      "peristalsis",
+      "secretion of pancreatic juice",
+      "contraction of the liver"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which enzymes are involved in protein digestion?",
+    "choices": [
+      "ptyalin, lipase, sucrase",
+      "amylase, lipase, trypsin",
+      "pepsin, trypsin, chymotrypsin, carboxypeptidase",
+      "trypsin, lipase, amylase"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Protein digestion begins in the:",
+    "choices": [
+      "mouth",
+      "stomach",
+      "small intestine",
+      "ileum"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Lactase is produced in the:",
+    "choices": [
+      "stomach",
+      "small intestine",
+      "gallbladder",
+      "pancreas"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which enzymes are secreted by the pancreas?",
+    "choices": [
+      "amylase, lipase, cholesterol esterase, trypsin, chymotrypsin",
+      "sucrose, maltase, lactase, aminopeptidase",
+      "ptyalin",
+      "aminopeptidase, dipeptidase"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which conversion requires glucose – 6 – phosphatase?",
+    "choices": [
+      "glucose into liver glycogen",
+      "glucose into pyruvic acid",
+      "pyruvic acid into lactic acid",
+      "liver glycogen into glucose"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "NADPH is:",
+    "choices": [
+      "essential in the synthesis of fatty acids",
+      "essential in the synthesis of glycogen",
+      "involved in the catabolism of protein",
+      "essential in transamination"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The following are required for the conversion of pyruvic acid into active acetate?",
+    "choices": [
+      "thiamin, NAD, oxaloacetic acid",
+      "oxygen, pantothenic acid, vitamin E",
+      "thiamin, niacin, riboflavin, pantothenic acid, NAD",
+      "pantothenic acid, oxaloacetate, citric acid"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which vitamin acts as a coenzyme in transamination?",
+    "choices": [
+      "pyridoxine",
+      "thiamin",
+      "riboflavin",
+      "vitamin B12"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Glucocorticoids are:",
+    "choices": [
+      "thyroid hormones",
+      "pituitary hormones",
+      "adrenal hormones",
+      "parathyroid hormones"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Glucocorticoids:",
+    "choices": [
+      "convert glucose into protein",
+      "convert fatty acids into glucose",
+      "convert glucose into fat",
+      "convert protein into glucose"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Fats enter the blood as ______ and leave the liver as ______.",
+    "choices": [
+      "phospholipids, chylomicrons",
+      "chylomicrons, phospholipids",
+      "chylomicrons, lipoproteins",
+      "lipoproteins, chylomicrons"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The oxidation of fatty acids forms:",
+    "choices": [
+      "acetyl CoA",
+      "pyruvic acid",
+      "lactic acid",
+      "oxaloacetate"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Pantothenic acid, thiamin, riboflavin and niacin are all involved in:",
+    "choices": [
+      "converting pyruvate into acetyl CoA",
+      "converting cytosine into phenylalanine",
+      "converting glycogen into glucose",
+      "converting lactic acid into oxaloacetate"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following can be reversed with vitamin A?",
+    "choices": [
+      "xerophthalmia",
+      "nyctalopia",
+      "Wilson’s disease",
+      "homocysteinuria"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Fresh meat contamination comes mainly from:",
+    "choices": [
+      "botulism",
+      "staphylococcus",
+      "clostridium",
+      "salmonella"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which amino acids must be present in a parenteral solution?",
+    "choices": [
+      "valine, leucine, glycine, alanine",
+      "tryptophan, phenylalanine, threonine, isoleucine",
+      "phenylalanine, methionine, arginine, tyrosine",
+      "lysine, glutamic acid, alanine, glycine"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Iron absorption is enhanced by:",
+    "choices": [
+      "acidic chyme in the duodenum",
+      "the alkalinity of the duodenum",
+      "oxalates and phytates",
+      "the absence of ascorbic acid"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following inhibits gluconeogenesis?",
+    "choices": [
+      "glycogen",
+      "insulin",
+      "catecholamines",
+      "glucocorticoids"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which has the lowest cholesterol content?",
+    "choices": [
+      "peanut butter and crackers",
+      "yogurt with fruit",
+      "chocolate cake",
+      "roast beef sandwich"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the difference between cake flour and bread flour?",
+    "choices": [
+      "cake flour has less gluten, weaker gluten, less protein",
+      "bread flour has less gluten, weaker gluten, less protein",
+      "cake flour has weaker gluten, but has more protein",
+      "bread flour has stronger gluten and less protein"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Vitamin A is involved in:",
+    "choices": [
+      "growth and development",
+      "blood clotting",
+      "growth of bones and teeth",
+      "development of tissue and skin"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A patient with metabolic alkalosis would have:",
+    "choices": [
+      "excess excretion of base through the kidneys",
+      "retention of base by the lungs",
+      "excretion of base by the lungs",
+      "retention of base by the kidneys"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which foods should be washed just before serving?",
+    "choices": [
+      "plums and grapes",
+      "peaches and carrots",
+      "strawberries and mushrooms",
+      "apples and celery"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which government agency inspects and grades meat?",
+    "choices": [
+      "FDA",
+      "DHIB",
+      "USDA",
+      "Department of Commerce"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If linoleic acid replaces carbohydrates in the diet:",
+    "choices": [
+      "LDL decreases, HDL increases",
+      "LDL and HDL decrease",
+      "LDL and HDL increase",
+      "LDL increases, HDL decreases"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which is not absorbed directly into the portal blood?",
+    "choices": [
+      "monosaccharides",
+      "amino acids",
+      "medium chained fatty acids",
+      "long chained fatty acids"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "When substituting buttermilk for whole milk in pastry:",
+    "choices": [
+      "decrease the liquid",
+      "increase the baking soda",
+      "increase the amount of butter",
+      "increase the liquid"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Ground meat will spoil faster than sliced meat because:",
+    "choices": [
+      "it has more enzyme activity",
+      "it has more fat",
+      "more surface area is exposed",
+      "it has less fat"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Evaporated milk has:",
+    "choices": [
+      "slightly more than half of the water removed",
+      "added sugar",
+      "a fat content of 3 – 6%",
+      "lactose removed"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Reduces are most associated with:",
+    "choices": [
+      "complex carbohydrates",
+      "simple sugars",
+      "fats",
+      "amino acids"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which best describes sorbitol and glucose?",
+    "choices": [
+      "sorbitol is sweeter than glucose",
+      "they each provide 7 calories per gram",
+      "sorbitol is absorbed more slowly",
+      "they both convert into fructose"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What causes egg yolk color to change?",
+    "choices": [
+      "alteration of the feed provided",
+      "storage length",
+      "shell color",
+      "storage conditions"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which data is needed to convert weight into volume?",
+    "choices": [
+      "mass",
+      "temperature",
+      "specific gravity",
+      "pH"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The tartness in fruits and vegetables is due to:",
+    "choices": [
+      "flavones",
+      "chlorophyll",
+      "anthoxanthins",
+      "tannins"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "When a white sauce tastes starchy and grainy, the likely cause is:",
+    "choices": [
+      "too much starch",
+      "improper proportions of ingredients",
+      "starch was added before the fat melted",
+      "uncooked flour"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The scientific process by which water makes lettuce crisp is:",
+    "choices": [
+      "osmotic pressure of water-filled vacuoles",
+      "diffusion",
+      "transamination",
+      "water active diffusion"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Four hours after eating you develop nausea, diarrhea, but no fever. The cause may be:",
+    "choices": [
+      "staphylococcus aureus",
+      "clostridium botulinum",
+      "clostridium perfringens",
+      "streptococcus"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which hormone greatly influences the BMR?",
+    "choices": [
+      "the endocrine hormone",
+      "thyroxine",
+      "the growth hormone",
+      "insulin"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "If linoleic acid replaces saturated fat in the diet:",
+    "choices": [
+      "total cholesterol including HDL decrease",
+      "HDL increases",
+      "LDL increase",
+      "no change in lipid levels"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which oil is highest in monounsaturated fatty acids?",
+    "choices": [
+      "olive",
+      "canola",
+      "peanut",
+      "sunflower"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which oil is highest in saturated fat?",
+    "choices": [
+      "coconut",
+      "palm",
+      "cocoa butter",
+      "butter"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following may result in metabolic acidosis?",
+    "choices": [
+      "decreased retention of bicarbonate",
+      "decreased retention of hydrogen",
+      "decreased retention of chloride",
+      "increased retention of bicarbonate"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A high protein diet increases the need for:",
+    "choices": [
+      "riboflavin and water",
+      "thiamin",
+      "water",
+      "ascorbic acid"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Dry heat cookery should be used for which cut of meat?",
+    "choices": [
+      "shoulder",
+      "neck",
+      "thicket",
+      "near the backbone"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What color do onions turn when cooked in an aluminum pan?",
+    "choices": [
+      "purple",
+      "blue",
+      "red",
+      "yellow"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which cooking method would best convert collagen to gelatin in a bottom round roast?",
+    "choices": [
+      "grilling it to medium rare",
+      "braising",
+      "broiling",
+      "searing"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which method of bread-making is not as dependent on the length of time the dough sits to rise?",
+    "choices": [
+      "straight dough method",
+      "sponge dough method",
+      "continuous method",
+      "prime bake method"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which nutrient is added for flour enrichment?",
+    "choices": [
+      "vitamin A",
+      "iodine",
+      "fluorine",
+      "iron"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What does the term \"USDA graded\" on meat tell the consumer?",
+    "choices": [
+      "It assures wholesomeness",
+      "It was free of disease at the time of slaughter",
+      "The meat is fit for human consumption",
+      "It defines quality"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A cake with a fallen center may be the result of:",
+    "choices": [
+      "too little fat",
+      "too little sugar",
+      "excess sugar and excess fat",
+      "too little baking powder"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following has the least amount of saturated fat?",
+    "choices": [
+      "2% milk",
+      "half and half",
+      "non-dairy creamer",
+      "evaporated skim milk"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Coarse texture in a cake is due to:",
+    "choices": [
+      "too little baking powder",
+      "over-mixing",
+      "too much baking powder or sugar",
+      "oven temperature too high"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Nitrogen equilibrium is associated with:",
+    "choices": [
+      "a 25 year old pregnant female",
+      "a 25 year old male",
+      "a 15 year old girl",
+      "a 4 year old child"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Children's diets are found to be low in iron due to emphasis on:",
+    "choices": [
+      "vegetables",
+      "milk",
+      "fruits",
+      "cereals"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which mineral is involved in blood clotting?",
+    "choices": [
+      "calcium",
+      "phosphorus",
+      "iron",
+      "selenium"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is true regarding flour?",
+    "choices": [
+      "all-purpose flour is made from soft wheat",
+      "all-purpose flour has more protein than bread flour",
+      "cake flour has the least and the weakest gluten",
+      "cake flour has less starch than bread flour"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The main function of glycolysis is to provide:",
+    "choices": [
+      "pyruvate for the TCA cycle",
+      "lactic acid for energy use by muscles",
+      "muscle and liver glycogen",
+      "a substrate for the Cori cycle"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Food service employees should wash their hands for at least:",
+    "choices": [
+      "30 seconds",
+      "25 seconds",
+      "20 seconds",
+      "15 seconds"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Metabolites of the Kreb's cycle are:",
+    "choices": [
+      "water, energy, carbon dioxide",
+      "energy and pyruvic acid",
+      "electrolytes and water",
+      "lactic acid and glycogen"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Most graded \"US Standard\" is the grade given at the:",
+    "choices": [
+      "time of purchase",
+      "time of delivery",
+      "storage facility",
+      "time of slaughter"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following substitutions will most decrease the sodium content of a biscuit? I. low sodium milk for whole milk II. egg substitute for egg III. low sodium baking powder for baking powder",
+    "choices": [
+      "I",
+      "I, II",
+      "all of the above",
+      "I, III"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which pasta contains egg?",
+    "choices": [
+      "noodles",
+      "spaghetti",
+      "macaroni",
+      "linguini"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A patient who is iron-deficient should consume ______ with a good iron source",
+    "choices": [
+      "apple juice",
+      "orange juice",
+      "milk",
+      "cheese"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A serum sodium level of 150 mEq/L indicates:",
+    "choices": [
+      "sepsis",
+      "dehydration",
+      "hypertension",
+      "hyperglycemia"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cabbage should be cooked:",
+    "choices": [
+      "covered",
+      "in a small amount of water",
+      "in a large quantity of water",
+      "covered in a small amount of water"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "To decrease sodium intake, substitute:",
+    "choices": [
+      "carrots for celery",
+      "unsalted margarine for regular margarine",
+      "diet margarine for regular margarine",
+      "carrots for pepper"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Apples stored in a controlled environment would:",
+    "choices": [
+      "open quickly",
+      "last one to two years",
+      "have extended life and improved marketing quality",
+      "only be used as processed fruit"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The following oils can be winterized:",
+    "choices": [
+      "corn, soy, cottonseed",
+      "olive, corn, soy",
+      "cottonseed, olive",
+      "olive, corn"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which would you give to a person who is mildly hypokalemic?",
+    "choices": [
+      "1 cup blueberries",
+      "1 cup cranberries",
+      "1/2 cup applesauce",
+      "1 piece cantaloupe"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A serum sodium level of 150 mEq/L is a sign of:",
+    "choices": [
+      "very high sodium intake",
+      "very low sodium intake",
+      "hyponatremia",
+      "hypernatremia"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "To increase potassium intake, consume a snack of:",
+    "choices": [
+      "cheese and crackers, plums, cranberry juice",
+      "bagel, milk and an apple",
+      "a grilled cheese and tomato sandwich and strawberries",
+      "tuna salad, a wheat roll, and cola"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If protein intake is doubled, which nutrient needs to be increased?",
+    "choices": [
+      "pyridoxine",
+      "folic acid",
+      "niacin",
+      "vitamin C"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Illness due to Bacillus cereus is due to contaminated:",
+    "choices": [
+      "rice products and starchy foods",
+      "fruits",
+      "dairy products",
+      "eggs"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The Cori Cycle converts:",
+    "choices": [
+      "glucose into galactose",
+      "lactate into pyruvate",
+      "lactic acid into glycogen",
+      "glycogen into glucose"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Fats high in monounsaturated fatty acids include:",
+    "choices": [
+      "olive and canola",
+      "safflower and corn",
+      "coconut and palm",
+      "soy and peanut"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Fats high in polyunsaturated fatty acids include:",
+    "choices": [
+      "olive and canola",
+      "safflower and corn",
+      "coconut and palm",
+      "soy and peanut"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Green beans cooked in tomato sauce turn ___ due to ___:",
+    "choices": [
+      "bright green; chlorophyllin",
+      "olive green; pheophytin",
+      "brown; carotenoids",
+      "black; anthoxanthins"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "If you are on a low phosphorus diet, what food should you most avoid?",
+    "choices": [
+      "beef",
+      "orange juice",
+      "yogurt",
+      "bread"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A 5 month old is diagnosed with salmonella. What is likely the cause?",
+    "choices": [
+      "fruit juice",
+      "milk",
+      "table food",
+      "evaporated milk"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "An 8 month old baby contracts botulism. What is the likely cause?",
+    "choices": [
+      "cereal and evaporated milk",
+      "cereal and honey",
+      "cereal and table food",
+      "cereal and fruit juice"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which is the best source of emulsification?",
+    "choices": [
+      "eggs",
+      "milk",
+      "salt",
+      "flour"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The kidneys respond to respiratory acidosis by:",
+    "choices": [
+      "increasing the secretion of magnesium",
+      "exchanging sodium for calcium",
+      "increasing the retention of bicarbonate",
+      "exchanging potassium for hydrogen"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A serum sodium level of 150 mEq/L may be due to:",
+    "choices": [
+      "an increase in the intake of sodium-rich foods",
+      "decreased steroid formation",
+      "an increased level of aldosterone",
+      "a decrease in the intake of sodium-rich foods"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Green peas held on the serving line may turn olive green due to:",
+    "choices": [
+      "pheophytin",
+      "chlorophyllin",
+      "anthoxanthins",
+      "flavones"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In cereal production, enrichment adds:",
+    "choices": [
+      "vitamin A",
+      "vitamin D",
+      "iron",
+      "iodine"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Cured meat is pink due to:",
+    "choices": [
+      "sugar",
+      "salt",
+      "vinegar",
+      "nitrites"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A serum sodium level of 115 mEq/L may be due to:",
+    "choices": [
+      "overhydration",
+      "dehydration",
+      "a very high sodium intake",
+      "a sodium intake of 5-5 grams per day"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Butter has fatty acids in this order of predominance:",
+    "choices": [
+      "PUFA, MUFA, SFA",
+      "SAT, MUFA, PUFA",
+      "MUFA, SAT, PUFA",
+      "MUFA, PUFA, SAT"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Margarine has fatty acids in this order of predominance:",
+    "choices": [
+      "PUFA, MUFA, SAT",
+      "SAT, MUFA, PUFA",
+      "MUFA, SAT, PUFA",
+      "MUFA, PUFA, SAT"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Lactic acid is produced by:",
+    "choices": [
+      "glycolysis",
+      "gluconeogenesis",
+      "glycogenesis",
+      "lactolysis"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following amino acids is a precursor for serotonin?",
+    "choices": [
+      "phenylalanine",
+      "methionine",
+      "tryptophan",
+      "tyrosine"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "When on DiCumarol, avoid increasing your intake of:",
+    "choices": [
+      "spinach",
+      "beets",
+      "corn",
+      "beef"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Food was held at 70°F for a long time in anaerobic conditions. Eight hours after eating it you became ill. What is the culprit?",
+    "choices": [
+      "Salmonella",
+      "Staphylococcus",
+      "Clostridium perfringens",
+      "Campylobacter jejuni"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Energy expenditure of humans can be measured by:",
+    "choices": [
+      "heat intake",
+      "food intake",
+      "nitrogen output",
+      "oxygen consumption"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Gastric proteolysis requires:",
+    "choices": [
+      "pyridoxine",
+      "ascorbic acid",
+      "hydrochloric acid",
+      "the intrinsic factor"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Patients with early signs of xerophthalmia should consume?",
+    "choices": [
+      "chicken, fish, summer squash",
+      "liver milk, eggs",
+      "oatmeal, almonds, berries",
+      "high fiber cereals, salad greens"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sorbitol is:",
+    "choices": [
+      "less sweet than sucrose and has a lower glycemic index than sucrose",
+      "less sweet than sucrose and has a higher glycemic index than sucrose",
+      "sweeter than sucrose",
+      "sweeter than sucrose and has a lower glycemic response than sucrose"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which mineral is absorbed through the intestine and transported with ceruloplasmin in the blood?",
+    "choices": [
+      "copper",
+      "iodine",
+      "sodium",
+      "calcium"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The Schilling test detects defects in the absorption of:",
+    "choices": [
+      "folic acid",
+      "cyanocobalamin",
+      "pyridoxine",
+      "iron"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following should be avoided on a low sodium diet?",
+    "choices": [
+      "pork loin",
+      "turkey roll",
+      "beef sirloin",
+      "lamb chop"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the effect of excess caffeine intake?",
+    "choices": [
+      "insomnia",
+      "nausea",
+      "bloating",
+      "weight gain"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The toxic level of vitamin A has been identified as:",
+    "choices": [
+      "5000 IU",
+      "10000 IU",
+      "15000 IU",
+      "20000 IU"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The best way to prevent the spread of food-borne illness is to:",
+    "choices": [
+      "wash hands regularly",
+      "cook all foods thoroughly",
+      "purchase food from trusted vendors",
+      "prepare food shortly before serving"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The amino acid tryptophan can be converted into:",
+    "choices": [
+      "serotonin",
+      "catecholamines",
+      "phenylalanine",
+      "tyrosine"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A muffin has long tunnels from top to bottom. Next time you make this recipe you should:",
+    "choices": [
+      "add more baking soda",
+      "avoid over-mixing the batter",
+      "add less butter",
+      "cook it for a shorter time"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Prevention of an outbreak of Listeria monocytogenes requires special care because:",
+    "choices": [
+      "it is insensitive to light",
+      "it is sensitive to low temperatures",
+      "of its ability to grow at temps of 34 - 113°F",
+      "of its ability to grow at temps of 140 - 160°F"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Phenylalanine is a precursor for:",
+    "choices": [
+      "serotonin",
+      "catecholamines",
+      "tryptophan",
+      "tyrosine"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A cutting board was used to cut up raw chicken. It was then used to cut up raw vegetables. Guests eating the meal became ill most likely from:",
+    "choices": [
+      "Clostridium botulinum",
+      "Clostridium perfringens",
+      "Salmonella",
+      "Streptococcus"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Decreased levels of serotonin are associated with:",
+    "choices": [
+      "decrease in carbohydrate appetite",
+      "increase in carbohydrate appetite",
+      "decreased sensation of taste",
+      "increased sensation of taste"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Carbohydrate, fat and protein are all converted into:",
+    "choices": [
+      "pyruvic acid",
+      "acetyl CoA",
+      "oxaloacetic acid",
+      "ketoglutamic acid"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "If energy needs increase, which vitamins are needed in higher amounts?",
+    "choices": [
+      "A, C, folate",
+      "A, C, thiamin",
+      "thiamin, niacin, riboflavin, pantothenic acid",
+      "pyridoxine, cyanocobalamin"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "How many mEq of sodium are in 1 gram of sodium?",
+    "choices": [
+      "25",
+      "43",
+      "65",
+      "110"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "How can you preserve thiamin when cooking pork?",
+    "choices": [
+      "use the drippings after the fat has been removed",
+      "insert a meat thermometer and cook it to 160°F in an oven at 325°",
+      "increase the cooking temperature to lessen cooking time",
+      "add a small quantity of water during cooking"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A good source of vitamin A for pre-school children would be:",
+    "choices": [
+      "grapes",
+      "watermelon",
+      "cantaloupe pieces",
+      "banana"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which amino acid is especially glucogenic?",
+    "choices": [
+      "alanine",
+      "threonine",
+      "valine",
+      "methionine"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If carbohydrate intake is increased, which vitamin needs to be increased?",
+    "choices": [
+      "thiamin",
+      "niacin",
+      "riboflavin",
+      "pyridoxine"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The rate of oxidation of which branched-chain amino acid increases significantly during moderate exercise?",
+    "choices": [
+      "leucine",
+      "phenylalanine",
+      "tyrosine",
+      "threonine"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What should you do with leftover sliced beef from lunch?",
+    "choices": [
+      "throw it out",
+      "let the meat cool at room temperature and then serve within two days",
+      "refrigerate immediately and then serve within two days",
+      "keep it in the warmer until dinner time"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A food is bacteria-safe if it is:",
+    "choices": [
+      "neutral and moist",
+      "neutral and dry",
+      "acidic and dry",
+      "acidic and moist"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "French fries made from stored potatoes would have changes in:",
+    "choices": [
+      "taste II. appearance III. texture",
+      "I, II, III",
+      "II, III",
+      "I",
+      "I, III"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What percent of protein and fat converts to glucose?",
+    "choices": [
+      "58% protein, 10% fat",
+      "10% protein, 60% fat",
+      "30% protein, 30% fat",
+      "20% protein, 40% fat"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Excess amounts of zinc may lead to a deficiency of:",
+    "choices": [
+      "copper",
+      "magnesium",
+      "iron",
+      "cobalt"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When adding bran to a flour mixture, what should be changed?",
+    "choices": [
+      "baking temperature",
+      "increase the fat and liquid",
+      "increase the oxidizing agent",
+      "increase the flour and liquid"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Glycerol, amino acids and free fatty acids will have what effect on the hypothalamus gland?",
+    "choices": [
+      "an increase in satiety",
+      "a decrease in satiety",
+      "an increased activity level",
+      "increased lethargy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a digestive enzyme secreted by the pancreas?",
+    "choices": [
+      "pepsin",
+      "amylase",
+      "lactase",
+      "maltase"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Clostridium perfringens is often found in:",
+    "choices": [
+      "meat and gravy mixtures in large quantities",
+      "fresh fruits and vegetables",
+      "dairy mixtures",
+      "uncured cheeses"
+    ],
+    "answer": 0
+  }
+]
