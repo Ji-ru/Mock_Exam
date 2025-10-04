@@ -1,3 +1,4 @@
+
 [
   {
     "q": "Which macronutrient provides the most energy per gram?",
@@ -20,1982 +21,1832 @@
     "answer": 2
   },
   {
-    "q": "The primary storage form of carbohydrate in the human body is?",
+    "q": "What is the primary function of carbohydrates in the body?",
     "choices": [
-      "Glycogen",
-      "Starch",
-      "Glucose",
-      "Cellulose"
+      "Build and repair tissue",
+      "Provide energy",
+      "Regulate body temperature",
+      "Protect organs"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
-    "q": "Which mineral is most abundant in the human body?",
+    "q": "Which of the following is a complete protein source?",
     "choices": [
-      "Calcium",
-      "Iron",
-      "Magnesium",
-      "Zinc"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Which lipoprotein is considered \u201cgood cholesterol\u201d?",
-    "choices": [
-      "VLDL",
-      "LDL",
-      "HDL",
-      "Chylomicron"
+      "Lentils",
+      "Brown rice",
+      "Chicken breast",
+      "Almonds"
     ],
     "answer": 2
   },
   {
-    "q": "Pellagra is caused by a deficiency of which vitamin?",
+    "q": "A deficiency in Iron is most commonly associated with which condition?",
     "choices": [
-      "Thiamine",
-      "Niacin",
-      "Riboflavin",
-      "Folate"
+      "Scurvy",
+      "Anemia",
+      "Osteoporosis",
+      "Rickets"
     ],
     "answer": 1
   },
   {
-    "q": "Kwashiorkor is primarily due to deficiency of?",
+    "q": "The 'DASH' diet is specifically designed to help manage what condition?",
     "choices": [
-      "Carbohydrate",
-      "Protein",
-      "Fat",
-      "Vitamin A"
+      "Diabetes",
+      "Hypertension",
+      "Celiac Disease",
+      "Irritable Bowel Syndrome"
     ],
     "answer": 1
   },
   {
-    "q": "Which vitamin is essential for calcium absorption?",
+    "q": "Which organ produces bile to emulsify fats?",
     "choices": [
-      "Vitamin C",
-      "Vitamin D",
-      "Vitamin E",
-      "Vitamin K"
+      "Pancreas",
+      "Gallbladder",
+      "Liver",
+      "Stomach"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the recommended daily fiber intake for adult women?",
+    "choices": [
+      "10-15 grams",
+      "25-30 grams",
+      "35-40 grams",
+      "50+ grams"
     ],
     "answer": 1
   },
   {
-    "q": "Goiter is associated with deficiency of?",
+    "q": "Which of these is a symptom of dehydration?",
+    "choices": [
+      "Polyuria",
+      "Hypertension",
+      "Dark yellow urine",
+      "Increased salivation"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the primary role of insulin?",
+    "choices": [
+      "Raise blood sugar",
+      "Lower blood sugar",
+      "Break down protein",
+      "Stimulate hunger"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which mineral is crucial for thyroid hormone synthesis?",
     "choices": [
       "Iron",
       "Iodine",
       "Zinc",
+      "Selenium"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A client with Celiac Disease must avoid which protein?",
+    "choices": [
+      "Casein",
+      "Albumin",
+      "Gluten",
+      "Whey"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The body's primary storage form of carbohydrates is:",
+    "choices": [
+      "Glucose",
+      "Fructose",
+      "Glycogen",
+      "Starch"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which vitamin is synthesized by the skin upon exposure to sunlight?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin K",
+      "Vitamin D",
+      "Vitamin E"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What does the term 'BMR' stand for?",
+    "choices": [
+      "Basic Metabolic Ratio",
+      "Basal Metabolic Rate",
+      "Body Mass Regulation",
+      "Basal Macronutrient Requirement"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a water-soluble vitamin?",
+    "choices": [
+      "Vitamin D",
+      "Vitamin E",
+      "Vitamin K",
+      "Vitamin B1 (Thiamine)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the main dietary source of trans fats?",
+    "choices": [
+      "Olive oil and avocados",
+      "Fatty fish and flaxseeds",
+      "Partially hydrogenated oils",
+      "Nuts and seeds"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which eating disorder is characterized by binge eating followed by purging?",
+    "choices": [
+      "Anorexia Nervosa",
+      "Bulimia Nervosa",
+      "Binge Eating Disorder",
+      "ARFID"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "For a healthy adult, what percentage of total daily calories should come from saturated fat?",
+    "choices": [
+      "Less than 10%",
+      "15-20%",
+      "25-30%",
+      "More than 35%"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which hormone, released by the stomach, stimulates appetite?",
+    "choices": [
+      "Leptin",
+      "Ghrelin",
+      "Cholecystokinin (CCK)",
+      "Insulin"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the term for plant compounds that have health-promoting properties, such as flavonoids?",
+    "choices": [
+      "Phytochemicals",
+      "Probiotics",
+      "Antioxidants",
+      "Enzymes"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a complex carbohydrate?",
+    "choices": [
+      "Table sugar",
+      "Honey",
+      "Oatmeal",
+      "Fruit juice"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The Recommended Dietary Allowance (RDA) is designed to meet the needs of what percentage of the population?",
+    "choices": [
+      "50%",
+      "75%",
+      "98%",
+      "100%"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the primary source of fuel for the brain under normal conditions?",
+    "choices": [
+      "Fatty Acids",
+      "Ketones",
+      "Glucose",
+      "Amino Acids"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of these is a good dietary source of Omega-3 fatty acids?",
+    "choices": [
+      "Butter",
+      "Salmon",
+      "Corn oil",
+      "Egg yolk"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A diet low in FODMAPs is often used to manage symptoms of:",
+    "choices": [
+      "Diabetes",
+      "Hypertension",
+      "Irritable Bowel Syndrome (IBS)",
+      "Heart Disease"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which vitamin's deficiency causes scurvy?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the first step in the Nutrition Care Process?",
+    "choices": [
+      "Nutrition Intervention",
+      "Nutrition Assessment",
+      "Nutrition Diagnosis",
+      "Monitoring and Evaluation"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which mineral is the most abundant in the human body?",
+    "choices": [
+      "Iron",
+      "Sodium",
+      "Calcium",
+      "Phosphorus"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What does a glucometer measure?",
+    "choices": [
+      "Blood ketones",
+      "Blood cholesterol",
+      "Blood pressure",
+      "Blood glucose"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The condition 'Kwashiorkor' is a result of severe deficiency in:",
+    "choices": [
+      "Energy",
+      "Protein",
+      "Vitamin C",
+      "Iodine"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which part of the grain contains the most fiber?",
+    "choices": [
+      "Endosperm",
+      "Germ",
+      "Bran",
+      "Husk"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the ideal body weight for a 5'10\" male using the simple formula (kg = height in cm - 100)?",
+    "choices": [
+      "70 kg",
+      "78 kg",
+      "85 kg",
+      "90 kg"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a probiotic food?",
+    "choices": [
+      "Yogurt with live cultures",
+      "Pasteurized milk",
+      "Canned tuna",
+      "White bread"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the main function of antioxidants in the body?",
+    "choices": [
+      "Provide energy",
+      "Build muscle",
+      "Neutralize free radicals",
+      "Aid in blood clotting"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which anthropometric measurement is used to assess abdominal fat?",
+    "choices": [
+      "BMI",
+      "Waist Circumference",
+      "Skinfold thickness",
+      "Mid-arm circumference"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A patient with chronic kidney disease often needs to restrict which nutrient?",
+    "choices": [
+      "Carbohydrate",
+      "Protein",
+      "Fat",
+      "Vitamin C"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The '5 A's' model for behavior change stands for Ask, Advise, Assess, Assist, and:",
+    "choices": [
+      "Arrange",
+      "Analyze",
+      "Assign",
+      "Applaud"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a disaccharide?",
+    "choices": [
+      "Glucose",
+      "Fructose",
+      "Lactose",
+      "Galactose"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the primary cause of Type 2 Diabetes?",
+    "choices": [
+      "Autoimmune destruction of pancreatic cells",
+      "Insulin resistance and relative insulin deficiency",
+      "Viral infection",
+      "Excessive sugar consumption in childhood"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which food is the richest source of potassium?",
+    "choices": [
+      "Banana",
+      "Potato with skin",
+      "Orange juice",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The 'Acceptable Macronutrient Distribution Range' (AMDR) for fat is:",
+    "choices": [
+      "10-15%",
+      "20-35%",
+      "45-65%",
+      "70-80%"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the term for difficulty swallowing?",
+    "choices": [
+      "Dysphagia",
+      "Dyspepsia",
+      "Edema",
+      "Cachexia"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which vitamin is essential for blood clotting?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin E",
+      "Vitamin K",
+      "Vitamin B6"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What does a dietitian calculate first when creating a meal plan for a diabetic patient?",
+    "choices": [
+      "Fat content",
+      "Fiber content",
+      "Carbohydrate content",
+      "Protein content"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a function of water in the body?",
+    "choices": [
+      "Transport of nutrients",
+      "Temperature regulation",
+      "Providing energy",
+      "Lubricating joints"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the main nutritional concern during the first trimester of pregnancy?",
+    "choices": [
+      "Adequate calorie intake for weight gain",
+      "Meeting micronutrient needs (e.g., folate)",
+      "Increasing protein significantly",
+      "Restricting fluid intake"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of these is a sign of good nutritional status?",
+    "choices": [
+      "Brittle hair and nails",
+      "Clear eyes and healthy skin",
+      "Spongy, bleeding gums",
+      "Pale conjunctiva"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the primary energy system used during a 100-meter sprint?",
+    "choices": [
+      "ATP-CP (Phosphagen) System",
+      "Glycolytic System",
+      "Oxidative System",
+      "Aerobic System"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a function of sodium in the body?",
+    "choices": [
+      "Bone formation",
+      "Fluid balance and nerve transmission",
+      "Oxygen transport",
+      "Antioxidant protection"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A food labeled 'low sodium' must contain less than how many mg per serving?",
+    "choices": [
+      "140 mg",
+      "200 mg",
+      "350 mg",
+      "500 mg"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the term for the feeling of fullness during a meal that leads to meal termination?",
+    "choices": [
+      "Satiety",
+      "Satiation",
+      "Appetite",
+      "Hunger"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a risk factor for developing osteoporosis?",
+    "choices": [
+      "High calcium intake",
+      "Weight-bearing exercise",
+      "Low body weight",
+      "Adequate Vitamin D levels"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the primary carbohydrate in milk?",
+    "choices": [
+      "Sucrose",
+      "Lactose",
+      "Maltose",
+      "Fructose"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The 'Nutrition Facts' label on packaged foods is based on a diet of how many calories per day?",
+    "choices": [
+      "1500",
+      "2000",
+      "2500",
+      "3000"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which amino acid is associated with the condition Phenylketonuria (PKU)?",
+    "choices": [
+      "Tryptophan",
+      "Phenylalanine",
+      "Lysine",
+      "Methionine"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the main goal of nutrition therapy for someone with HIV/AIDS?",
+    "choices": [
+      "Promote weight loss",
+      "Prevent and treat malnutrition",
+      "Restrict protein intake",
+      "Eliminate all fats"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a characteristic of a 'whole food'?",
+    "choices": [
+      "It is fortified with vitamins",
+      "It is minimally processed",
+      "It contains artificial sweeteners",
+      "It is packaged in a box"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the most common form of malnutrition in hospitalized patients?",
+    "choices": [
+      "Obesity",
+      "Protein-energy malnutrition",
+      "Vitamin D deficiency",
+      "Dehydration"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which organ is responsible for metabolizing most drugs and alcohol?",
+    "choices": [
+      "Kidneys",
+      "Pancreas",
+      "Liver",
+      "Stomach"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the term for a food that provides health benefits beyond basic nutrition?",
+    "choices": [
+      "Fortified food",
+      "Functional food",
+      "Supplement",
+      "Enriched food"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a sign of refeeding syndrome?",
+    "choices": [
+      "Hyperkalemia",
+      "Hypophosphatemia",
+      "Hyperglycemia",
+      "Hypermagnesemia"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the primary role of a prebiotic?",
+    "choices": [
+      "Kill harmful bacteria",
+      "Serve as food for beneficial gut bacteria",
+      "Act as an antibiotic",
+      "Replace digestive enzymes"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of these is a long-term complication of uncontrolled diabetes?",
+    "choices": [
+      "Neuropathy",
+      "Retinopathy",
+      "Nephropathy",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the most accurate method for assessing body composition?",
+    "choices": [
+      "Bioelectrical Impedance Analysis (BIA)",
+      "Skinfold Measurements",
+      "Dual-Energy X-ray Absorptiometry (DEXA)",
+      "BMI"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A diet high in which type of fat is most associated with increased LDL cholesterol?",
+    "choices": [
+      "Monounsaturated fat",
+      "Polyunsaturated fat",
+      "Saturated fat",
+      "Omega-3 fat"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the term for the loss of muscle mass and strength associated with aging?",
+    "choices": [
+      "Osteopenia",
+      "Sarcopenia",
+      "Cachexia",
+      "Atrophy"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a key principle of 'Intuitive Eating'?",
+    "choices": [
+      "Counting calories",
+      "Rejecting the diet mentality",
+      "Weighing yourself daily",
+      "Avoiding all 'unhealthy' foods"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the primary source of added sugar in the American diet?",
+    "choices": [
+      "Table sugar",
+      "Fruit",
+      "Sugar-sweetened beverages",
+      "Dairy products"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which vitamin deficiency is associated with neural tube defects in newborns?",
+    "choices": [
+      "Vitamin A",
+      "Folate (Vitamin B9)",
+      "Vitamin B12",
+      "Vitamin D"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What does the term 'negative nitrogen balance' indicate?",
+    "choices": [
+      "Adequate protein intake",
+      "Muscle growth",
+      "More protein is being excreted than consumed",
+      "Positive health status"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a common food allergen required to be listed on labels in the US?",
+    "choices": [
+      "Banana",
+      "Soy",
+      "Oats",
+      "Beef"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the main nutritional difference between breast milk and infant formula?",
+    "choices": [
+      "Breast milk contains antibodies and living cells.",
+      "Formula contains more calories.",
+      "Breast milk lacks essential fatty acids.",
+      "There is no significant difference."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following best describes a 'nutrient-dense' food?",
+    "choices": [
+      "High in calories and low in nutrients",
+      "Low in calories and high in nutrients",
+      "High in calories and high in nutrients",
+      "Low in calories and low in nutrients"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the primary role of cholesterol in the body?",
+    "choices": [
+      "Provide energy",
+      "Aid in muscle contraction",
+      "A component of cell membranes and hormone synthesis",
+      "Regulate blood sugar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of these conditions would require a low-residue diet?",
+    "choices": [
+      "Constipation",
+      "Diverticulitis flare-up",
+      "Hypertension",
+      "Iron-deficiency anemia"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the most common cause of foodborne illness?",
+    "choices": [
+      "Pesticides",
+      "Bacteria and their toxins",
+      "Heavy metals",
+      "Viruses"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which mineral works with sodium to regulate fluid balance outside the cells?",
+    "choices": [
+      "Potassium",
+      "Chloride",
+      "Calcium",
       "Magnesium"
     ],
     "answer": 1
   },
   {
-    "q": "The main function of hemoglobin is?",
+    "q": "What is the name of the scale used to assess the glycemic response of foods?",
     "choices": [
-      "Transport oxygen",
-      "Store iron",
-      "Regulate pH",
-      "Digest protein"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 11?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 12?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 13?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 14?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Insulin Index",
+      "Glycemic Load",
+      "Glycemic Index",
+      "Carbohydrate Count"
     ],
     "answer": 2
   },
   {
-    "q": "Sample nutrition question 15?",
+    "q": "Which of the following is a symptom of lactose intolerance?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 16?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 17?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Rash and hives",
+      "Bloating and diarrhea",
+      "Migraine headaches",
+      "Joint pain"
     ],
     "answer": 1
   },
   {
-    "q": "Sample nutrition question 18?",
+    "q": "What is the primary energy system used during a marathon?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "ATP-CP (Phosphagen) System",
+      "Glycolytic System",
+      "Oxidative System",
+      "Anaerobic System"
     ],
     "answer": 2
   },
   {
-    "q": "Sample nutrition question 19?",
+    "q": "Which vitamin acts as an antioxidant and is important for immune function?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 20?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 21?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
     ],
     "answer": 1
   },
   {
-    "q": "Sample nutrition question 22?",
+    "q": "What is the term for the psychological desire to eat?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 23?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 24?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 25?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Hunger",
+      "Appetite",
+      "Satiety",
+      "Satiation"
     ],
     "answer": 1
   },
   {
-    "q": "Sample nutrition question 26?",
+    "q": "Which of the following is a potential complication of long-term parenteral nutrition?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 27?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 28?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Liver dysfunction",
+      "Improved gut health",
+      "Increased appetite",
+      "Weight loss"
     ],
     "answer": 0
   },
   {
-    "q": "Sample nutrition question 29?",
+    "q": "What is the main dietary goal for someone with diverticulosis?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Low-fiber diet",
+      "High-fiber diet",
+      "High-protein diet",
+      "Liquid diet"
     ],
     "answer": 1
   },
   {
-    "q": "Sample nutrition question 30?",
+    "q": "Which hormone is responsible for signaling satiety to the brain?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Ghrelin",
+      "Leptin",
+      "Insulin",
+      "Cortisol"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the term for an extreme fear of gaining weight and a distorted body image?",
+    "choices": [
+      "Body Dysmorphic Disorder",
+      "Bulimia Nervosa",
+      "Anorexia Nervosa",
+      "Orthorexia"
     ],
     "answer": 2
   },
   {
-    "q": "Sample nutrition question 31?",
+    "q": "Which of the following is a good source of heme iron?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Spinach",
+      "Red meat",
+      "Fortified cereal",
+      "Beans"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the primary function of the large intestine?",
+    "choices": [
+      "Digest proteins",
+      "Absorb water and electrolytes",
+      "Produce digestive enzymes",
+      "Absorb most nutrients"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of these is a characteristic of metabolic syndrome?",
+    "choices": [
+      "Low blood pressure",
+      "Low fasting blood glucose",
+      "High HDL cholesterol",
+      "Abdominal obesity"
     ],
     "answer": 3
   },
   {
-    "q": "Sample nutrition question 32?",
+    "q": "What is the recommended weight gain during pregnancy for a woman with a normal BMI?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "5-10 pounds",
+      "11-20 pounds",
+      "25-35 pounds",
+      "40-50 pounds"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a non-nutritive sweetener?",
+    "choices": [
+      "Honey",
+      "Maple syrup",
+      "Sucralose (Splenda)",
+      "Agave nectar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the main difference between an RDN and a nutritionist?",
+    "choices": [
+      "There is no difference",
+      "An RDN has specific academic and professional credentials",
+      "A nutritionist works in a hospital",
+      "An RDN only works with athletes"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which vitamin is necessary for the absorption of calcium?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the term for the breakdown of body protein for energy?",
+    "choices": [
+      "Gluconeogenesis",
+      "Glycolysis",
+      "Proteolysis",
+      "Lipolysis"
     ],
     "answer": 0
   },
   {
-    "q": "Sample nutrition question 33?",
+    "q": "Which of the following is a potential benefit of the Mediterranean diet?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Increased risk of heart disease",
+      "Reduced risk of cognitive decline",
+      "Higher LDL cholesterol",
+      "Increased blood pressure"
     ],
     "answer": 1
   },
   {
-    "q": "Sample nutrition question 34?",
+    "q": "What is the primary cause of beriberi?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 35?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 36?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Vitamin B1 (Thiamine) deficiency",
+      "Vitamin C deficiency",
+      "Niacin deficiency",
+      "Protein deficiency"
     ],
     "answer": 0
   },
   {
-    "q": "Sample nutrition question 37?",
+    "q": "Which of the following is a key component of Motivational Interviewing?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 38?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Confronting resistance directly",
+      "Giving strict directives",
+      "Expressing empathy and rolling with resistance",
+      "Focusing only on the problem"
     ],
     "answer": 2
   },
   {
-    "q": "Sample nutrition question 39?",
+    "q": "What is the main role of the pancreas in digestion?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Store bile",
+      "Produce insulin and digestive enzymes",
+      "Absorb nutrients",
+      "Churn food"
     ],
-    "answer": 3
+    "answer": 1
   },
   {
-    "q": "Sample nutrition question 40?",
+    "q": "Which of these is a sign of zinc deficiency?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Improved wound healing",
+      "Loss of taste and smell",
+      "High blood pressure",
+      "Weight gain"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the primary energy source for infants?",
+    "choices": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Fiber"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a characteristic of a nutrition fad?",
+    "choices": [
+      "Based on long-term, peer-reviewed research",
+      "Promises quick, dramatic results",
+      "Supported by major health organizations",
+      "Encourages a balanced, varied diet"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the term for the amount of energy the body uses at complete rest?",
+    "choices": [
+      "Thermic Effect of Food (TEF)",
+      "Basal Metabolic Rate (BMR)",
+      "Total Daily Energy Expenditure (TDEE)",
+      "Resting Energy Expenditure (REE)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a function of magnesium?",
+    "choices": [
+      "Blood clotting",
+      "Bone health and muscle relaxation",
+      "Oxygen transport",
+      "Antioxidant"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A diet high in processed foods is typically high in which mineral?",
+    "choices": [
+      "Potassium",
+      "Sodium",
+      "Magnesium",
+      "Iron"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the primary goal of nutrition therapy for MNT in Type 1 Diabetes?",
+    "choices": [
+      "Weight loss",
+      "Matching insulin to carbohydrate intake",
+      "Eliminating all carbohydrates",
+      "Increasing saturated fat intake"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a potential side effect of a very-low-carbohydrate (ketogenic) diet?",
+    "choices": [
+      "Ketoacidosis (in non-diabetics)",
+      "Increased glycogen stores",
+      "The 'Keto Flu' (headache, fatigue)",
+      "Hyperglycemia"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the name of the tool used to assess a patient's subjective global assessment?",
+    "choices": [
+      "24-Hour Recall",
+      "Food Frequency Questionnaire",
+      "SGA (Subjective Global Assessment)",
+      "Anthropometry"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which vitamin is important for vision and cell differentiation?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B6",
+      "Vitamin C",
+      "Vitamin E"
     ],
     "answer": 0
   },
   {
-    "q": "Sample nutrition question 41?",
+    "q": "What is the term for the process of adding nutrients back to a refined grain product?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Fortification",
+      "Enrichment",
+      "Supplementation",
+      "Pasteurization"
     ],
     "answer": 1
   },
   {
-    "q": "Sample nutrition question 42?",
+    "q": "Which of the following is a dietary strategy to manage GERD (Gastroesophageal Reflux Disease)?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Eat large meals before bedtime",
+      "Consume peppermint and chocolate",
+      "Eat smaller, more frequent meals",
+      "Lie down immediately after eating"
     ],
     "answer": 2
   },
   {
-    "q": "Sample nutrition question 43?",
+    "q": "What is the primary role of bicarbonate in the digestive system?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Emulsify fats",
+      "Neutralize stomach acid in the small intestine",
+      "Break down proteins",
+      "Stimulate hunger"
     ],
-    "answer": 3
+    "answer": 1
   },
   {
-    "q": "Sample nutrition question 44?",
+    "q": "Which of these is a sign of marasmus?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Edema",
+      "Severe wasting of fat and muscle",
+      "Fatty liver",
+      "Moon face"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the main nutritional consideration for an athlete during an event lasting longer than 60 minutes?",
+    "choices": [
+      "Consuming protein",
+      "Consuming carbohydrate",
+      "Consuming fat",
+      "Avoiding all fluids"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a function of potassium?",
+    "choices": [
+      "Maintains fluid balance inside cells, nerve function",
+      "Primary component of bone",
+      "Lowers blood pressure when deficient",
+      "Aids in blood clotting"
     ],
     "answer": 0
   },
   {
-    "q": "Sample nutrition question 45?",
+    "q": "What is the term for an inability to digest a specific food component?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Food allergy",
+      "Food intolerance",
+      "Food poisoning",
+      "Food aversion"
     ],
     "answer": 1
   },
   {
-    "q": "Sample nutrition question 46?",
+    "q": "Which of the following is a rich source of Vitamin K?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Citrus fruits",
+      "Leafy green vegetables",
+      "Fortified milk",
+      "Eggs"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the primary purpose of a 'clear liquid' diet?",
+    "choices": [
+      "Long-term weight loss",
+      "To provide complete nutrition",
+      "To rest the GI tract before/after procedures",
+      "To build muscle"
     ],
     "answer": 2
   },
   {
-    "q": "Sample nutrition question 47?",
+    "q": "Which mineral is a component of hemoglobin?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Calcium",
+      "Iron",
+      "Sodium",
+      "Iodine"
     ],
-    "answer": 3
+    "answer": 1
   },
   {
-    "q": "Sample nutrition question 48?",
+    "q": "What is the main dietary factor that raises HDL ('good') cholesterol?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Trans fats",
+      "Saturated fats",
+      "Monounsaturated fats (e.g., olive oil)",
+      "Refined carbohydrates"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a symptom of pellagra?",
+    "choices": [
+      "Dermatitis, diarrhea, dementia",
+      "Bowing of legs in children",
+      "Soft bones and bone pain",
+      "Gum bleeding and loose teeth"
     ],
     "answer": 0
   },
   {
-    "q": "Sample nutrition question 49?",
+    "q": "What is the term for the energy cost of digesting, absorbing, and metabolizing food?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Basal Metabolic Rate (BMR)",
+      "Thermic Effect of Food (TEF)",
+      "Non-Exercise Activity Thermogenesis (NEAT)",
+      "Exercise Activity Thermogenesis (EAT)"
     ],
     "answer": 1
   },
   {
-    "q": "Sample nutrition question 50?",
+    "q": "Which of the following is a characteristic of a sustainable diet?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "High in processed and packaged foods",
+      "Emphasizes plant-based foods",
+      "Relies on out-of-season imported foods",
+      "High in meat from industrial farms"
     ],
-    "answer": 2
+    "answer": 1
   },
   {
-    "q": "Sample nutrition question 51?",
+    "q": "What is the primary role of folate in the body?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Antioxidant",
+      "DNA synthesis and cell division",
+      "Bone mineralization",
+      "Blood clotting"
     ],
-    "answer": 3
+    "answer": 1
   },
   {
-    "q": "Sample nutrition question 52?",
+    "q": "Which of these is a common nutrition screening tool used in hospitals?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "MUST (Malnutrition Universal Screening Tool)",
+      "Food Diary",
+      "DEXA Scan",
+      "Resting Metabolic Rate test"
     ],
     "answer": 0
   },
   {
-    "q": "Sample nutrition question 53?",
+    "q": "What is the main difference between soluble and insoluble fiber?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 54?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 55?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 56?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Soluble fiber dissolves in water; insoluble does not.",
+      "Insoluble fiber lowers cholesterol; soluble does not.",
+      "Soluble fiber promotes regularity; insoluble slows digestion.",
+      "There is no difference."
     ],
     "answer": 0
   },
   {
-    "q": "Sample nutrition question 57?",
+    "q": "Which of the following is a potential consequence of chronic, severe energy restriction?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Increased metabolic rate",
+      "Gallstone formation",
+      "Improved bone density",
+      "Increased muscle mass"
     ],
     "answer": 1
   },
   {
-    "q": "Sample nutrition question 58?",
+    "q": "What is the term for the psychological impact of chronic dieting and food restriction?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Metabolic adaptation",
+      "Food obsession and disordered eating",
+      "Intuitive eating",
+      "Healthy dieting"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which vitamin can be produced by gut bacteria?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin K",
+      "Vitamin D"
     ],
     "answer": 2
   },
   {
-    "q": "Sample nutrition question 59?",
+    "q": "What is the primary function of the villi in the small intestine?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "To secrete acid",
+      "To increase surface area for nutrient absorption",
+      "To store bile",
+      "To produce enzymes"
     ],
-    "answer": 3
+    "answer": 1
   },
   {
-    "q": "Sample nutrition question 60?",
+    "q": "Which of the following is a key principle of sports nutrition for recovery?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Consuming a high-fat meal immediately after",
+      "Replenishing glycogen stores with carbohydrate and repairing muscle with protein",
+      "Fasting for 4 hours after exercise",
+      "Drinking only water, no electrolytes"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the main dietary source of Vitamin E?",
+    "choices": [
+      "Citrus fruits",
+      "Nuts, seeds, and vegetable oils",
+      "Red meat",
+      "Dairy products"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a risk factor for developing an eating disorder?",
+    "choices": [
+      "Body dissatisfaction",
+      "Family meals",
+      "High self-esteem",
+      "Intuitive eating practices"
     ],
     "answer": 0
   },
   {
-    "q": "Sample nutrition question 61?",
+    "q": "What is the term for the medical treatment of providing nutrition through a vein?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Enteral Nutrition",
+      "Parenteral Nutrition",
+      "Oral Nutritional Supplementation",
+      "Gastrostomy Feeding"
     ],
     "answer": 1
   },
   {
-    "q": "Sample nutrition question 62?",
+    "q": "Which mineral is important for immune function and wound healing?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Sodium",
+      "Zinc",
+      "Chloride",
+      "Phosphorus"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the primary goal of the 'MyPlate' guide?",
+    "choices": [
+      "To promote a high-protein, low-carb diet",
+      "To provide a visual guide for building a healthy plate",
+      "To eliminate all fats from the diet",
+      "To count calories precisely"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a characteristic of a food with a high glycemic index?",
+    "choices": [
+      "It causes a slow, gradual rise in blood sugar.",
+      "It is typically high in fiber.",
+      "It causes a rapid spike in blood sugar.",
+      "It is always a healthy choice."
     ],
     "answer": 2
   },
   {
-    "q": "Sample nutrition question 63?",
+    "q": "What is the main role of the gallbladder?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Produce insulin",
+      "Produce bile",
+      "Store and concentrate bile",
+      "Digest fiber"
     ],
-    "answer": 3
+    "answer": 2
   },
   {
-    "q": "Sample nutrition question 64?",
+    "q": "Which of these is a potential benefit of intermittent fasting?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "It is suitable for everyone, including pregnant women.",
+      "It may help with calorie restriction for some individuals.",
+      "It guarantees weight loss without diet changes.",
+      "It eliminates the need for a balanced diet."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the term for the feeling of fullness that persists after a meal?",
+    "choices": [
+      "Satiation",
+      "Satiety",
+      "Appetite",
+      "Hunger"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which vitamin deficiency causes pernicious anemia?",
+    "choices": [
+      "Iron",
+      "Folate",
+      "Vitamin B12",
+      "Vitamin B6"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the primary dietary intervention for someone with galactosemia?",
+    "choices": [
+      "Avoid all fruits",
+      "Avoid lactose and galactose (e.g., milk)",
+      "Increase protein intake",
+      "Avoid gluten"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a function of phosphorus?",
+    "choices": [
+      "Component of bones, teeth, and ATP",
+      "Oxygen transport",
+      "Antioxidant",
+      "Regulate blood glucose"
     ],
     "answer": 0
   },
   {
-    "q": "Sample nutrition question 65?",
+    "q": "What is the main nutritional concern for the elderly population?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Over-hydration",
+      "Protein-energy malnutrition and micronutrient deficiencies",
+      "Excessive calorie intake",
+      "High fiber intake"
     ],
     "answer": 1
   },
   {
-    "q": "Sample nutrition question 66?",
+    "q": "Which of these is a sign of good hydration status?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Dark yellow urine",
+      "Pale yellow urine",
+      "Dry mouth and lips",
+      "Headache"
     ],
-    "answer": 2
+    "answer": 1
   },
   {
-    "q": "Sample nutrition question 67?",
+    "q": "What is the term for the process of measuring food and beverage intake?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Nutrition Assessment",
+      "Dietary Recall",
+      "Food Weighing",
+      "All of the above"
     ],
     "answer": 3
   },
   {
-    "q": "Sample nutrition question 68?",
+    "q": "Which of the following is a good source of beta-carotene?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Salmon",
+      "Sweet potatoes and carrots",
+      "Eggs",
+      "Fortified milk"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the primary cause of rickets?",
+    "choices": [
+      "Vitamin D deficiency",
+      "Vitamin C deficiency",
+      "Protein deficiency",
+      "Iodine deficiency"
     ],
     "answer": 0
   },
   {
-    "q": "Sample nutrition question 69?",
+    "q": "Which of these is a component of a 'heart-healthy' diet?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 70?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "High in trans fats",
+      "High in sodium",
+      "High in soluble fiber",
+      "High in refined carbohydrates"
     ],
     "answer": 2
   },
   {
-    "q": "Sample nutrition question 71?",
+    "q": "What is the term for an abnormal response to food that involves the immune system?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Food intolerance",
+      "Food allergy",
+      "Food poisoning",
+      "Food aversion"
     ],
-    "answer": 3
+    "answer": 1
   },
   {
-    "q": "Sample nutrition question 72?",
+    "q": "Which of the following is a function of Vitamin B6 (Pyridoxine)?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Blood clotting",
+      "Antioxidant",
+      "Amino acid metabolism",
+      "Bone health"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the main goal of nutrition therapy for someone with Crohn's disease during a flare?",
+    "choices": [
+      "Increase high-fiber foods",
+      "Provide nutrition while reducing bowel inflammation and rest the gut",
+      "Encourage large, infrequent meals",
+      "Increase intake of raw vegetables"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which mineral is a major electrolyte in the fluid outside cells and is often restricted in hypertension?",
+    "choices": [
+      "Potassium",
+      "Calcium",
+      "Sodium",
+      "Magnesium"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the term for the study of how nutrients affect gene expression?",
+    "choices": [
+      "Nutrigenomics",
+      "Metabolomics",
+      "Proteomics",
+      "Epigenetics"
     ],
     "answer": 0
   },
   {
-    "q": "Sample nutrition question 73?",
+    "q": "Which of the following is a good source of prebiotics?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Yogurt",
+      "Bananas, onions, garlic, asparagus",
+      "Chicken breast",
+      "White bread"
     ],
     "answer": 1
   },
   {
-    "q": "Sample nutrition question 74?",
+    "q": "What is the primary role of cholecystokinin (CCK)?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Stimulate appetite",
+      "Stimulate release of stomach acid",
+      "Stimulate release of pancreatic enzymes and bile",
+      "Lower blood sugar"
     ],
     "answer": 2
   },
   {
-    "q": "Sample nutrition question 75?",
+    "q": "Which of these is a characteristic of a 'serving size' on a food label?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "It is a recommended amount to eat.",
+      "It is standardized and reflects how much people typically eat.",
+      "It is always one cup.",
+      "It is the minimum amount you should eat."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the main nutritional reason for recommending whole fruits over fruit juice?",
+    "choices": [
+      "Fruit juice has more calories.",
+      "Whole fruit has more fiber and promotes satiety.",
+      "Fruit juice is more hydrating.",
+      "There is no nutritional difference."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which vitamin is essential for the synthesis of collagen?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the term for the loss of bone density?",
+    "choices": [
+      "Osteoarthritis",
+      "Osteopenia",
+      "Osteoporosis",
+      "Sarcopenia"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a dietary strategy to reduce the risk of kidney stones?",
+    "choices": [
+      "Restrict fluid intake",
+      "Increase sodium intake",
+      "Increase intake of oxalate-rich foods (like spinach)",
+      "Increase fluid intake"
     ],
     "answer": 3
   },
   {
-    "q": "Sample nutrition question 76?",
+    "q": "What is the primary function of lipoproteins like LDL and HDL?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Transport fats in the bloodstream",
+      "Digest proteins",
+      "Store glucose",
+      "Regulate blood pressure"
     ],
     "answer": 0
   },
   {
-    "q": "Sample nutrition question 77?",
+    "q": "Which of these is a sign of a reliable nutrition source?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 78?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Promises a quick fix",
+      "Based on a single study",
+      "Peer-reviewed by scientific experts",
+      "Sells a specific product as the only solution"
     ],
     "answer": 2
   },
   {
-    "q": "Sample nutrition question 79?",
+    "q": "What is the main role of the hormone cortisol in relation to metabolism?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Lowers blood sugar",
+      "Promotes glycogen storage",
+      "Increases blood sugar and breaks down protein (catabolic)",
+      "Stimulates appetite"
     ],
-    "answer": 3
+    "answer": 2
   },
   {
-    "q": "Sample nutrition question 80?",
+    "q": "Which of the following is a characteristic of the 'blue zones'?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Diets high in processed foods",
+      "Sedentary lifestyles",
+      "Plant-based diets and strong social connections",
+      "High rates of chronic disease"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the term for the amount of energy needed to raise the temperature of 1 gram of water by 1°C?",
+    "choices": [
+      "Joule",
+      "Kilocalorie",
+      "Calorie",
+      "Kilojoule"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which mineral is important for the function of many enzymes and is a component of DNA?",
+    "choices": [
+      "Iron",
+      "Zinc",
+      "Selenium",
+      "Iodine"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the primary dietary goal for someone with dumping syndrome?",
+    "choices": [
+      "Eat large meals quickly",
+      "Consume high-sugar liquids with meals",
+      "Eat small, frequent meals low in simple sugars",
+      "Increase intake of very hot or cold foods"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a function of Vitamin B3 (Niacin)?",
+    "choices": [
+      "Energy production from carbohydrates",
+      "Blood clotting",
+      "Bone formation",
+      "Antioxidant"
     ],
     "answer": 0
   },
   {
-    "q": "Sample nutrition question 81?",
+    "q": "What is the main difference between a food allergy and a food intolerance?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "A food intolerance involves the immune system.",
+      "A food allergy involves the immune system; an intolerance does not.",
+      "They are the same thing.",
+      "An allergy is less severe than an intolerance."
     ],
     "answer": 1
   },
   {
-    "q": "Sample nutrition question 82?",
+    "q": "Which of these is a good source of Vitamin D?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 83?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 84?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Fortified milk and fatty fish",
+      "Citrus fruits",
+      "Leafy green vegetables",
+      "Whole grains"
     ],
     "answer": 0
   },
   {
-    "q": "Sample nutrition question 85?",
+    "q": "What is the term for the process of breaking down triglycerides into fatty acids and glycerol?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Glycolysis",
+      "Lipolysis",
+      "Gluconeogenesis",
+      "Proteolysis"
     ],
     "answer": 1
   },
   {
-    "q": "Sample nutrition question 86?",
+    "q": "Which of the following is a key principle of 'Mindful Eating'?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Eating quickly while distracted",
+      "Paying attention to the sensory experience of eating without judgment",
+      "Classifying foods as 'good' or 'bad'",
+      "Skipping meals to save calories"
     ],
-    "answer": 2
+    "answer": 1
   },
   {
-    "q": "Sample nutrition question 87?",
+    "q": "What is the primary role of the electron transport chain?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "To break down glucose",
+      "To produce the majority of ATP aerobically",
+      "To synthesize proteins",
+      "To store fat"
     ],
-    "answer": 3
+    "answer": 1
   },
   {
-    "q": "Sample nutrition question 88?",
+    "q": "Which of these is a potential consequence of a diet chronically low in calcium?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Increased risk of osteoporosis",
+      "Improved nerve function",
+      "Lower blood pressure",
+      "Increased muscle mass"
     ],
     "answer": 0
   },
   {
-    "q": "Sample nutrition question 89?",
+    "q": "What is the main function of the stomach in digestion?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 90?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Absorb most nutrients",
+      "Produce bile",
+      "Churn food and mix it with gastric juices",
+      "Produce insulin"
     ],
     "answer": 2
   },
   {
-    "q": "Sample nutrition question 91?",
+    "q": "Which of the following is a characteristic of an essential amino acid?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "It can be synthesized by the body.",
+      "It must be obtained from the diet.",
+      "It is only found in plant foods.",
+      "It is not used for building protein."
     ],
-    "answer": 3
+    "answer": 1
   },
   {
-    "q": "Sample nutrition question 92?",
+    "q": "What is the term for the maximum amount of a nutrient that is unlikely to cause adverse effects?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Recommended Dietary Allowance (RDA)",
+      "Adequate Intake (AI)",
+      "Tolerable Upper Intake Level (UL)",
+      "Estimated Average Requirement (EAR)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a good dietary source of selenium?",
+    "choices": [
+      "Brazil nuts",
+      "Oranges",
+      "Chicken breast (without skin)",
+      "White rice"
     ],
     "answer": 0
   },
   {
-    "q": "Sample nutrition question 93?",
+    "q": "What is the primary goal of nutrition education?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "To promote dependency on supplements",
+      "To empower individuals to make informed food choices",
+      "To enforce a single, rigid diet plan",
+      "To eliminate all cultural foods"
     ],
     "answer": 1
   },
   {
-    "q": "Sample nutrition question 94?",
+    "q": "Which hormone, released by the small intestine, stimulates the release of bicarbonate from the pancreas?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Gastrin",
+      "Secretin",
+      "Ghrelin",
+      "Leptin"
     ],
-    "answer": 2
+    "answer": 1
   },
   {
-    "q": "Sample nutrition question 95?",
+    "q": "What is the main nutritional difference between brown rice and white rice?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 96?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Brown rice has more fiber and B vitamins.",
+      "White rice has more phytochemicals.",
+      "Brown rice has fewer calories.",
+      "There is no significant difference."
     ],
     "answer": 0
   },
   {
-    "q": "Sample nutrition question 97?",
+    "q": "Which of the following is a potential benefit of regular physical activity?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 98?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Increased insulin resistance",
+      "Decreased HDL cholesterol",
+      "Improved cardiovascular health",
+      "Increased risk of Type 2 Diabetes"
     ],
     "answer": 2
   },
   {
-    "q": "Sample nutrition question 99?",
+    "q": "What is the term for the state of being in energy balance?",
     "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 100?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 101?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 102?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+      "Positive energy balance",
+      "Negative energy balance",
+      "Energy equilibrium",
+      "Metabolic advantage"
     ],
     "answer": 2
   },
   {
-    "q": "Sample nutrition question 103?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 104?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 105?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 106?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 107?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 108?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 109?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 110?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 111?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 112?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 113?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 114?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 115?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 116?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 117?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 118?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 119?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 120?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 121?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 122?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 123?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 124?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 125?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 126?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 127?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 128?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 129?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 130?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 131?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 132?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 133?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 134?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 135?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 136?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 137?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 138?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 139?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 140?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 141?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 142?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 143?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 144?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 145?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 146?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 147?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 148?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 149?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 150?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 151?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 152?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 153?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 154?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 155?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 156?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 157?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 158?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 159?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 160?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 161?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 162?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 163?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 164?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 165?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 166?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 167?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 168?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 169?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 170?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 171?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 172?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 173?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 174?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 175?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 176?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 177?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 178?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 179?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 180?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 181?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 182?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 183?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 184?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 185?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 186?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 187?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 188?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 189?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 190?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 191?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 192?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 193?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 194?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 195?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 196?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Sample nutrition question 197?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "Sample nutrition question 198?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Sample nutrition question 199?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Sample nutrition question 200?",
-    "choices": [
-      "Choice A",
-      "Choice B",
-      "Choice C",
-      "Choice D"
+    "q": "Which vitamin is important for the metabolism of carbohydrates and branched-chain amino acids?",
+    "choices": [
+      "Thiamine (B1)",
+      "Riboflavin (B2)",
+      "Biotin (B7)",
+      "Vitamin B12"
     ],
     "answer": 0
   }

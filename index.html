@@ -486,16 +486,28 @@
       loadNav();
     }
 
+    let currentResultPage = 0;
+    const RESULTS_PER_PAGE = 50;
+
     function submitExam() {
       clearInterval(timerInterval);
       let score = 0;
-      const area = document.getElementById("questionArea");
       
       questions.forEach((q, i) => {
         if (answers[i] === q.answer) score++;
       });
       
+      currentResultPage = 0;
+      showResultPage(score);
+      document.querySelector('.sidebar').style.display = 'none';
+    }
+
+    function showResultPage(score) {
+      const area = document.getElementById("questionArea");
       const percentage = Math.round((score / questions.length) * 100);
+      const totalPages = Math.ceil(questions.length / RESULTS_PER_PAGE);
+      const startIdx = currentResultPage * RESULTS_PER_PAGE;
+      const endIdx = Math.min(startIdx + RESULTS_PER_PAGE, questions.length);
       
       area.innerHTML = `
         <div class="result-summary">
@@ -503,9 +515,28 @@
           <div class="score">${score}/${questions.length}</div>
           <p style="font-size: 20px;">${percentage}% Correct</p>
         </div>
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; padding: 16px; background: #f3f4f6; border-radius: 12px;">
+          <div style="font-weight: 600; color: #6b7280;">
+            Showing ${startIdx + 1}-${endIdx} of ${questions.length} questions
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <button onclick="changePage(-1)" ${currentResultPage === 0 ? 'disabled' : ''} 
+              style="padding: 8px 16px; border: none; border-radius: 8px; background: ${currentResultPage === 0 ? '#e5e7eb' : '#667eea'}; color: ${currentResultPage === 0 ? '#9ca3af' : 'white'}; cursor: ${currentResultPage === 0 ? 'not-allowed' : 'pointer'}; font-weight: 600;">
+              ← Previous
+            </button>
+            <div style="padding: 8px 16px; background: white; border-radius: 8px; font-weight: 600;">
+              Page ${currentResultPage + 1} of ${totalPages}
+            </div>
+            <button onclick="changePage(1)" ${currentResultPage === totalPages - 1 ? 'disabled' : ''} 
+              style="padding: 8px 16px; border: none; border-radius: 8px; background: ${currentResultPage === totalPages - 1 ? '#e5e7eb' : '#667eea'}; color: ${currentResultPage === totalPages - 1 ? '#9ca3af' : 'white'}; cursor: ${currentResultPage === totalPages - 1 ? 'not-allowed' : 'pointer'}; font-weight: 600;">
+              Next →
+            </button>
+          </div>
+        </div>
       `;
       
-      questions.forEach((q, i) => {
+      for (let i = startIdx; i < endIdx; i++) {
+        const q = questions[i];
         const div = document.createElement("div");
         div.className = `review-item ${answers[i] === q.answer ? "correct" : "incorrect"}`;
         div.innerHTML = `<div style="font-weight: 600; margin-bottom: 12px;">${i + 1}. ${q.q}</div>`;
@@ -520,9 +551,17 @@
           div.innerHTML += `<div class="answer-badge incorrect">✗ Incorrect - Correct: ${q.choices[q.answer]}</div>`;
         }
         area.appendChild(div);
+      }
+    }
+
+    function changePage(direction) {
+      currentResultPage += direction;
+      let score = 0;
+      questions.forEach((q, i) => {
+        if (answers[i] === q.answer) score++;
       });
-      
-      document.querySelector('.sidebar').style.display = 'none';
+      showResultPage(score);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     }
   </script>
 </body>
