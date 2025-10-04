@@ -1,0 +1,2002 @@
+[
+  {
+    "q": "You need to decide which questionnaire to use with your research project about teens making healthier choices at fast food restaurants. When you consider if the tool will clearly measure your research subjects' change in behavior, which type of validity are you evaluating?",
+    "choices": [
+      "Construct validity",
+      "Content validity",
+      "Face validity",
+      "Criterion validity"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Children's diets are sometimes found to be inadequate in iron due to excessive intake of:",
+    "choices": [
+      "Milk",
+      "Protein",
+      "Applesauce",
+      "Enriched cereals"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In which trimester of gestation is folate supplementation most important?",
+    "choices": [
+      "Lactation",
+      "1st trimester",
+      "3rd trimester",
+      "2nd trimester"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a disadvantage of the lecture-style format?",
+    "choices": [
+      "Not effective for large groups",
+      "Difficult to provide complex information in a logical way",
+      "Time-consuming",
+      "Passive learning"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In a 2007 study, 115 of the 260 men had diabetes and 75 of the 115 diabetic men died during the ten-year follow-up period. Calculate the morbidity rate for these men.",
+    "choices": [
+      "32.71%",
+      "44.23%",
+      "28.85%",
+      "65.21%"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A community needs assessment includes all of the following processes except:",
+    "choices": [
+      "Identifying places where nutritional needs are not being met",
+      "Studying the distribution and determinants of health-related states in specific populations",
+      "Identifying gaps and barriers to services",
+      "Determining what the community's health needs are"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "On average, how do energy needs change in adults?",
+    "choices": [
+      "Decrease by 10% every 20 years",
+      "Increase to 1.0-1.2 grams of protein/kg",
+      "Increase by 1% per year",
+      "Decrease by 3% per decade"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following learning activities is least likely to be meaningful to preschool children?",
+    "choices": [
+      "Playing with food models of fruits",
+      "Learning how to wash fruit before eating it",
+      "Identifying which foods in a basket are fruits",
+      "Completing a self-assessment of fruit intake"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The following are nutrition-specific programs except:",
+    "choices": [
+      "National Dietary Supplementation Program",
+      "Philippine Integrated Management of Acute Malnutrition",
+      "Infant and Young Feeding",
+      "National Immunization Program"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "It is defined as the nutrition services that are part of emergency preparedness, response and recovery to prevent deterioration of nutritional status and death.",
+    "choices": [
+      "Capacity Building",
+      "Nutrition Emergency",
+      "Nutrition Cluster Response",
+      "Nutrition in Emergencies"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "It refers to the decision-making process of identifying nutrition problems and needs of a specific population group, analyzing possible ways of preventing and controlling malnutrition, allocating resources based on needs and expectations, and taking deliberate action to address nutritional problems, including those related to monitoring and evaluation.",
+    "choices": [
+      "Nutrition Program Management",
+      "Philippine Plan of Action",
+      "Nutrition Assessment",
+      "Nutrition Policy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The following statements are true, except:",
+    "choices": [
+      "Nutritional needs of people vary according to age, gender, health status, physiological, and physical activity.",
+      "Among children, growth failure is most common between 6-24 months of age.",
+      "The unnecessary conditions for food and nutrition security are access to food, adequate care of children and women, access to basic health services, and a healthy environment.",
+      "Undernutrition in the early years of life results in poor resistance to infections leading to frequent illness, and in some severe case death."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "It is the transformation of governments political priorities and principles into program and courses of action to deliver desired changes.",
+    "choices": [
+      "Plan",
+      "Policy",
+      "Program",
+      "Project"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Hidden hunger refers to:",
+    "choices": [
+      "Overnutrition",
+      "Undernutrition",
+      "Imbalanced Nutrition",
+      "Micronutrient deficiency"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a primary factor that influences nutritional status?",
+    "choices": [
+      "Lack of appetite",
+      "Limited food supply",
+      "Poor absorption",
+      "Frequent incidence of diarrhea"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "This is concerned with the application of nutrition to promote health and prevent diseases at the population level:",
+    "choices": [
+      "Clinical dietetics",
+      "Foodservice",
+      "Community nutrition",
+      "Geriatric nutrition"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The Nutrition and Dietetics Law of 2016 is:",
+    "choices": [
+      "RA 10682",
+      "RA 10862",
+      "RA 10628",
+      "RA 10688"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The source of protein represented by the Pinggang Pinoy:",
+    "choices": [
+      "Fish",
+      "Eggs",
+      "Red meat",
+      "Poultry"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "This type of study involves feeding experimental subjects w/ a diet devoid of a nutrient to see if deficiency disorders would develop and then the nutrient is added back to the diet to confirm whether that nutrient resolves the problem:",
+    "choices": [
+      "Balance studies",
+      "Depletion-repletion studies",
+      "Cellular studies",
+      "Case-control"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "According to the Pinggang Pinoy, what group of food should be consumed in the largest amount?",
+    "choices": [
+      "Go foods",
+      "Grow foods",
+      "Glow foods",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When is complementary feeding recommended?",
+    "choices": [
+      "6-12 months",
+      "0-12 months",
+      "0-6 months",
+      ">12 months"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kumainment number 8 signifies what principle?",
+    "choices": [
+      "Moderation",
+      "Variety",
+      "Balance",
+      "Exclusive breastfeeding"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The consumption of what nutrient is emphasized by the Kumainment number 7:",
+    "choices": [
+      "Calcium",
+      "Protein",
+      "Iodine",
+      "Vitamin D"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which nutrient is needed more by females of reproductive age?",
+    "choices": [
+      "Zinc",
+      "Vitamin A",
+      "Protein",
+      "Iron"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The RNI/day for dietary fiber:",
+    "choices": [
+      "15-20 g",
+      "25-30 g",
+      "20-25 g",
+      "30-35 g"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Compute the calcium content of a cup of cooked malamagay based on the FCT value of 96 mg:",
+    "choices": [
+      "13.05 mg",
+      "43.2 mg",
+      "38.4 mg",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the % PDRI-RNI for a person's (F, 19-29 yrs) actual intake of vitamin A of 450 mcg RE?",
+    "choices": [
+      "133.33%",
+      "75%",
+      "450%",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "How many calories do vegetables not found in the same group of Saluyot contain per exchange?",
+    "choices": [
+      "0 kcal",
+      "16 kcal",
+      "32 kcal",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "1.5 cups of cooked white rice contains how many calories?",
+    "choices": [
+      "100 kcal",
+      "200 kcal",
+      "300 kcal",
+      "400 kcal"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A cup of cooked white rice weighs around:",
+    "choices": [
+      "80 g",
+      "120 g",
+      "160 g",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Food with more calories and less micronutrients are more nutrient-dense. Vegetables are usually more nutrient-dense than high-sugar food.",
+    "choices": [
+      "Only the first statement is correct.",
+      "Only the second statement is correct.",
+      "Both statements are correct.",
+      "Both statements and false."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Consider the following information: Banana latundan: AP = 55 g; EP = 40 g; %EP = 72.73%. Which of the following is correct?",
+    "choices": [
+      "72.73% of the banana latundan is inedible",
+      "The AP is the amount of the banana latundan that can be eaten",
+      "The EP is the amount of banana latundan including its peel",
+      "27.27% of the banana latundan is the peel"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "According to present day growth charts, an infant will double its birth weight at about ______ months of age and will triple its birth weight at about ______ months.",
+    "choices": [
+      "4 to 6; 12",
+      "2 to 3; 6",
+      "10; 12 to 18",
+      "12; 18"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "By the age of ______ years, body water levels are similar to those of adults.",
+    "choices": [
+      "2 to 3",
+      "5 to 6",
+      "8 to 9",
+      "11 to 13"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which is a good indicator of recent nutritional status for children?",
+    "choices": [
+      "stature-for-age",
+      "weight-for-height",
+      "head circumference-for-age",
+      "All of these"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "High-protein diets are not good for infants",
+    "choices": [
+      "unless they are highly digestible proteins.",
+      "because they are hypoallergenic.",
+      "because the infant's kidneys cannot clear large amounts of urea every day.",
+      "All of these choices are accurate."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Why do infants have a greater need for water than older humans?",
+    "choices": [
+      "Infants have a high body surface area",
+      "Infants have a greater proportion of body water",
+      "Infants have higher metabolic rate",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The amount of energy that must be coming from complementary foods for 6-8 m/o:",
+    "choices": [
+      "200 kcal",
+      "300 kcal",
+      "550 kcal",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "This is characterized by what is fed, and how, when, where, and by whom the child is fed",
+    "choices": [
+      "Ever-breastfeeding",
+      "Complementary feeding",
+      "Responsive feeding",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Foods most appropriate beginning at 6 months",
+    "choices": [
+      "Finger foods",
+      "Family foods",
+      "Pureed, mashed, and semi-solid foods",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Minimum meal frequency of complementary feeding for 9-11 months:",
+    "choices": [
+      "4-5 times",
+      "5-6 times",
+      "3-4 times",
+      "2-3 times"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Minimum energy density of complementary foods:",
+    "choices": [
+      "0.7 kcal/g",
+      "0.8 kcal/g",
+      "0.9 kcal/g",
+      "1.0 kcal/g"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Gastric capacity of of an 8-kg infant:",
+    "choices": [
+      "240 g",
+      "300 g",
+      "200 g",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tea and coffee are discouraged to serve for infants because they lower the absorption of:",
+    "choices": [
+      "iron",
+      "vitamin A",
+      "vitamin B6",
+      "all of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "This is the TER of an 4-month old infant weighing 5.5 kg:",
+    "choices": [
+      "539 kcal",
+      "626 kcal",
+      "479 kcal",
+      "594 kcal"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The RNI for zinc for 0-5 months old infant:",
+    "choices": [
+      "2 mg",
+      "2 mcg",
+      "4.2 mcg",
+      "4.2 mg"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Low weight-for-height is considered:",
+    "choices": [
+      "Underweight",
+      "Stunted",
+      "Wasting",
+      "Chronically malnourished"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "When can babies usually self-feed using their fingers?",
+    "choices": [
+      "10-11 months",
+      "8-11 months",
+      "5-9 months",
+      "4-6 months"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is not a hunger cue?",
+    "choices": [
+      "Seals lips together",
+      "Cries or fusses",
+      "Cooing",
+      "Sucks on fist"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "This is a specialty infant formula indicated for infants with MSUD:",
+    "choices": [
+      "Formula without aromatic amino acids",
+      "Formula without branched-chain amino acids",
+      "Formula without ketogenic amino acids",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The RA 10028 is an update of what law?",
+    "choices": [
+      "EO 234",
+      "RA 7883",
+      "RA 8435",
+      "RA 7600"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Newborn Screening is mandated by:",
+    "choices": [
+      "RA 8892",
+      "RA 8982",
+      "RA 9288",
+      "RA 9882"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Rate of growth in height during middle to late childhood:",
+    "choices": [
+      "1-2 inches per year",
+      "2-2.5 inches per year",
+      "2.5-3 inches per year",
+      "4 inches per year"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which micronutrient is added in oral rehydrating solutions to manage diarrhea?",
+    "choices": [
+      "Iron",
+      "Vitamin A",
+      "Zinc",
+      "Vitamin C"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Growth and development patterns seen during early childhood, except:",
+    "choices": [
+      "Increase in body fat",
+      "More muscles and bones for boys",
+      "Girls are slightly shorter than boys",
+      "Growth is concentrated in trunks and legs"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The Ideal Body Weight of infants over six months is computed as: birth weight in grams + age in months x ____.",
+    "choices": [
+      "550",
+      "600",
+      "500",
+      "650"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Fluid requirement of infants can be computed through: _____ x IBW per day.",
+    "choices": [
+      "185 ml",
+      "200 mL",
+      "90 mL",
+      "75 mL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "When a bottle is given after the breast to complete a feeding:",
+    "choices": [
+      "Supplemental feeding",
+      "Artificial feeding",
+      "Bottle feeding",
+      "Complemental feeding"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A baby weighing around 3000 g at birth is expected to be weighing around _____ at 1 year old.",
+    "choices": [
+      "9 kg",
+      "6 kg",
+      "7.5 kg",
+      "12 kg"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aside from arginine, what other amino acid may be considered a conditionally essential for premature infants?",
+    "choices": [
+      "Alanine",
+      "Glutamine",
+      "Cysteine",
+      "Glutamic acid"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A feeding problem seen when the child lingers or dilly-dallies:",
+    "choices": [
+      "Food jagging",
+      "Gagging",
+      "Dawdling",
+      "Bingeing"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Most common intestinal parasite in young children:",
+    "choices": [
+      "Trichinella spiralis",
+      "Ascariasis lumbricoides",
+      "T. solium",
+      "E. hystolitica"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Dose of iron supplementation for infants and young children per day:",
+    "choices": [
+      "20 mg",
+      "30 mg",
+      "35 mg",
+      "40 mg"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "This nutrient is especially important in mental development and metabolism:",
+    "choices": [
+      "Calcium",
+      "Iron",
+      "Iodine",
+      "Zinc"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Permanent teeth is usually complete at:",
+    "choices": [
+      "10 yrs",
+      "12 yrs",
+      "9 yrs",
+      "8 yrs"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The OPT involves measuring",
+    "choices": [
+      "Weight for age",
+      "Weight for height",
+      "Height for age",
+      "Both weight and height for age"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "An appropriate intervention for severely malnourished children is",
+    "choices": [
+      "Nutrition education of mother",
+      "Supplementary feeding",
+      "Health protection",
+      "Food discount"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "For both children and adults, the cut-off point for severe underweight in relation to reference standards is",
+    "choices": [
+      "50%",
+      "60%",
+      "70%",
+      "80%"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "When weight for height is normal but height for age is low, the condition is classified as",
+    "choices": [
+      "Still normal",
+      "Acute malnutrition",
+      "Chronic malnutrition",
+      "Simple stunting"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Dietary surveys are most useful in describing NS when combined with a",
+    "choices": [
+      "Clinical survey",
+      "Ecological survey",
+      "Anthropologic survey",
+      "Food cost survey"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A good survey sample is one in which",
+    "choices": [
+      "The entire population to be studied is included",
+      "All the characteristics of the population are represented proportionately",
+      "The subjects are willing volunteers",
+      "The subjects are homogenous"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The additional amount of protein per day recommended for pregnancy is",
+    "choices": [
+      "3 g",
+      "5 g",
+      "7 g",
+      "9 g"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A desirable weight gain during pregnancy is about",
+    "choices": [
+      "5 kg",
+      "10 kg",
+      "15 kg",
+      "20 kg"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Food consumption data collection method used in the FNRI surveys",
+    "choices": [
+      "Food record",
+      "Combination of household food weighing and individual recall",
+      "48 hour recall",
+      "Chemical analysis"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sampling method used in the FNRI national nutrition surveys",
+    "choices": [
+      "Random sampling",
+      "Purposive sampling",
+      "Stratified, multi-stage sampling",
+      "Cluster sampling"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Food consumption data obtained in the FNRI surveys are evaluated by",
+    "choices": [
+      "Chemical analysis",
+      "Computing nutrient value using FCT",
+      "Computing frequency of consumption of specific foods",
+      "Computing nutrient value using FEL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In the FNRI surveys, food and nutrient intakes are expressed in",
+    "choices": [
+      "Per household per day",
+      "Per household per year",
+      "Per capita per day",
+      "Per capita per week"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Primary concern of Public Health Nutrition",
+    "choices": [
+      "Malnutrition prevention",
+      "Nutrition rehabilitation",
+      "Prevention and treatment of malnutrition",
+      "Program planning and implementation"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following indicates the existence of VAS (based on serum Vitamin A status) as a public health problem in the community?",
+    "choices": [
+      "A prevalence of 1% for 'deficient' serum levels and 5% of low serum levels",
+      "A prevalence of 5% for 'deficient' serum levels and 10% of low serum levels",
+      "A prevalence of 10% for 'deficient' serum levels and 15% of low serum levels",
+      "A prevalence of 15% for 'deficient' serum levels and 20% of low serum levels"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The executive order which embodies the transfer of the National Nutrition Council from the DA to DOH.",
+    "choices": [
+      "EO 472",
+      "EO 352",
+      "EO 452",
+      "EO 372"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Approximately how many kilocalories does a mature milk contain?",
+    "choices": [
+      "57 kcal/100 ml",
+      "75 kcal/100 ml",
+      "87 kcal/100 ml",
+      "95 kcal/100 ml"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Most cost-effective intervention to reduce micronutrient deficiency:",
+    "choices": [
+      "Micronutrient Supplementation",
+      "Food Fortification",
+      "Food Production",
+      "WASH"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following law provide the guidelines on micronutrient fortification of pre-packaged food products?",
+    "choices": [
+      "RA 8976",
+      "RA 7394",
+      "DOH AO No. 4-A s.1995",
+      "DOH Department Circular No. 2008-0006"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following child achieved the minimum acceptable diet?",
+    "choices": [
+      "Barry, 7 months old, non-breastfeed, minimum meal frequency of 3, and minimum dietary diversity of 4",
+      "Hanna, 10 months old, non-breastfeed, minimum meal frequency of 4, and minimum dietary diversity of 4",
+      "Dan, 8 months old, breastfeed, minimum meal frequency of 2, and minimum dietary diversity of 3",
+      "Laura, 6 month old, exclusively breastfeed"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The law which stipulates that every village should have a Barangay Nutrition Scholar:",
+    "choices": [
+      "PD 1569",
+      "RA 1569",
+      "EO 1569",
+      "Presidential Act 1569"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The classic nutrition contains around 400 kcal/piece. During the COVID-19 pandemic, the Philippine government revived the production of nutrition, now called as enhanced nutrition or e-nutribun, which now contains around ______.",
+    "choices": [
+      "The same amount of energy as the classic one",
+      "500 kcal",
+      "600 kcal",
+      "450 kcal"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The Nutrition Center of the Philippines (NCP) implemented the Nutri-Bus project, which aimed in bringing about behavioural change in mothers' child-feeding practices and ameliorating infant malnutrition. Under this project is distribution of the product called 'Nutri-Pak,' which contained rice, mung bean, powdered milk and ______.",
+    "choices": [
+      "Dried anchovies powder",
+      "Coconut oil",
+      "Mashed squash",
+      "Mashed sweet potatoes"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The PPAN 2017-2022 contains how many programs?",
+    "choices": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "One of the goals of the PPAN 2017-2022 is to achieve the ______, which is the Philippines' long-term vision of a prosperous, predominantly middle-class society where no one is poor, where the people shall live long and healthy lives.",
+    "choices": [
+      "Ambisyon 2040",
+      "Duterte 10-point Economic Agenda",
+      "DOH Health for All Agenda",
+      "Malasaki, Pagbabago, Kaunlaran program"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The underlying causes of malnutrition based from WHO conceptual framework of malnutrition occur at ______ level.",
+    "choices": [
+      "Individual",
+      "Family/Household",
+      "Societal",
+      "National"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT an outcome target of the PPAN 2017-2022?",
+    "choices": [
+      "To reduce the proportion of nutritionally-at-risk pregnant women",
+      "To reduce levels of child stunting and wasting",
+      "To achieve no increase in overweight among children",
+      "To reduce overweight among adolescents and adults"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How many sub-outcome or intermediate outcome targets does the PPAN 2017-2022 have?",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which PPAN 2017-2022 strategic thrust deals with enabling programs?",
+    "choices": [
+      "Focus on the first 1000 days of life",
+      "Complementation of nutrition-specific and nutrition-sensitive programs.",
+      "Intensified mobilization of local government units.",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The SALINTUBIG is one of the nutrition-sensitive projects under the PPAN 2017-2022. This deals with what:",
+    "choices": [
+      "Iodine deficiency",
+      "WaSH",
+      "Family Planning",
+      "Enhanced Farm-Market Roads"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The Mandanas Ruling, which involves devolution of nutrition services to grassroot LGUs, is also called:",
+    "choices": [
+      "EO 138",
+      "EO 139",
+      "PD 138",
+      "PD 139"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Monitoring and Evaluation is Phase ___ of the NPM Cycle.",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In NPM, which is the nutrition plan?",
+    "choices": [
+      "PPAN",
+      "LNAP",
+      "SGDs",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "This involves service delivery:",
+    "choices": [
+      "Annual Investment Plan",
+      "Comprehensive Land Use Plan",
+      "Citizen Charter",
+      "Appropriation Ordinance"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The consequences of the nutrition problem identified from community situational analysis are put on the ___ of the modified problem tree.",
+    "choices": [
+      "top",
+      "next level below the problem",
+      "bottom",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "This is a statement of the desired change in the underlying and basic causes of malnutrition:",
+    "choices": [
+      "Goal",
+      "Outcome objective",
+      "Output objective",
+      "Activity objective"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The most rigorous evaluation of a dietary hypothesis is the",
+    "choices": [
+      "case-control study.",
+      "randomized controlled trial.",
+      "cohort study.",
+      "cross-sectional study."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A single 24-hour dietary recall",
+    "choices": [
+      "is often considered the best method of assessing dietary intake.",
+      "uses a questionnaire including all important population-specific food sources of the nutrients under investigation.",
+      "requires the subject to make judgments about their usual food habits.",
+      "may not give an adequate picture of a specific individual's usual intake."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which is not a measure of central tendency?",
+    "choices": [
+      "Mean",
+      "Average",
+      "Mode",
+      "Frequency"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "During emergencies, the food provided (either in cooked or dry-ration form) should contain 100% of the PDRI for calories and protein, and at least ___ percent of vitamins A, B1, B2, niacin, iron, and calcium.",
+    "choices": [
+      "80",
+      "75",
+      "85",
+      "90"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Severe acute malnutrition is diagnosed when the MUAC is < ____ mm.",
+    "choices": [
+      "110",
+      "115",
+      "120",
+      "125"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The in-patient therapeutic care of children with SAM involves several phases. During the 1st phase, what RUTF is given?",
+    "choices": [
+      "F75",
+      "F100",
+      "Plumpy Nut",
+      "Any of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Complementary foods should especially be rich in _____.",
+    "choices": [
+      "Iron and vitamin A",
+      "Calcium and iron",
+      "Calcium and vitamin A",
+      "Vitamin K and Vitamin D"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A process of helping and guiding the local nutrition officers to help them become motivated and competent in their work, thus achieving efficient and effective work performance.",
+    "choices": [
+      "Coordination",
+      "Capacity development",
+      "Supervision",
+      "Training"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "It is recommended that re-planning for AIP Year 2 should be done in the:",
+    "choices": [
+      "1st Quarter of the Year",
+      "2nd Quarter of the Year",
+      "3rd Quarter of the Year",
+      "4th Quarter of the Year"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A nutrition intervention which provides food (e.g., rice) as payment for services.",
+    "choices": [
+      "Income generating project",
+      "Livelihood assistance",
+      "Food subsidy",
+      "Food for work"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following questions is answered by monitoring?",
+    "choices": [
+      "Were the needs met?",
+      "What is the level of participation of various stakeholders?",
+      "Were the intervention strategies appropriate to the target population?",
+      "Was the program appropriate for the identified problem?"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "This results from a long standing intake of a diet that is inadequate in energy to sustain optimal growth and physical activity.",
+    "choices": [
+      "Chronic Energy Deficiency",
+      "Severe Acute Malnutrition",
+      "Severe Chronic Malnutrition",
+      "Marasmus"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "It seeks to foster an adequate and balanced diet as well as desirable food and nutrition practices and healthy habits suitable for the general population.",
+    "choices": [
+      "Nutrition Guidelines for Filipinos",
+      "Nutrition laws and policies",
+      "Nutrition labeling",
+      "Nutrition education"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Involves tapping or seeking support from the national and local budget offices, government offices, business sector and NGOs to facilitate the implementation of nutrition interventions.",
+    "choices": [
+      "Social mobilization",
+      "Lobbying",
+      "Resource generation",
+      "Livelihood assistance"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A condition in which people do not get enough food to provide the nutrients for fully productive, active and healthy lives.",
+    "choices": [
+      "Hunger",
+      "Food insecurity",
+      "Low food intake",
+      "Low purchasing power"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Poor knowledge on nutrition due to limited education is a ______ cause of undernutrition.",
+    "choices": [
+      "Immediate",
+      "Underlying",
+      "Basic",
+      "All of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aims to provide additional source of income to the family which could result to increased purchase and consumption of food.",
+    "choices": [
+      "Resource generation",
+      "Income Generating Projects",
+      "Financial assistance",
+      "Micro-credit"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ of foods is ensured when all households and all individuals within those households have sufficient resources to obtain appropriate foods for a nutritious diet.",
+    "choices": [
+      "Availability",
+      "Access",
+      "Acceptable",
+      "Good Nutritional Status"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A method of delivering goods and/or services to a selected group of individuals or households rather than to every individual or household in the population.",
+    "choices": [
+      "Intervention",
+      "Targeting",
+      "Program setting",
+      "Project selection"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The process of developing low-bulk, highly nutritious foods with desired nutritional and sensory attributes for the nutritionally at risk groups that include preschool children, pregnant and lactating women.",
+    "choices": [
+      "Food fortification",
+      "Supplementary feeding",
+      "Food formulation",
+      "Food preservation"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Refers to the intermediate effects, often behavioral, resulting directly from project outputs that may be necessary to achieve a desired impact.",
+    "choices": [
+      "Input indicators",
+      "Output indicators",
+      "Outcome indicators",
+      "Impact indicators"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following considerations involves social sustainability?",
+    "choices": [
+      "Nutrition programs are acceptable to the clients/stakeholders",
+      "The organization has taken measures in order to sustain project outputs",
+      "Funding source is sufficient to carry out the necessary activities for the people",
+      "There is a mechanism to share the individual knowledge and skills among the staff"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A process whereby an individual influences a group to achieve a common goal and relating with followers and making them charge.",
+    "choices": [
+      "Advocacy",
+      "Mobilization",
+      "Nutrition education",
+      "Leadership"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The extent to which results are consistent with objectives. Its assessment depends on both a clear definition of objectives and the availability of good indicators.",
+    "choices": [
+      "Efficiency",
+      "Effectiveness",
+      "Relevant",
+      "Feasibility"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The epidemiological criterion to consider that a certain community has nutritional anemia of high magnitude/level of public health significance:",
+    "choices": [
+      "At least 40%",
+      "At least 10%",
+      "At least 39%",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "SAM:",
+    "choices": [
+      "70-80% of the median weight-for-height",
+      "Between -3 and -2 Z-scores weight-for-height",
+      "Diagnosed only thru MUAC",
+      "None of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is not a common nutritional problem of adults?",
+    "choices": [
+      "VAD",
+      "IDA",
+      "Obesity",
+      "CED"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What medium to use for advocacy and nutrition education:",
+    "choices": [
+      "Design",
+      "Effect",
+      "Evaluation",
+      "Channel"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The smallest/most specific term in the hierarchy:",
+    "choices": [
+      "Nutrition program",
+      "Nutrition project",
+      "Nutrition plan",
+      "Nutrition activity"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The smallest action plan when it comes to scope:",
+    "choices": [
+      "BNAP",
+      "MNAP",
+      "RPAN",
+      "PNAP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The ultimate basis of all action plans in nutrition:",
+    "choices": [
+      "RDP",
+      "PPAN",
+      "RPAN",
+      "Philippine Development Plan"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The PM/C/BNAQ occupies what position in the local nutrition committee (LBC)?",
+    "choices": [
+      "Chairman",
+      "Vice Chairman",
+      "Secretary",
+      "Member"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In doing the NPM cycle, which written document is the ultimate output?",
+    "choices": [
+      "Situational analysis",
+      "Work plan",
+      "Local nutrition action plan",
+      "Nutrition intervention plan"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What comes next after mobilization of LNC?",
+    "choices": [
+      "Setting of goals and objectives",
+      "Preparation of work plan",
+      "Identification and prioritization of nutrition interventions",
+      "Situational analysis"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In the stages for the development of a nutritional deficiency, what comes in the 2nd spot?",
+    "choices": [
+      "Decreased level in body fluids",
+      "Decreased level in reserve tissue store",
+      "Dietary inadequacy",
+      "Decreased activity in nutrient-dependent enzymes"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "To answer the question on \"Where are the malnourished?\" in the situational analysis part, what are the possible sources?",
+    "choices": [
+      "Local health office",
+      "Local nutrition office",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In making the problem tree, which would be placed on the top?",
+    "choices": [
+      "Main problem",
+      "Immediate causes",
+      "Underlying causes",
+      "Consequences of the main problem"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The basis of setting the goal for a nutrition intervention program:",
+    "choices": [
+      "Main problem in the problem tree",
+      "Immediate causes in the problem tree",
+      "Underlying cause in the problem tree",
+      "Consequences of the main problem in the problem tree"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following nutrition problems whose rates increased from 2013 to 2015 according to the results of NNS?",
+    "choices": [
+      "Underweight",
+      "Stunting",
+      "Overweight",
+      "Only A and B"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "This is the percent prevalence of infants who were exclusively breastfed according to the results of the NNS 2018:",
+    "choices": [
+      "48.9",
+      "52.3",
+      "48.8",
+      "54.9"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "This is the Universal Health Care Act of 2019:",
+    "choices": [
+      "RA 11210",
+      "RA 11223",
+      "RA 11148",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "During early emergency periods, which type of foods should be prioritized to give to the victims?",
+    "choices": [
+      "Carbohydrate-rich",
+      "Protein-rich",
+      "Fat-rich",
+      "Fruits and vegetables"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The caloric requirement of infants diagnosed and admitted with SAM at the first phase:",
+    "choices": [
+      "90 kcal/kg/day",
+      "100 kcal/kg/day",
+      "120 kcal/kg/day",
+      "130 kcal/kg/day"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Criteria used for discharging infants and children after treating their SAM:",
+    "choices": [
+      "weight-for-height/length is ≥-2.2-score",
+      "mid-upper arm circumference is ≥125 mm",
+      "they have had no edema for at least 2 weeks",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is not used for the treatment of MAM?",
+    "choices": [
+      "RUTF",
+      "RUSF",
+      "Blended cereals",
+      "Locally prepared foods w/ MNP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Children assessed to have SAM but have no clinical conditions and did pass the appetite test are treated to:",
+    "choices": [
+      "In-patient care",
+      "Out-patient care",
+      "Procedures for MAM management",
+      "Both B and C"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The Rapid Nutrition Assessment Survey was done in:",
+    "choices": [
+      "2018",
+      "2019",
+      "2020",
+      "None of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The Expanded National Nutrition Survey started in:",
+    "choices": [
+      "2018",
+      "2019",
+      "2020",
+      "2015"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The index of iodine status used in NNS:",
+    "choices": [
+      "Dietary iodine intake",
+      "Thyroxine activity",
+      "Serum thyroxine level",
+      "Urinary Iodine excretion"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The trend of iron deficiency anemia among pregnant and lactating women ______ from 2013 to 2018.",
+    "choices": [
+      "increased",
+      "decreased",
+      "stayed the same",
+      "Additional data needed"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Immediate causes of malnutrition except:",
+    "choices": [
+      "presence of diarrhea",
+      "lack of variety of foods consumed",
+      "inadequate food intake",
+      "inadequate food supply in the community"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The chairperson of the local nutrition committee:",
+    "choices": [
+      "Director of NNC",
+      "Secretary of DOH",
+      "Congressman",
+      "Governor, Mayor/Brgy. Captain"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Used as a public health index of malnutrition:",
+    "choices": [
+      "morbidity rate",
+      "birth rate",
+      "1–4-year-old mortality rate",
+      "cause-specific mortality rate"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The right-hand person for matters about nutrition and nutrition programs at the municipal level:",
+    "choices": [
+      "BNS",
+      "Municipal mayor",
+      "Nutrition Action Officer",
+      "Nutrition Program Coordinator"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "It is the general index of undernutrition:",
+    "choices": [
+      "weight-for-height",
+      "height-for-age",
+      "weight-for-age",
+      "BMI"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A nutrition intervention which provides food (e.g., rice) as payment for services:",
+    "choices": [
+      "Income generating project",
+      "Livelihood assistance",
+      "Food subsidy",
+      "Food for work"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "This results from a long standing intake of a diet that is inadequate in energy to sustain optimal growth and physical activity in adults:",
+    "choices": [
+      "Chronic energy deficiency",
+      "Severe acute malnutrition",
+      "Moderate acute malnutrition",
+      "Marasmus"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Involves tapping or seeking support from the national and local budget offices, government agencies, business sector and NGOs to facilitate the implementation of nutrition interventions:",
+    "choices": [
+      "Social mobilization",
+      "Lobbying",
+      "Resource generation",
+      "Livelihood assistance"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Poor knowledge on nutrition due to limited education is a ______ cause of undernutrition.",
+    "choices": [
+      "Immediate",
+      "Underlying",
+      "Basic",
+      "All of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In PPAN 2017-2022, which of the following is not a significant nutritional problem among pregnant and lactating women?",
+    "choices": [
+      "VAD",
+      "IDD",
+      "IDA",
+      "PEM"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "According to the NNS 2013 results, the prevalence rate of 11.7% of iron deficiency anemia among women of reproductive age is considered ______ level of public health significance. --- Mild",
+    "choices": [
+      "Low",
+      "Moderate",
+      "High",
+      "Additional data needed"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In order to make F-75 therapeutic food formula from scratch as starter formula used during initial management of children with SAM, the following ingredients are needed to make a liter of the formula: 25 g dried skim milk (80 kcal), 70 g sugar (280 kcal), 35 g cereal flour (120 kcal), 30 g vegetable oil (270 kcal), 20 mL mineral mix and water to make total volume to 1000 mL. Given that one serving (100 mL) of this formula has 75 kcal, how many servings can you make from a liter of this formula?",
+    "choices": [
+      "7.5 servings",
+      "10 servings",
+      "5 servings",
+      "9 servings"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following follows the right order of hierarchy from general to specific?",
+    "choices": [
+      "Nutrition policy, nutrition program, nutrition plan, nutrition project, nutrition activities",
+      "Nutrition policy, nutrition plan, nutrition program, nutrition project, nutrition activities",
+      "Nutrition policy, nutrition plan, nutrition activities, nutrition project, nutrition program",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The steps in Nutrition Program Management (NPM) cycle in the right order includes:",
+    "choices": [
+      "(1) Action, activation, adjustment, (2) monitoring and evaluation, (3) plan, preparation and adoption, (4) re-planning",
+      "(1) Action, activation, adjustment, (2) re-planning, (3) plan, preparation and adoption, (4) monitoring and evaluation",
+      "(1) Plan, preparation and adoption (2) action, activation, adjustment (3) re-planning, (4) monitoring and evaluation",
+      "None of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "This is a tool by which an LGU annually manages and financially supports its 3–10-year sectoral plan and its Local Development Investment Program:",
+    "choices": [
+      "Annual Investment Plan",
+      "Executive-Legislative Agenda",
+      "Appropriation Ordinance",
+      "Comprehensive Local Development Plan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "This is a recommended dietary intake that is used as reference standards in population studies:",
+    "choices": [
+      "Recommended Nutrient Intake",
+      "Estimated Average Requirement",
+      "Adequate Intake",
+      "Upper Tolerable Limit Intake"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The number of grams of EP in an exchange of cooked vegetable according to the new FEL:",
+    "choices": [
+      "40 g",
+      "45 g",
+      "50 g",
+      "60 g"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The PDRI recommends how much potassium intake per day for adults?",
+    "choices": [
+      "2300 mg",
+      "3500 mg",
+      "3510 mg",
+      "4220 mg"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In a nutrigenetic study of the FNRI, it was found that those carriers of a risk allele (rs9939609) in the FTO gene have ______ tendency to overeat compared to individuals without that variation in their FTO gene:",
+    "choices": [
+      "higher",
+      "lower",
+      "equal",
+      "2-folds lower"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In a nutrigenetic study of the FNRI, carriers of C allele in the CDKN2A/2B gene negate the beneficial effects of ______ on glycemic parameters:",
+    "choices": [
+      "quinoa",
+      "adlay",
+      "brown rice",
+      "guava"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "An information-sharing type of activity that provides nutrition information to 10-12 participating mothers who are seated in a circular position:",
+    "choices": [
+      "TCP approach",
+      "Nutrition & Health Kiddie Class",
+      "Pabasa sa Nutrisyon",
+      "Busog Lusog: Ang Gabay sa Wastong Nutrisyon"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The last or the most advanced stage of nutrient deficiency is seen from:",
+    "choices": [
+      "Anthropometric assessment",
+      "Biochemical assessment",
+      "Clinical assessment",
+      "Dietary assessment"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The PD 1286 was replaced by this newest legislation:",
+    "choices": [
+      "RA 11148",
+      "RA 11121",
+      "RA 10543",
+      "RA 10862"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In the post war era, the specific treatment discovered for beriberi was:",
+    "choices": [
+      "tiki-tiki",
+      "rice bran",
+      "iodized oil",
+      "iron tablet"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "One of these is not a function of a community nutritionist:",
+    "choices": [
+      "assessor of nutritional problems",
+      "participation in both public and private sectors",
+      "implement nutrition programs",
+      "administer immunization activities"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The FNRI national nutrition surveys include clinical examination for",
+    "choices": [
+      "Anemia",
+      "Beriberi",
+      "Goiter",
+      "Scuny"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Vital statistics that can serve as indicators of nutritional status",
+    "choices": [
+      "Leading causes of death",
+      "All-cause mortality rates",
+      "Infant and child mortality rates",
+      "Food production data"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "When evaluating program impact, it is desirable to have a control group which consists of",
+    "choices": [
+      "Volunteers",
+      "Individuals included in the program",
+      "Individuals not included in the program",
+      "Implementors"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Data that predict directly or indirectly an individual’s or group’s NS are called",
+    "choices": [
+      "Parameters",
+      "Measurements",
+      "Indicators",
+      "Symptoms"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Child mortality rate from infectious diseases is an indicator of the NS of the community because",
+    "choices": [
+      "Infections directly cause malnutrition",
+      "Malnutrition directly causes malnutrition",
+      "Malnutrition aggravates infections which are otherwise treatable",
+      "Malnutrition and infections are synonymous"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In the Philippine Food and Nutrition Plan, food assistance is seen as",
+    "choices": [
+      "A permanent solution to malnutrition",
+      "An inexpensive approach to malnutrition",
+      "A preventive measure",
+      "An immediate but temporary measure to help those that are already malnourished"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Supplementary feeding programs of the DSWD target",
+    "choices": [
+      "All preschoolers in the community",
+      "Mildly, moderately and severely malnourished preschoolers",
+      "Moderately and severely malnourished preschoolers",
+      "School children"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Supplementary feeding may be",
+    "choices": [
+      "Center-based",
+      "Dry-ration",
+      "Only a is correct",
+      "Both a and b are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Intermediate indicators measure",
+    "choices": [
+      "Outcome of a project",
+      "Administrative performance",
+      "Total cost of project per child who improved",
+      "Results of the project"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The primary purpose of rooming-in is",
+    "choices": [
+      "Eliminate government expense for nurseries",
+      "Reduce number of nursing staff",
+      "Promote breast-feeding",
+      "Greater efficiency"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A distinctive feature of Mother and Baby Friendly Hospitals",
+    "choices": [
+      "Well-equipped nursery",
+      "Mental feeding for babies",
+      "Recreation facilities for mother and child",
+      "Rooming-in facilities"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A 15 % prevalence of anemia in pregnant women can be described as",
+    "choices": [
+      "normal",
+      "mild",
+      "moderate",
+      "severe public health problem"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Increased intake of ascorbic acid-rich foods is advised in the diet to enhance absorption of iron in",
+    "choices": [
+      "liver",
+      "rice",
+      "camote tops",
+      "root crops"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In children, the deleterious effects of iron deficiency cover",
+    "choices": [
+      "cognitive function",
+      "physical performance",
+      "psychomotor development",
+      "all of these"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Anemia in pregnancy may result to",
+    "choices": [
+      "congenital malformation",
+      "low birth weight",
+      "increased morbidity and mortality",
+      "all of these"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The Iron compound used locally for mass supplementation is in the form",
+    "choices": [
+      "ferric sulfide",
+      "ferrous sulfate",
+      "ferrous fumarate",
+      "none of these"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Universal supplementation of iron is recommended for",
+    "choices": [
+      "elderly",
+      "lactating women",
+      "preschool children",
+      "low birthweight infants"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Tubig-talino is a product containing",
+    "choices": [
+      "vitamin A",
+      "iron",
+      "energy",
+      "iodine"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The prevalence of goiter that depicts the severe magnitude of IDD",
+    "choices": [
+      "5 %",
+      "10 %",
+      "30%",
+      "40%"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The most cost-effective intervention to control IDD is",
+    "choices": [
+      "iodized salt",
+      "iodized oil",
+      "iodine capsule",
+      "water iodination"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In planning a nutrition program the first step involved is",
+    "choices": [
+      "situational analysis",
+      "setting target",
+      "setting priorities",
+      "determining the objectives"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Information about the people involves collecting information on",
+    "choices": [
+      "who are the malnourished",
+      "location of the malnourished",
+      "what type of deficiency exists",
+      "all of these"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The processes involved in the assessment of the problem aside from its identification and definition is the",
+    "choices": [
+      "analysis of the cause",
+      "analysis of resources",
+      "determining targets",
+      "all of these"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The process of grouping the population into different ecologic, demographic and socioeconomic characteristics by nutritional categories for designing interventions",
+    "choices": [
+      "nutritional classification",
+      "functional classification",
+      "functional assessment",
+      "none of these"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In field conditions where Operation Timbang is to be undertaken, the weighing scale often used is",
+    "choices": [
+      "salter scale",
+      "digital scale",
+      "infantometer",
+      "detecto platform scale"
+    ],
+    "answer": 0
+  }
+]
