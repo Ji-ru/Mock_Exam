@@ -15,7 +15,7 @@
       "gelling",
       "osmosis",
       "diffusion",
-      "retrograduation"
+      "retrogradation"
     ],
     "answer": 1
   },
@@ -790,14 +790,14 @@
     "answer": 0
   },
   {
-    "q": "Reduces are most associated with:",
+    "q": "Ketones are most associated with:",
     "choices": [
       "complex carbohydrates",
       "simple sugars",
       "fats",
       "amino acids"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
     "q": "Which best describes sorbitol and glucose?",
@@ -934,7 +934,7 @@
     "choices": [
       "shoulder",
       "neck",
-      "thicket",
+      "brisket",
       "near the backbone"
     ],
     "answer": 3

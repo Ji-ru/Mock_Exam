@@ -854,12 +854,18 @@
           }>
                     <span class="option-text">${c}</span>
                 `;
-          label.onclick = () => {
+          label.onclick = (e) => {
+            e.preventDefault();
+            const radio = label.querySelector('input[type="radio"]');
+            radio.checked = true;
+            answers[index] = parseInt(radio.value);
             document
               .querySelectorAll(".option-label")
               .forEach((l) => l.classList.remove("selected"));
             label.classList.add("selected");
+            loadNav();
           };
+
           opts.appendChild(label);
         });
         area.appendChild(opts);
